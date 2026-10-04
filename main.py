@@ -23,12 +23,9 @@ REFRESH_HOURS = int(os.getenv("REFRESH_HOURS", "24"))
 MAX_FIXTURES = int(os.getenv("MAX_FIXTURES", "60"))
 MONTHLY_BUDGET = int(os.getenv("MONTHLY_BUDGET", "235"))
 
-KEYWORDS = ["soccer", "tennis", "basketball"]
-EXCLUDE = ["table", "beach", "american"]
-GOOD = ("result", "moneyline", "money line", "winner", "to win")
-BAD = ("total", "half", "quarter", "set", "period", "map", "corner", "both",
-       "double", "draw no bet", "over", "under", "handicap", "spread", "odd",
-       "even", "point", "game", "goal", "score", "penalt", "card", "team", "exact")
+WANTED = {"soccer", "tennis", "basketball"}
+MAIN_NAMES = {"full time result", "match winner", "winner", "moneyline",
+              "money line", "match result"}
 
 OPEN_MIN, OPEN_MAX = 1.90, 2.50
 CUR_MIN, CUR_MAX = 1.60, 2.00
@@ -102,42 +99,38 @@ def notify(text):
 
 
 def is_main(m):
-    if m.get("playerProp") or m.get("period") != "fulltime":
+    if m.get("playerProp"):
         return False
     if (m.get("handicap") or 0) != 0 or m.get("marketLength") not in (2, 3):
         return False
-    name = (m.get("marketName") or "").lower()
-    if any(b in name for b in BAD):
-        return False
-    if (m.get("marketType") or "").lower() in ("1x2", "moneyline"):
-        return True
-    return any(g in name for g in GOOD)
+    return (m.get("marketName") or "").strip().lower() in MAIN_NAMES
 
 
 def load_meta():
     if STATE["meta"].get("markets") and STATE["meta"].get("sports"):
         return
-    wanted = {}
-    for s in call("/sports"):
-        text = f'{s.get("slug", "")} {s.get("sportName", "")}'.lower()
-        if any(k in text for k in KEYWORDS) and not any(x in text for x in EXCLUDE):
-            wanted[str(s["sportId"])] = s["sportName"]
+    wanted = {str(s["sportId"]): s["sportName"] for s in call("/sports")
+              if (s.get("sportName") or "").strip().lower() in WANTED}
     markets = call("/markets")
-    mk = {}
+    cands = {}
     for m in markets:
         sid = str(m.get("sportId"))
         if sid in wanted and is_main(m):
+            cands.setdefault(sid, []).append(m)
+    mk = {}
+    for sid, lst in cands.items():
+        full = [m for m in lst if m.get("period") == "fulltime"]
+        for m in (full or lst):
             mk.setdefault(sid, {})[str(m["marketId"])] = {
                 str(o["outcomeId"]): o["outcomeName"] for o in m["outcomes"]}
     for sid, name in wanted.items():
         if sid in mk:
             print(f"{name} : marchés retenus {list(mk[sid])}")
         else:
-            cands = [f'{m["marketId"]}:{m["marketName"]}({m.get("marketType")})'
-                     for m in markets
-                     if str(m.get("sportId")) == sid and m.get("period") == "fulltime"
-                     and (m.get("handicap") or 0) == 0][:12]
-            print(f"ATTENTION {name} : aucun marché principal trouvé. Candidats : {cands}")
+            seen = [f'{m["marketId"]}:{m["marketName"]}/{m.get("period")}'
+                    for m in markets
+                    if str(m.get("sportId")) == sid and m.get("marketLength") == 2][:25]
+            print(f"ATTENTION {name} : aucun marché principal trouvé. Marchés à 2 issues : {seen}")
     STATE["meta"] = {"sports": wanted, "markets": mk}
 
 
@@ -149,10 +142,14 @@ def refresh_fixtures(now):
         if budget_left() <= 0:
             print("Budget mensuel atteint, liste des matchs non rafraîchie.")
             return
-        data = call("/fixtures", sportId=sid,
-                    **{"from": now.strftime("%Y-%m-%d"),
-                       "to": (now + timedelta(days=FIXTURES_DAYS)).strftime("%Y-%m-%d")},
-                    statusId=0, hasOdds="true", bookmakers=",".join(BOOKMAKERS))
+        try:
+            data = call("/fixtures", sportId=sid,
+                        **{"from": now.strftime("%Y-%m-%d"),
+                           "to": (now + timedelta(days=FIXTURES_DAYS)).strftime("%Y-%m-%d")},
+                        statusId=0, hasOdds="true", bookmakers=",".join(BOOKMAKERS))
+        except requests.HTTPError as exc:
+            print(f"{name} : erreur {exc.response.status_code}, sport ignoré")
+            continue
         if not isinstance(data, list):
             data = []
         items = [{"id": f["fixtureId"], "sportId": sid,
@@ -165,9 +162,9 @@ def refresh_fixtures(now):
 
 def label_for(raw, f):
     r = raw.strip().lower()
-    if r in ("1", "home"):
+    if r in ("1", "home", "player 1"):
         return f["p1"]
-    if r in ("2", "away"):
+    if r in ("2", "away", "player 2"):
         return f["p2"]
     if r in ("x", "draw"):
         return "Nul"
