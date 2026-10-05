@@ -35,6 +35,7 @@ jobs:
           BOOKMAKERS: "winamax.fr,zebet.fr"
           HORIZON_HOURS: "24"
           MAX_FIXTURES: "150"
+          REFRESH_HOURS: "12"
         run: python main.py
 
       - name: Sauvegarder l'état
