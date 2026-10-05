@@ -28,7 +28,7 @@ MAIN_NAMES = {"full time result", "match winner", "winner", "moneyline",
               "money line", "match result", "winner (incl. overtime)"}
 
 OPEN_MIN, OPEN_MAX = 1.90, 2.50
-CUR_MIN, CUR_MAX = 1.60, 2.00
+CUR_MIN, CUR_MAX = 1.60, 2.15
 MIN_DROP = 0.15
 
 GAPS = {"/historical-odds": 5.2, "/fixtures": 2.2}
