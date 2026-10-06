@@ -29,332 +29,8 @@
  },
  "fixtures": {
   "10": {
-   "fetched": "2026-10-06T10:01:13.164815+00:00",
+   "fetched": "2026-10-06T23:01:09.071175+00:00",
    "items": [
-    {
-     "id": "id1000002658208463",
-     "sportId": "10",
-     "p1": "Azerbaijan",
-     "p2": "Gibraltar",
-     "start": "2026-10-06T13:45:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208819",
-     "sportId": "10",
-     "p1": "Moldova",
-     "p2": "Kazakhstan",
-     "start": "2026-10-06T14:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1002375568932368",
-     "sportId": "10",
-     "p1": "Kazakhstan",
-     "p2": "Faroe Islands",
-     "start": "2026-10-06T14:00:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1000002658209041",
-     "sportId": "10",
-     "p1": "Latvia",
-     "p2": "Malta",
-     "start": "2026-10-06T16:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658209043",
-     "sportId": "10",
-     "p1": "Germany",
-     "p2": "Georgia",
-     "start": "2026-10-06T16:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658209045",
-     "sportId": "10",
-     "p1": "Northern Ireland",
-     "p2": "Greece",
-     "start": "2026-10-06T16:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208465",
-     "sportId": "10",
-     "p1": "Portugal",
-     "p2": "Czechia",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208467",
-     "sportId": "10",
-     "p1": "Bulgaria",
-     "p2": "Scotland",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658209263",
-     "sportId": "10",
-     "p1": "Denmark",
-     "p2": "Belgium",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658209265",
-     "sportId": "10",
-     "p1": "Wales",
-     "p2": "Austria",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658209141",
-     "sportId": "10",
-     "p1": "Netherlands",
-     "p2": "Bosnia and Herzegovina",
-     "start": "2026-10-06T16:45:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002675330976",
-     "sportId": "10",
-     "p1": "Norway",
-     "p2": "Israel",
-     "start": "2026-10-06T16:45:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208359",
-     "sportId": "10",
-     "p1": "Spain",
-     "p2": "Romania",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208361",
-     "sportId": "10",
-     "p1": "Cyprus",
-     "p2": "San Marino",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208363",
-     "sportId": "10",
-     "p1": "Kosovo",
-     "p2": "Finland",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208631",
-     "sportId": "10",
-     "p1": "Luxembourg",
-     "p2": "Estonia",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208633",
-     "sportId": "10",
-     "p1": "France",
-     "p2": "Switzerland",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208635",
-     "sportId": "10",
-     "p1": "Faroe Islands",
-     "p2": "Iceland",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208817",
-     "sportId": "10",
-     "p1": "Andorra",
-     "p2": "Slovakia",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658208821",
-     "sportId": "10",
-     "p1": "Ireland",
-     "p2": "England",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658209203",
-     "sportId": "10",
-     "p1": "Lithuania",
-     "p2": "Croatia",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1000002658209205",
-     "sportId": "10",
-     "p1": "Turkiye",
-     "p2": "Hungary",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Soccer",
-     "league": "U21 UEFA European Championship, Qualification"
-    },
-    {
-     "id": "id1002375568931704",
-     "sportId": "10",
-     "p1": "Croatia",
-     "p2": "Spain",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568931706",
-     "sportId": "10",
-     "p1": "England",
-     "p2": "Czechia",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568932274",
-     "sportId": "10",
-     "p1": "Estonia",
-     "p2": "Iceland",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568932276",
-     "sportId": "10",
-     "p1": "Luxembourg",
-     "p2": "Bulgaria",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568932370",
-     "sportId": "10",
-     "p1": "Moldova",
-     "p2": "Slovakia",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568932514",
-     "sportId": "10",
-     "p1": "Albania",
-     "p2": "San Marino",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568932516",
-     "sportId": "10",
-     "p1": "Belarus",
-     "p2": "Finland",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568932792",
-     "sportId": "10",
-     "p1": "Scotland",
-     "p2": "Slovenia",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002375568932794",
-     "sportId": "10",
-     "p1": "Switzerland",
-     "p2": "North Macedonia",
-     "start": "2026-10-06T18:45:00.000Z",
-     "sport": "Soccer",
-     "league": "UEFA Nations League"
-    },
-    {
-     "id": "id1002709873038586",
-     "sportId": "10",
-     "p1": "Sportivo Ameliano",
-     "p2": "Rubio Nu",
-     "start": "2026-10-06T20:00:00.000Z",
-     "sport": "Soccer",
-     "league": "Division de Honor"
-    },
-    {
-     "id": "id1002742073220986",
-     "sportId": "10",
-     "p1": "Montserrat",
-     "p2": "Turks and Caicos Islands",
-     "start": "2026-10-06T20:00:00.000Z",
-     "sport": "Soccer",
-     "league": "CONCACAF Nations League"
-    },
-    {
-     "id": "id1002742073221082",
-     "sportId": "10",
-     "p1": "Saint-Martin",
-     "p2": "Bahamas",
-     "start": "2026-10-06T20:00:00.000Z",
-     "sport": "Soccer",
-     "league": "CONCACAF Nations League"
-    },
-    {
-     "id": "id1002742073220916",
-     "sportId": "10",
-     "p1": "Saint Vincent and the Grenadines",
-     "p2": "Sint Maarten",
-     "start": "2026-10-06T21:00:00.000Z",
-     "sport": "Soccer",
-     "league": "CONCACAF Nations League"
-    },
-    {
-     "id": "id1002709873038584",
-     "sportId": "10",
-     "p1": "Club Olimpia",
-     "p2": "Nacional Asuncion",
-     "start": "2026-10-06T22:15:00.000Z",
-     "sport": "Soccer",
-     "league": "Division de Honor"
-    },
     {
      "id": "id1002742073221004",
      "sportId": "10",
@@ -426,6 +102,15 @@
      "start": "2026-10-07T16:00:00.000Z",
      "sport": "Soccer",
      "league": "Veikkausliiga"
+    },
+    {
+     "id": "id1004237171889810",
+     "sportId": "10",
+     "p1": "Rwanda",
+     "p2": "Ethiopia",
+     "start": "2026-10-07T16:00:00.000Z",
+     "sport": "Soccer",
+     "league": "CAF Olympic Qualification, Women"
     },
     {
      "id": "id1000084175044050",
@@ -536,6 +221,15 @@
      "league": "Veikkausliiga"
     },
     {
+     "id": "id1000093775311842",
+     "sportId": "10",
+     "p1": "Union Touarga",
+     "p2": "Rs Berkane",
+     "start": "2026-10-08T16:00:00.000Z",
+     "sport": "Soccer",
+     "league": "Botola Pro D1"
+    },
+    {
      "id": "id1000084175044056",
      "sportId": "10",
      "p1": "MB Rouissat",
@@ -563,6 +257,24 @@
      "league": "Superliga"
     },
     {
+     "id": "id1000093775311844",
+     "sportId": "10",
+     "p1": "Renaissance Zemamra",
+     "p2": "Hassania Union Sport Agadir",
+     "start": "2026-10-08T18:00:00.000Z",
+     "sport": "Soccer",
+     "league": "Botola Pro D1"
+    },
+    {
+     "id": "id1000093775311846",
+     "sportId": "10",
+     "p1": "AS Far Rabat",
+     "p2": "Wydad Temara",
+     "start": "2026-10-08T18:00:00.000Z",
+     "sport": "Soccer",
+     "league": "Botola Pro D1"
+    },
+    {
      "id": "id1000019266854214",
      "sportId": "10",
      "p1": "Shamrock Rovers",
@@ -579,6 +291,15 @@
      "start": "2026-10-08T19:00:00.000Z",
      "sport": "Soccer",
      "league": "Ligue 1"
+    },
+    {
+     "id": "id1000093775311848",
+     "sportId": "10",
+     "p1": "Maghreb AS de Fes",
+     "p2": "Raja Casablanca Athletic",
+     "start": "2026-10-08T20:00:00.000Z",
+     "sport": "Soccer",
+     "league": "Botola Pro D1"
     },
     {
      "id": "id1000032566887042",
@@ -610,224 +331,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-10-06T10:01:13.164815+00:00",
+   "fetched": "2026-10-06T23:01:09.071175+00:00",
    "items": [
-    {
-     "id": "id1101405173110630",
-     "sportId": "11",
-     "p1": "Hapoel Holon BC",
-     "p2": "Cholet Basket",
-     "start": "2026-10-06T15:45:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
-    {
-     "id": "id1100238875108250",
-     "sportId": "11",
-     "p1": "Szolnoki Olaj Kk",
-     "p2": "Basket Zielona Gora",
-     "start": "2026-10-06T16:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Europe Cup"
-    },
-    {
-     "id": "id1100238875200512",
-     "sportId": "11",
-     "p1": "AO Mykonoy",
-     "p2": "Neftchi IK",
-     "start": "2026-10-06T16:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Europe Cup"
-    },
-    {
-     "id": "id1101405173110546",
-     "sportId": "11",
-     "p1": "KK Cibona",
-     "p2": "Galatasaray SK",
-     "start": "2026-10-06T16:00:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
-    {
-     "id": "id1100014172902014",
-     "sportId": "11",
-     "p1": "KK Cedevita Olimpija Ljubljana",
-     "p2": "Hapoel Jerusalem",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100014172902270",
-     "sportId": "11",
-     "p1": "Turk Telekom",
-     "p2": "Maxima Roma",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1101405173110532",
-     "sportId": "11",
-     "p1": "BC Rytas Vilnius",
-     "p2": "BK Sabah Baku",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
-    {
-     "id": "id1101405173110592",
-     "sportId": "11",
-     "p1": "Peristeri Athens",
-     "p2": "Bamberg Baskets",
-     "start": "2026-10-06T16:30:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
-    {
-     "id": "id1100014172902432",
-     "sportId": "11",
-     "p1": "Buducnost Podgorica",
-     "p2": "Napoli Basket",
-     "start": "2026-10-06T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100014172902266",
-     "sportId": "11",
-     "p1": "Skyliners Frankfurt",
-     "p2": "BC Siauliai",
-     "start": "2026-10-06T17:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100014172902430",
-     "sportId": "11",
-     "p1": "JL Bourg Basket",
-     "p2": "Tofas SK Bursa",
-     "start": "2026-10-06T17:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100014174290204",
-     "sportId": "11",
-     "p1": "KK Bosna Royal Sarajevo",
-     "p2": "PAOK BC",
-     "start": "2026-10-06T17:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1103632172319134",
-     "sportId": "11",
-     "p1": "Donar Groningen",
-     "p2": "Leuven Bears",
-     "start": "2026-10-06T17:30:00.000Z",
-     "sport": "Basketball",
-     "league": "BNXT League"
-    },
-    {
-     "id": "id1100014172902012",
-     "sportId": "11",
-     "p1": "Rostock Seawolves",
-     "p2": "Rigas Zelli",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100014172902426",
-     "sportId": "11",
-     "p1": "Aquila Basket Trento",
-     "p2": "Slask Wroclaw",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100166674871378",
-     "sportId": "11",
-     "p1": "Hyeres Toulon",
-     "p2": "Fos Provence Basket",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id1100166674871382",
-     "sportId": "11",
-     "p1": "Lyonso Basket Territoire",
-     "p2": "Besancon Avenir Comtois",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id1100166674871396",
-     "sportId": "11",
-     "p1": "Poitiers Basket 86",
-     "p2": "Orleans Loiret Basket",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id1100166674871398",
-     "sportId": "11",
-     "p1": "Union Rennes Basket 35",
-     "p2": "Pays de Fougeres Basket",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id1101405173110552",
-     "sportId": "11",
-     "p1": "SIG Strasbourg",
-     "p2": "Legia Warszawa",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
-    {
-     "id": "id1101405173110608",
-     "sportId": "11",
-     "p1": "Pallacanestro Reggiana",
-     "p2": "BK Pardubice",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
-    {
-     "id": "id1101405173110652",
-     "sportId": "11",
-     "p1": "Igokea Aleksandrovac",
-     "p2": "Bilbao Basket",
-     "start": "2026-10-06T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
-    {
-     "id": "id1100014172902264",
-     "sportId": "11",
-     "p1": "London Lions",
-     "p2": "CB 1939 Canarias",
-     "start": "2026-10-06T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1101405173110666",
-     "sportId": "11",
-     "p1": "Club Joventut Badalona",
-     "p2": "Bnei Herzliya Basket",
-     "start": "2026-10-06T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "FIBA Champions League"
-    },
     {
      "id": "id1103632172319132",
      "sportId": "11",
@@ -865,6 +370,24 @@
      "league": "Eurocup"
     },
     {
+     "id": "id1101405173110534",
+     "sportId": "11",
+     "p1": "Trabzonspor Basketbol",
+     "p2": "Nanterre 92",
+     "start": "2026-10-07T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
+     "id": "id1101405173110654",
+     "sportId": "11",
+     "p1": "SK Slavia Prague",
+     "p2": "Alba Berlin",
+     "start": "2026-10-07T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
      "id": "id1101405175208516",
      "sportId": "11",
      "p1": "BC AEK Athens",
@@ -892,6 +415,24 @@
      "league": "Eurocup"
     },
     {
+     "id": "id1100185473496250",
+     "sportId": "11",
+     "p1": "ESB Villeneuve d´Ascq",
+     "p2": "Landerneau Bretagne Basket",
+     "start": "2026-10-07T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "LFB, Women"
+    },
+    {
+     "id": "id1101405173110612",
+     "sportId": "11",
+     "p1": "BC Juventus Utena",
+     "p2": "CB Malaga",
+     "start": "2026-10-07T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
      "id": "id1100014172902010",
      "sportId": "11",
      "p1": "Derthona Basket",
@@ -908,15 +449,6 @@
      "start": "2026-10-07T18:00:00.000Z",
      "sport": "Basketball",
      "league": "Eurocup"
-    },
-    {
-     "id": "id1100185473496250",
-     "sportId": "11",
-     "p1": "ESB Villeneuve d´Ascq",
-     "p2": "Landerneau Bretagne Basket",
-     "start": "2026-10-07T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LFB, Women"
     },
     {
      "id": "id1100185473496252",
@@ -946,6 +478,33 @@
      "league": "LFB, Women"
     },
     {
+     "id": "id1101405173110570",
+     "sportId": "11",
+     "p1": "Antwerp Giants",
+     "p2": "Falco KC Szombathely",
+     "start": "2026-10-07T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
+     "id": "id1101405173110670",
+     "sportId": "11",
+     "p1": "Baskets Bonn",
+     "p2": "FC Porto",
+     "start": "2026-10-07T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
+     "id": "id1101405175208528",
+     "sportId": "11",
+     "p1": "Spartak Subotica",
+     "p2": "Rasta Vechta",
+     "start": "2026-10-07T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
      "id": "id1100014172902542",
      "sportId": "11",
      "p1": "Basquet Manresa",
@@ -962,6 +521,15 @@
      "start": "2026-10-07T18:30:00.000Z",
      "sport": "Basketball",
      "league": "LFB, Women"
+    },
+    {
+     "id": "id1101405173110594",
+     "sportId": "11",
+     "p1": "UCAM Murcia",
+     "p2": "Pallacanestro Varese",
+     "start": "2026-10-07T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
     },
     {
      "id": "id1100013873262998",
@@ -1056,197 +624,8 @@
    ]
   },
   "12": {
-   "fetched": "2026-10-06T10:01:13.164815+00:00",
+   "fetched": "2026-10-06T23:01:09.071175+00:00",
    "items": [
-    {
-     "id": "id1200308575330650",
-     "sportId": "12",
-     "p1": "Kotov, Pavel",
-     "p2": "Vukic, Aleksandar",
-     "start": "2026-10-06T10:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200884375051592",
-     "sportId": "12",
-     "p1": "Kraus, Sinja",
-     "p2": "Bartunkova, Nikola",
-     "start": "2026-10-06T10:10:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Singles"
-    },
-    {
-     "id": "id1200302575051378",
-     "sportId": "12",
-     "p1": "Djokovic, Novak",
-     "p2": "de Minaur, Alex",
-     "start": "2026-10-06T11:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Beijing, China Men Singles"
-    },
-    {
-     "id": "id1200884375051562",
-     "sportId": "12",
-     "p1": "Charaeva, Alina",
-     "p2": "Zheng, Qinwen",
-     "start": "2026-10-07T03:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Singles"
-    },
-    {
-     "id": "id1200884375051564",
-     "sportId": "12",
-     "p1": "Li, Ann",
-     "p2": "Svitolina, Elina",
-     "start": "2026-10-07T03:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Singles"
-    },
-    {
-     "id": "id1200884375051566",
-     "sportId": "12",
-     "p1": "Gauff, Coco",
-     "p2": "Mertens, Elise",
-     "start": "2026-10-07T03:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Singles"
-    },
-    {
-     "id": "id1200884375051568",
-     "sportId": "12",
-     "p1": "Jovic, Iva",
-     "p2": "Swiatek, Iga",
-     "start": "2026-10-07T03:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Singles"
-    },
-    {
-     "id": "id1200308575314378",
-     "sportId": "12",
-     "p1": "Kopriva, Vit",
-     "p2": "Bergs, Zizou",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314380",
-     "sportId": "12",
-     "p1": "Giron, Marcos",
-     "p2": "Baez, Sebastian",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314382",
-     "sportId": "12",
-     "p1": "Vallejo, Adolfo Daniel",
-     "p2": "Royer, Valentin",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314384",
-     "sportId": "12",
-     "p1": "Norrie, Cameron",
-     "p2": "Shapovalov, Denis",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314386",
-     "sportId": "12",
-     "p1": "Landaluce, Martin",
-     "p2": "Struff, Jan-Lennard",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314388",
-     "sportId": "12",
-     "p1": "Navone, Mariano",
-     "p2": "Carreno Busta, Pablo",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314390",
-     "sportId": "12",
-     "p1": "Van Assche, Luca",
-     "p2": "Bu, Yunchaokete",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314392",
-     "sportId": "12",
-     "p1": "Marozsan, Fabian",
-     "p2": "Svajda, Zachary",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314394",
-     "sportId": "12",
-     "p1": "Tirante, Thiago Agustin",
-     "p2": "Medjedovic, Hamad",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314396",
-     "sportId": "12",
-     "p1": "Borges, Nuno",
-     "p2": "Diaz Acosta, Facundo",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314398",
-     "sportId": "12",
-     "p1": "Van de Zandschulp, Botic",
-     "p2": "Merida, Daniel",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314400",
-     "sportId": "12",
-     "p1": "Hanfmann, Yannick",
-     "p2": "Majchrzak, Kamil",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314402",
-     "sportId": "12",
-     "p1": "Munar, Jaume",
-     "p2": "Brooksby, Jenson",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314404",
-     "sportId": "12",
-     "p1": "Hurkacz, Hubert",
-     "p2": "Duckworth, James",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
     {
      "id": "id1200308575314406",
      "sportId": "12",
@@ -1266,24 +645,6 @@
      "league": "ATP Shanghai, China Men Singles"
     },
     {
-     "id": "id1200308575314410",
-     "sportId": "12",
-     "p1": "Rune, Holger",
-     "p2": "Altmaier, Daniel",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575314412",
-     "sportId": "12",
-     "p1": "Fery, Arthur",
-     "p2": "Cilic, Marin",
-     "start": "2026-10-07T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
      "id": "id1200308575314414",
      "sportId": "12",
      "p1": "Kovacevic, Aleksandar",
@@ -1293,11 +654,227 @@
      "league": "ATP Shanghai, China Men Singles"
     },
     {
+     "id": "id1200884375051568",
+     "sportId": "12",
+     "p1": "Jovic, Iva",
+     "p2": "Swiatek, Iga",
+     "start": "2026-10-07T05:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Beijing, China Women Singles"
+    },
+    {
+     "id": "id1200308575314400",
+     "sportId": "12",
+     "p1": "Hanfmann, Yannick",
+     "p2": "Majchrzak, Kamil",
+     "start": "2026-10-07T05:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
      "id": "id1200308575314416",
      "sportId": "12",
      "p1": "Zhang, Zhizhen",
      "p2": "Machac, Tomas",
-     "start": "2026-10-07T04:00:00.000Z",
+     "start": "2026-10-07T05:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364280",
+     "sportId": "12",
+     "p1": "Mannarino, Adrian",
+     "p2": "Basilashvili, Nikoloz",
+     "start": "2026-10-07T05:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364284",
+     "sportId": "12",
+     "p1": "Molcan, Alex",
+     "p2": "Cina, Federico",
+     "start": "2026-10-07T06:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200884375051566",
+     "sportId": "12",
+     "p1": "Gauff, Coco",
+     "p2": "Mertens, Elise",
+     "start": "2026-10-07T06:15:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Beijing, China Women Singles"
+    },
+    {
+     "id": "id1200308575364276",
+     "sportId": "12",
+     "p1": "Bellucci, Mattia",
+     "p2": "Zhou, Yi",
+     "start": "2026-10-07T07:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364282",
+     "sportId": "12",
+     "p1": "Trungelliti, Marco",
+     "p2": "Sakamoto, Rei",
+     "start": "2026-10-07T07:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314410",
+     "sportId": "12",
+     "p1": "Rune, Holger",
+     "p2": "Altmaier, Daniel",
+     "start": "2026-10-07T07:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364278",
+     "sportId": "12",
+     "p1": "Hijikata, Rinky",
+     "p2": "Safiullin, Roman",
+     "start": "2026-10-07T07:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364286",
+     "sportId": "12",
+     "p1": "Halys, Quentin",
+     "p2": "Wong, Coleman",
+     "start": "2026-10-07T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364288",
+     "sportId": "12",
+     "p1": "Wu, Yibing",
+     "p2": "Zheng, Michael",
+     "start": "2026-10-07T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200884375051562",
+     "sportId": "12",
+     "p1": "Charaeva, Alina",
+     "p2": "Zheng, Qinwen",
+     "start": "2026-10-07T11:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Beijing, China Women Singles"
+    },
+    {
+     "id": "id1200308575314412",
+     "sportId": "12",
+     "p1": "Fery, Arthur",
+     "p2": "Cilic, Marin",
+     "start": "2026-10-07T11:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200884375051564",
+     "sportId": "12",
+     "p1": "Li, Ann",
+     "p2": "Svitolina, Elina",
+     "start": "2026-10-07T14:30:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Beijing, China Women Singles"
+    },
+    {
+     "id": "id1204030375153092",
+     "sportId": "12",
+     "p1": "Reis Da Silva, Joao Lucas",
+     "p2": "Justo, Guido Ivan",
+     "start": "2026-10-07T18:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Challenger Antofagasta, Chile Men Singles"
+    },
+    {
+     "id": "id1205359075176650",
+     "sportId": "12",
+     "p1": "Bouzas Maneiro, Jessica (Srl)",
+     "p2": "Jovic, Iva (Srl)",
+     "start": "2026-10-07T21:00:00.000Z",
+     "sport": "Tennis",
+     "league": "SRL Fall Invitational Norman (OK), USA, Women"
+    },
+    {
+     "id": "id1205358875174306",
+     "sportId": "12",
+     "p1": "Gea, Arthur (Srl)",
+     "p2": "R16P14",
+     "start": "2026-10-07T22:00:00.000Z",
+     "sport": "Tennis",
+     "league": "SRL Fall Invitational Norman (OK), USA"
+    },
+    {
+     "id": "id1205359075176652",
+     "sportId": "12",
+     "p1": "Wang, Xiyu (Srl)",
+     "p2": "R16P14",
+     "start": "2026-10-07T22:00:00.000Z",
+     "sport": "Tennis",
+     "league": "SRL Fall Invitational Norman (OK), USA, Women"
+    },
+    {
+     "id": "id1200308575364266",
+     "sportId": "12",
+     "p1": "Cerundolo, Juan Manuel",
+     "p2": "Mejia, Nicolas",
+     "start": "2026-10-08T02:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364268",
+     "sportId": "12",
+     "p1": "Tomic, Bernard",
+     "p2": "Arnaldi, Matteo",
+     "start": "2026-10-08T02:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364272",
+     "sportId": "12",
+     "p1": "Ugo Carabelli, Camilo",
+     "p2": "Simakin, Ilia",
+     "start": "2026-10-08T02:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364274",
+     "sportId": "12",
+     "p1": "Kotov, Pavel",
+     "p2": "Griekspoor, Tallon",
+     "start": "2026-10-08T02:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364230",
+     "sportId": "12",
+     "p1": "Norrie, Cameron",
+     "p2": "Svrcina, Dalibor",
+     "start": "2026-10-08T03:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575364270",
+     "sportId": "12",
+     "p1": "Coppejans, Kimmer",
+     "p2": "Tsitsipas, Stefanos",
+     "start": "2026-10-08T03:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Shanghai, China Men Singles"
     },
@@ -1309,6 +886,132 @@
      "start": "2026-10-08T03:00:00.000Z",
      "sport": "Tennis",
      "league": "WTA Beijing, China Women Singles"
+    },
+    {
+     "id": "id1200884375051584",
+     "sportId": "12",
+     "p1": "Muchova, Karolina",
+     "p2": "Bartunkova, Nikola",
+     "start": "2026-10-08T03:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Beijing, China Women Singles"
+    },
+    {
+     "id": "id1200308575314378",
+     "sportId": "12",
+     "p1": "Kopriva, Vit",
+     "p2": "Bergs, Zizou",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314380",
+     "sportId": "12",
+     "p1": "Giron, Marcos",
+     "p2": "Baez, Sebastian",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314382",
+     "sportId": "12",
+     "p1": "Vallejo, Adolfo Daniel",
+     "p2": "Royer, Valentin",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314386",
+     "sportId": "12",
+     "p1": "Landaluce, Martin",
+     "p2": "Struff, Jan-Lennard",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314388",
+     "sportId": "12",
+     "p1": "Navone, Mariano",
+     "p2": "Carreno Busta, Pablo",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314390",
+     "sportId": "12",
+     "p1": "Van Assche, Luca",
+     "p2": "Bu, Yunchaokete",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314392",
+     "sportId": "12",
+     "p1": "Marozsan, Fabian",
+     "p2": "Svajda, Zachary",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314394",
+     "sportId": "12",
+     "p1": "Tirante, Thiago Agustin",
+     "p2": "Medjedovic, Hamad",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314396",
+     "sportId": "12",
+     "p1": "Borges, Nuno",
+     "p2": "Diaz Acosta, Facundo",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314398",
+     "sportId": "12",
+     "p1": "Van de Zandschulp, Botic",
+     "p2": "Merida, Daniel",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314402",
+     "sportId": "12",
+     "p1": "Munar, Jaume",
+     "p2": "Brooksby, Jenson",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575314404",
+     "sportId": "12",
+     "p1": "Hurkacz, Hubert",
+     "p2": "Duckworth, James",
+     "start": "2026-10-08T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1204030375152970",
+     "sportId": "12",
+     "p1": "Heide, Gustavo",
+     "p2": "Ribeiro, Eduardo",
+     "start": "2026-10-08T14:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Challenger Antofagasta, Chile Men Singles"
     }
    ]
   }
@@ -1323,9 +1026,10 @@
   "id1200308575314384|winamax.fr|121|121": "2026-10-06T04:01:13.565812+00:00",
   "id1200308575314388|winamax.fr|121|121": "2026-10-06T04:01:13.565812+00:00",
   "id1200308575314388|zebet.fr|121|121": "2026-10-06T04:01:13.565812+00:00",
-  "id1100014172902268|winamax.fr|111|111": "2026-10-06T16:01:13.592069+00:00"
+  "id1100014172902268|winamax.fr|111|111": "2026-10-06T16:01:13.592069+00:00",
+  "id1200308575364280|zebet.fr|121|121": "2026-10-06T23:01:09.071175+00:00"
  },
  "billable": {
-  "2026-10": 11
+  "2026-10": 14
  }
 }
