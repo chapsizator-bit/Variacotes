@@ -32,7 +32,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          BOOKMAKERS: "winamax.fr,zebet.fr"
+          ALERT_BOOKMAKER: "winamax.fr"
+          REF_BOOKMAKERS: "pinnacle,bet365"
           HORIZON_HOURS: "24"
           MAX_FIXTURES: "150"
           REFRESH_HOURS: "12"
