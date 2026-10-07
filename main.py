@@ -9,6 +9,7 @@ import requests
 
 HOST = "https://api.oddspapi.io/v4"
 STATE_FILE = Path("data/state.json")
+ALERTS_FILE = Path("data/alerts.json")
 
 API_KEY = os.environ["ODDSPAPI_KEY"]
 TG_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
@@ -16,12 +17,13 @@ TG_CHAT = os.getenv("TELEGRAM_CHAT_ID")
 DISCORD = os.getenv("DISCORD_WEBHOOK_URL")
 
 BOOKMAKERS = [b.strip() for b in
-              os.getenv("BOOKMAKERS", "pinnacle,bet365").split(",") if b.strip()][:3]
-HORIZON_HOURS = int(os.getenv("HORIZON_HOURS", "48"))
+              os.getenv("BOOKMAKERS", "winamax.fr,zebet.fr").split(",") if b.strip()][:3]
+HORIZON_HOURS = int(os.getenv("HORIZON_HOURS", "24"))
 FIXTURES_DAYS = int(os.getenv("FIXTURES_DAYS", "3"))
 REFRESH_HOURS = int(os.getenv("REFRESH_HOURS", "24"))
 MAX_FIXTURES = int(os.getenv("MAX_FIXTURES", "60"))
 MONTHLY_BUDGET = int(os.getenv("MONTHLY_BUDGET", "235"))
+MAX_POINTS = 120
 
 WANTED = {"soccer", "tennis", "basketball"}
 MAIN_NAMES = {"full time result", "match winner", "winner", "moneyline",
@@ -33,6 +35,7 @@ MIN_DROP = 0.15
 
 GAPS = {"/historical-odds": 5.2, "/fixtures": 2.2}
 STATE = {}
+ALERTS = {}
 _last = {}
 
 
@@ -84,10 +87,20 @@ def load_state():
     return base
 
 
+def load_alert_records():
+    if ALERTS_FILE.exists():
+        return {a["id"]: a for a in json.loads(ALERTS_FILE.read_text(encoding="utf-8"))}
+    return {}
+
+
 def save_state():
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
     STATE_FILE.write_text(json.dumps(STATE, ensure_ascii=False, indent=1),
                           encoding="utf-8")
+    limit = datetime.now(timezone.utc) - timedelta(days=7)
+    keep = [a for a in ALERTS.values() if parse_date(a["start"]) > limit]
+    keep.sort(key=lambda a: a["alerted_at"], reverse=True)
+    ALERTS_FILE.write_text(json.dumps(keep, ensure_ascii=False), encoding="utf-8")
 
 
 def notify(text):
@@ -180,9 +193,37 @@ def analyse(entries):
     return float(active[0]["price"]), float(rows[-1]["price"])
 
 
+def build_series(entries):
+    rows = sorted((e for e in entries if e.get("price") is not None and e.get("active")),
+                  key=lambda e: e["createdAt"])
+    pts = [{"t": e["createdAt"], "p": float(e["price"])} for e in rows]
+    if len(pts) > MAX_POINTS:
+        step = len(pts) / MAX_POINTS
+        pts = [pts[int(i * step)] for i in range(MAX_POINTS)] + [pts[-1]]
+    return pts
+
+
 def matches_filters(o, c):
     return (OPEN_MIN <= o <= OPEN_MAX and CUR_MIN <= c <= CUR_MAX
             and round(o - c, 2) >= MIN_DROP)
+
+
+def upsert_alert(key, f, bookie, labels, oid, outs, now):
+    _, op, cur = outs[oid]
+    drop = round(op - cur, 2)
+    old = ALERTS.get(key, {})
+    outcomes = []
+    for o2 in sorted(outs, key=lambda x: int(x) if x.isdigit() else 0):
+        e2, op2, cur2 = outs[o2]
+        outcomes.append({"label": label_for(labels[o2], f), "selected": o2 == oid,
+                         "open": op2, "current": cur2, "series": build_series(e2)})
+    ALERTS[key] = {
+        "id": key, "sport": f["sport"], "league": f.get("league", ""),
+        "match": f"{f['p1']} - {f['p2']}", "selection": label_for(labels[oid], f),
+        "bookmaker": bookie, "start": f["start"],
+        "open": op, "current": cur, "drop": drop, "pct": round(drop / op * 100, 1),
+        "alerted_at": old.get("alerted_at") or STATE["alerted"][key],
+        "updated_at": now.isoformat(), "outcomes": outcomes}
 
 
 def check(now):
@@ -212,15 +253,17 @@ def check(now):
                 labels = mk.get(mid)
                 if not labels:
                     continue
+                outs = {}
                 for oid, odata in (mdata.get("outcomes") or {}).items():
                     if oid not in labels:
                         continue
-                    res = analyse((odata.get("players") or {}).get("0", []))
+                    entries = (odata.get("players") or {}).get("0", [])
+                    res = analyse(entries)
+                    if res:
+                        outs[oid] = (entries, res[0], res[1])
+                for oid, (entries, op, cur) in outs.items():
                     key = f'{f["id"]}|{bookie}|{mid}|{oid}'
-                    if not res or key in STATE["alerted"]:
-                        continue
-                    op, cur = res
-                    if matches_filters(op, cur):
+                    if key not in STATE["alerted"] and matches_filters(op, cur):
                         drop = round(op - cur, 2)
                         notify(
                             f"📉 ALERTE VARIACOTE\n"
@@ -233,12 +276,15 @@ def check(now):
                             f"Variation : -{drop:.2f} (-{drop / op * 100:.1f}%)")
                         STATE["alerted"][key] = now.isoformat()
                         alerts += 1
+                    if key in STATE["alerted"]:
+                        upsert_alert(key, f, bookie, labels, oid, outs, now)
     print(f"{alerts} alerte(s)")
 
 
 def main():
-    global STATE
+    global STATE, ALERTS
     STATE = load_state()
+    ALERTS = load_alert_records()
     now = datetime.now(timezone.utc)
     try:
         try:
