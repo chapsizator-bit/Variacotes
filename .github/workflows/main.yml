@@ -34,6 +34,7 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           ALERT_BOOKMAKER: "winamax.fr"
           REF_BOOKMAKERS: "pinnacle,bet365"
+          APP_URL: "https://TON-APPLI.streamlit.app"
           HORIZON_HOURS: "24"
           MAX_FIXTURES: "150"
           REFRESH_HOURS: "12"
