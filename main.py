@@ -265,7 +265,8 @@ def build_message(f, selection, op, cur, refs):
         lines.append("Autres bookmakers :")
         for b, (_, o2, c2) in refs.items():
             lines.append(f"{short(b)} : {o2:.2f} → {c2:.2f} ({c2 - o2:+.2f})")
-    lines.append(f"🔎 Flashscore : {flash_url(f)}")
+    if APP_URL:
+        lines.append(f"📊 Graphique : {APP_URL}")
     return "\n".join(lines)
 
 
