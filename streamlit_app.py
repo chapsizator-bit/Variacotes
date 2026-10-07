@@ -10,7 +10,7 @@ RAW_URL = ("https://raw.githubusercontent.com/chapsizator-bit/Variacotes/"
            "main/data/alerts.json")
 LOCAL = Path(__file__).parent / "data" / "alerts.json"
 TZ = "Europe/Paris"
-COLORS = ["#3b82f6", "#a855f7", "#14b8a6"]
+REF_COLORS = ["#3b82f6", "#475569"]
 
 st.set_page_config(page_title="Variacotes", page_icon="📉", layout="centered")
 
@@ -25,6 +25,10 @@ def load_alerts():
         if LOCAL.exists():
             return json.loads(LOCAL.read_text(encoding="utf-8"))
         return []
+
+
+def short(b):
+    return b.split(".")[0].capitalize()
 
 
 def fmt_dt(s):
@@ -46,11 +50,10 @@ def to_df(series, end, current, hourly):
 def get_outcomes(a):
     return a.get("outcomes") or [{
         "label": a["selection"], "selected": True, "open": a["open"],
-        "current": a["current"], "series": a["series"]}]
+        "current": a["current"], "series": a.get("series", [])}]
 
 
-def make_chart(a, outs, hourly):
-    sel = next((o for o in outs if o.get("selected")), outs[0])
+def make_chart(a, sel, refs, hourly):
     end = pd.to_datetime(a["updated_at"], utc=True).tz_convert(TZ)
     sdf = to_df(sel["series"], end, sel["current"], hourly)
     x0, x1 = sdf["t"].iloc[0], sdf["t"].iloc[-1]
@@ -59,24 +62,23 @@ def make_chart(a, outs, hourly):
 
     fig = go.Figure()
     lows, highs = [op, cur, sdf["p"].min()], [op, cur, sdf["p"].max()]
-    i = 0
-    for o in outs:
-        if o is sel:
+    for i, r in enumerate(refs):
+        if not r.get("series"):
             continue
-        df = to_df(o["series"], end, o["current"], hourly)
+        df = to_df(r["series"], end, r["current"], hourly)
         lows.append(df["p"].min())
         highs.append(df["p"].max())
         fig.add_trace(go.Scatter(
-            x=df["t"], y=df["p"], mode="lines", name=o["label"],
-            line=dict(color=COLORS[i % 3], width=2, shape="hv"),
+            x=df["t"], y=df["p"], mode="lines", name=short(r["bookmaker"]),
+            line=dict(color=REF_COLORS[i % 2], width=2, shape="hv"),
             hovertemplate=hover))
-        i += 1
 
     fig.add_trace(go.Scatter(
         x=[x0, x1], y=[op, op], mode="lines", showlegend=False,
         line=dict(color="#94a3b8", width=1.5, dash="dash"), hoverinfo="skip"))
     fig.add_trace(go.Scatter(
-        x=sdf["t"], y=sdf["p"], mode="lines", name=f'{sel["label"]} (sélection)',
+        x=sdf["t"], y=sdf["p"], mode="lines",
+        name=f'{short(a["bookmaker"])} (sélection)',
         line=dict(color="#ef4444", width=3.5, shape="hv"),
         fill="tonexty", fillcolor="rgba(239,68,68,0.15)", hovertemplate=hover))
     fig.add_trace(go.Scatter(
@@ -105,17 +107,23 @@ def show_chart(fig, key):
         st.plotly_chart(fig, use_container_width=True, config=cfg, key=key)
 
 
+def row(name, op, cur):
+    d = cur - op
+    arrow = "▼" if d < 0 else ("▲" if d > 0 else "=")
+    return {"Nom": name, "Ouverture": f"{op:.2f}", "Actuelle": f"{cur:.2f}",
+            "Variation": f"{arrow} {d:+.2f}"}
+
+
+def books_table(a, refs):
+    rows = [row("👉 " + short(a["bookmaker"]), a["open"], a["current"])]
+    rows += [row(short(r["bookmaker"]), r["open"], r["current"]) for r in refs]
+    return pd.DataFrame(rows).set_index("Nom")
+
+
 def outcomes_table(outs):
-    rows = []
-    for o in outs:
-        d = o["current"] - o["open"]
-        arrow = "▼" if d < 0 else ("▲" if d > 0 else "=")
-        rows.append({
-            "Issue": ("👉 " if o.get("selected") else "") + o["label"],
-            "Ouverture": f'{o["open"]:.2f}',
-            "Actuelle": f'{o["current"]:.2f}',
-            "Variation": f"{arrow} {d:+.2f}"})
-    return pd.DataFrame(rows).set_index("Issue")
+    rows = [row(("👉 " if o.get("selected") else "") + o["label"], o["open"], o["current"])
+            for o in outs]
+    return pd.DataFrame(rows).set_index("Nom")
 
 
 st.title("📉 Variacotes")
@@ -143,9 +151,11 @@ st.caption(f"{len(rows)} alerte(s)")
 
 for a in rows:
     outs = get_outcomes(a)
+    sel = next((o for o in outs if o.get("selected")), outs[0])
+    refs = a.get("refs") or []
     with st.container(border=True):
         st.subheader(a["match"])
-        st.caption(f'{a["sport"]} · {a["league"]} · {a["bookmaker"]} · '
+        st.caption(f'{a["sport"]} · {a["league"]} · {short(a["bookmaker"])} · '
                    f'coup d\'envoi {fmt_dt(a["start"])}')
         st.markdown(f'**Sélection : {a["selection"]}**')
         c1, c2, c3 = st.columns(3)
@@ -153,6 +163,13 @@ for a in rows:
         c2.metric("Actuelle", f'{a["current"]:.2f}')
         c3.metric("Variation", f'{-a["drop"]:+.2f}', f'{-a["pct"]:+.1f} %',
                   delta_color="off")
-        show_chart(make_chart(a, outs, hourly), key=f'{a["id"]}|{hourly}')
+        if sel.get("series"):
+            show_chart(make_chart(a, sel, refs, hourly), key=f'{a["id"]}|{hourly}')
+        if refs:
+            st.caption("Comparaison des bookmakers (même sélection)")
+            st.table(books_table(a, refs))
         if len(outs) > 1:
+            st.caption(f'Autres issues chez {short(a["bookmaker"])}')
             st.table(outcomes_table(outs))
+        if a.get("flash"):
+            st.link_button("🔎 Flashscore", a["flash"])
