@@ -4,7 +4,7 @@ import sys
 import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote_plus
 
 import requests
 
@@ -22,7 +22,7 @@ REF_BOOKMAKERS = [b.strip() for b in
                   os.getenv("REF_BOOKMAKERS", "pinnacle,bet365").split(",")
                   if b.strip()][:2]
 ALL_BOOKS = ",".join([ALERT_BOOKMAKER] + REF_BOOKMAKERS)
-FLASH_URL = os.getenv("FLASH_URL", "https://www.flashscore.fr/search/?q=")
+FLASH_URL = os.getenv("FLASH_URL", "https://www.google.com/search?q=flashscore+")
 APP_URL = os.getenv("APP_URL", "").strip()
 
 HORIZON_HOURS = int(os.getenv("HORIZON_HOURS", "24"))
@@ -67,8 +67,8 @@ def short(b):
 
 
 def flash_url(f):
-    name = f["p1"].split(",")[0].strip()
-    return FLASH_URL + quote(name)
+    names = " ".join(p.split(",")[0].strip() for p in (f["p1"], f["p2"]))
+    return FLASH_URL + quote_plus(names)
 
 
 def throttle(path):
