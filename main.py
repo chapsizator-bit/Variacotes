@@ -4,6 +4,7 @@ import sys
 import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 
@@ -16,8 +17,13 @@ TG_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TG_CHAT = os.getenv("TELEGRAM_CHAT_ID")
 DISCORD = os.getenv("DISCORD_WEBHOOK_URL")
 
-BOOKMAKERS = [b.strip() for b in
-              os.getenv("BOOKMAKERS", "winamax.fr,zebet.fr").split(",") if b.strip()][:3]
+ALERT_BOOKMAKER = os.getenv("ALERT_BOOKMAKER", "winamax.fr").strip()
+REF_BOOKMAKERS = [b.strip() for b in
+                  os.getenv("REF_BOOKMAKERS", "pinnacle,bet365").split(",")
+                  if b.strip()][:2]
+ALL_BOOKS = ",".join([ALERT_BOOKMAKER] + REF_BOOKMAKERS)
+FLASH_URL = os.getenv("FLASH_URL", "https://www.flashscore.fr/search/?q=")
+
 HORIZON_HOURS = int(os.getenv("HORIZON_HOURS", "24"))
 FIXTURES_DAYS = int(os.getenv("FIXTURES_DAYS", "3"))
 REFRESH_HOURS = int(os.getenv("REFRESH_HOURS", "24"))
@@ -53,6 +59,15 @@ def budget_left():
 
 def parse_date(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
+
+
+def short(b):
+    return b.split(".")[0].capitalize()
+
+
+def flash_url(f):
+    name = f["p1"].split(",")[0].strip()
+    return FLASH_URL + quote(name)
 
 
 def throttle(path):
@@ -159,7 +174,7 @@ def refresh_fixtures(now):
             data = call("/fixtures", sportId=sid,
                         **{"from": now.strftime("%Y-%m-%d"),
                            "to": (now + timedelta(days=FIXTURES_DAYS)).strftime("%Y-%m-%d")},
-                        statusId=0, hasOdds="true", bookmakers=",".join(BOOKMAKERS))
+                        statusId=0, hasOdds="true", bookmakers=ALERT_BOOKMAKER)
         except requests.HTTPError as exc:
             print(f"{name} : erreur {exc.response.status_code}, sport ignoré")
             continue
@@ -208,7 +223,52 @@ def matches_filters(o, c):
             and round(o - c, 2) >= MIN_DROP)
 
 
-def upsert_alert(key, f, bookie, labels, oid, outs, now):
+def collect(mdata, labels):
+    outs = {}
+    for oid, odata in (mdata.get("outcomes") or {}).items():
+        if oid not in labels:
+            continue
+        entries = (odata.get("players") or {}).get("0", [])
+        res = analyse(entries)
+        if res:
+            outs[oid] = (entries, res[0], res[1])
+    return outs
+
+
+def ref_data(books, mid, oid):
+    out = {}
+    for b in REF_BOOKMAKERS:
+        markets = (books.get(b) or {}).get("markets") or {}
+        odata = ((markets.get(mid) or {}).get("outcomes") or {}).get(oid)
+        if not odata:
+            continue
+        entries = (odata.get("players") or {}).get("0", [])
+        res = analyse(entries)
+        if res:
+            out[b] = (entries, res[0], res[1])
+    return out
+
+
+def build_message(f, selection, op, cur, refs):
+    drop = round(op - cur, 2)
+    lines = [
+        "📉 ALERTE VARIACOTE",
+        f"Sport : {f['sport']}",
+        f"Match : {f['p1']} - {f['p2']}",
+        f"Sélection : {selection}",
+        f"Bookmaker : {ALERT_BOOKMAKER}",
+        f"Cote d'ouverture : {op:.2f}",
+        f"Cote actuelle : {cur:.2f}",
+        f"Variation : -{drop:.2f} (-{drop / op * 100:.1f}%)"]
+    if refs:
+        lines.append("Autres bookmakers :")
+        for b, (_, o2, c2) in refs.items():
+            lines.append(f"{short(b)} : {o2:.2f} → {c2:.2f} ({c2 - o2:+.2f})")
+    lines.append(f"🔎 Flashscore : {flash_url(f)}")
+    return "\n".join(lines)
+
+
+def upsert_alert(key, f, labels, oid, outs, refs, now):
     _, op, cur = outs[oid]
     drop = round(op - cur, 2)
     old = ALERTS.get(key, {})
@@ -216,14 +276,17 @@ def upsert_alert(key, f, bookie, labels, oid, outs, now):
     for o2 in sorted(outs, key=lambda x: int(x) if x.isdigit() else 0):
         e2, op2, cur2 = outs[o2]
         outcomes.append({"label": label_for(labels[o2], f), "selected": o2 == oid,
-                         "open": op2, "current": cur2, "series": build_series(e2)})
+                         "open": op2, "current": cur2,
+                         "series": build_series(e2) if o2 == oid else []})
+    ref_list = [{"bookmaker": b, "open": o2, "current": c2, "series": build_series(e2)}
+                for b, (e2, o2, c2) in refs.items()]
     ALERTS[key] = {
         "id": key, "sport": f["sport"], "league": f.get("league", ""),
         "match": f"{f['p1']} - {f['p2']}", "selection": label_for(labels[oid], f),
-        "bookmaker": bookie, "start": f["start"],
+        "bookmaker": ALERT_BOOKMAKER, "start": f["start"], "flash": flash_url(f),
         "open": op, "current": cur, "drop": drop, "pct": round(drop / op * 100, 1),
         "alerted_at": old.get("alerted_at") or STATE["alerted"][key],
-        "updated_at": now.isoformat(), "outcomes": outcomes}
+        "updated_at": now.isoformat(), "outcomes": outcomes, "refs": ref_list}
 
 
 def check(now):
@@ -240,7 +303,7 @@ def check(now):
             continue
         try:
             hist = call("/historical-odds", billed=False, fixtureId=f["id"],
-                        bookmakers=",".join(BOOKMAKERS))
+                        bookmakers=ALL_BOOKS)
         except Exception as exc:
             errors += 1
             print(f"Erreur {f['id']} : {exc}")
@@ -248,36 +311,22 @@ def check(now):
                 break
             continue
         root = hist if "bookmakers" in hist else hist.get(f["id"], {})
-        for bookie, bdata in (root.get("bookmakers") or {}).items():
-            for mid, mdata in (bdata.get("markets") or {}).items():
-                labels = mk.get(mid)
-                if not labels:
-                    continue
-                outs = {}
-                for oid, odata in (mdata.get("outcomes") or {}).items():
-                    if oid not in labels:
-                        continue
-                    entries = (odata.get("players") or {}).get("0", [])
-                    res = analyse(entries)
-                    if res:
-                        outs[oid] = (entries, res[0], res[1])
-                for oid, (entries, op, cur) in outs.items():
-                    key = f'{f["id"]}|{bookie}|{mid}|{oid}'
-                    if key not in STATE["alerted"] and matches_filters(op, cur):
-                        drop = round(op - cur, 2)
-                        notify(
-                            f"📉 ALERTE VARIACOTE\n"
-                            f"Sport : {f['sport']}\n"
-                            f"Match : {f['p1']} - {f['p2']}\n"
-                            f"Sélection : {label_for(labels[oid], f)}\n"
-                            f"Bookmaker : {bookie}\n"
-                            f"Cote d'ouverture : {op:.2f}\n"
-                            f"Cote actuelle : {cur:.2f}\n"
-                            f"Variation : -{drop:.2f} (-{drop / op * 100:.1f}%)")
-                        STATE["alerted"][key] = now.isoformat()
-                        alerts += 1
-                    if key in STATE["alerted"]:
-                        upsert_alert(key, f, bookie, labels, oid, outs, now)
+        books = root.get("bookmakers") or {}
+        main = books.get(ALERT_BOOKMAKER) or {}
+        for mid, mdata in (main.get("markets") or {}).items():
+            labels = mk.get(mid)
+            if not labels:
+                continue
+            outs = collect(mdata, labels)
+            for oid, (entries, op, cur) in outs.items():
+                key = f'{f["id"]}|{ALERT_BOOKMAKER}|{mid}|{oid}'
+                refs = ref_data(books, mid, oid)
+                if key not in STATE["alerted"] and matches_filters(op, cur):
+                    notify(build_message(f, label_for(labels[oid], f), op, cur, refs))
+                    STATE["alerted"][key] = now.isoformat()
+                    alerts += 1
+                if key in STATE["alerted"]:
+                    upsert_alert(key, f, labels, oid, outs, refs, now)
     print(f"{alerts} alerte(s)")
 
 
