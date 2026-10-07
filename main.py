@@ -23,6 +23,7 @@ REF_BOOKMAKERS = [b.strip() for b in
                   if b.strip()][:2]
 ALL_BOOKS = ",".join([ALERT_BOOKMAKER] + REF_BOOKMAKERS)
 FLASH_URL = os.getenv("FLASH_URL", "https://www.flashscore.fr/search/?q=")
+APP_URL = os.getenv("APP_URL", "").strip()
 
 HORIZON_HOURS = int(os.getenv("HORIZON_HOURS", "24"))
 FIXTURES_DAYS = int(os.getenv("FIXTURES_DAYS", "3"))
