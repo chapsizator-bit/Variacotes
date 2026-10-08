@@ -3,20 +3,23 @@
   "sports": {
    "10": "Soccer",
    "11": "Basketball",
-   "12": "Tennis"
+   "12": "Tennis",
+   "15": "Ice Hockey",
+   "22": "Handball",
+   "23": "Volleyball"
   },
   "markets": {
    "10": {
     "101": {
-     "102": "X",
      "101": "1",
+     "102": "X",
      "103": "2"
     }
    },
    "11": {
     "111": {
-     "112": "2",
-     "111": "1"
+     "111": "1",
+     "112": "2"
     }
    },
    "12": {
@@ -24,8 +27,29 @@
      "121": "1",
      "122": "2"
     }
+   },
+   "22": {
+    "221": {
+     "222": "2",
+     "221": "1"
+    }
+   },
+   "23": {
+    "231": {
+     "232": "2",
+     "231": "1"
+    }
    }
-  }
+  },
+  "wanted": [
+   "basketball",
+   "handball",
+   "hockey",
+   "ice hockey",
+   "soccer",
+   "tennis",
+   "volleyball"
+  ]
  },
  "fixtures": {
   "10": {
@@ -1302,6 +1326,948 @@
      "league": "ATP Shanghai, China Men Singles"
     }
    ]
+  },
+  "15": {
+   "fetched": "2026-10-08T05:31:49.998467+00:00",
+   "items": [
+    {
+     "id": "id1500013472116330",
+     "sportId": "15",
+     "p1": "Jokerit Helsinki",
+     "p2": "HIFK Helsinki",
+     "start": "2026-10-08T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Liiga"
+    },
+    {
+     "id": "id1500013472116332",
+     "sportId": "15",
+     "p1": "SaiPa Lappeenranta",
+     "p2": "JYP Jyvaskyla",
+     "start": "2026-10-08T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Liiga"
+    },
+    {
+     "id": "id1500023772019218",
+     "sportId": "15",
+     "p1": "HC Plzen",
+     "p2": "Ceske Budejovice",
+     "start": "2026-10-08T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023772019222",
+     "sportId": "15",
+     "p1": "Sparta Prague",
+     "p2": "HC Kometa Brno",
+     "start": "2026-10-08T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500026072122074",
+     "sportId": "15",
+     "p1": "Lillehammer IK",
+     "p2": "Stjernen Hockey Fredrikstad",
+     "start": "2026-10-08T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "EHL"
+    },
+    {
+     "id": "id1500026072122076",
+     "sportId": "15",
+     "p1": "Stavanger Oilers",
+     "p2": "Narvik Ishockeyklubb",
+     "start": "2026-10-08T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "EHL"
+    },
+    {
+     "id": "id1500026072122078",
+     "sportId": "15",
+     "p1": "Vaalerenga IF Oslo",
+     "p2": "Nidaros Hockey",
+     "start": "2026-10-08T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "EHL"
+    },
+    {
+     "id": "id1500026171696436",
+     "sportId": "15",
+     "p1": "Djurgardens IF",
+     "p2": "HC Orebro",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "SHL"
+    },
+    {
+     "id": "id1500026171696438",
+     "sportId": "15",
+     "p1": "Lulea Hockey",
+     "p2": "Malmo IF",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "SHL"
+    },
+    {
+     "id": "id1500026171696440",
+     "sportId": "15",
+     "p1": "Skelleftea AIK",
+     "p2": "Farjestads BK",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "SHL"
+    },
+    {
+     "id": "id1500026171696442",
+     "sportId": "15",
+     "p1": "Rogle BK",
+     "p2": "HV71",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "SHL"
+    },
+    {
+     "id": "id1500026171696444",
+     "sportId": "15",
+     "p1": "Vaxjo Lakers",
+     "p2": "Linkopings HC",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "SHL"
+    },
+    {
+     "id": "id1500026171696446",
+     "sportId": "15",
+     "p1": "Timraa IK",
+     "p2": "Frolunda HC",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "SHL"
+    },
+    {
+     "id": "id1500026171696448",
+     "sportId": "15",
+     "p1": "Brynas IF",
+     "p2": "IF Bjorkloven",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "SHL"
+    },
+    {
+     "id": "id1500022572483970",
+     "sportId": "15",
+     "p1": "Lowen Frankfurt",
+     "p2": "Krefeld Pinguine",
+     "start": "2026-10-08T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "DEL"
+    },
+    {
+     "id": "id1500012872123386",
+     "sportId": "15",
+     "p1": "HC Fribourg-Gotteron",
+     "p2": "HC Ajoie Porrentruy",
+     "start": "2026-10-08T18:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "National League"
+    },
+    {
+     "id": "id1500023472886460",
+     "sportId": "15",
+     "p1": "Ottawa Senators",
+     "p2": "Philadelphia Flyers",
+     "start": "2026-10-08T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908964",
+     "sportId": "15",
+     "p1": "Boston Bruins",
+     "p2": "Utah Mammoth",
+     "start": "2026-10-08T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908966",
+     "sportId": "15",
+     "p1": "Buffalo Sabres",
+     "p2": "Dallas Stars",
+     "start": "2026-10-08T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908968",
+     "sportId": "15",
+     "p1": "Montreal Canadiens",
+     "p2": "Nashville Predators",
+     "start": "2026-10-08T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908970",
+     "sportId": "15",
+     "p1": "Tampa Bay Lightning",
+     "p2": "Minnesota Wild",
+     "start": "2026-10-08T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908972",
+     "sportId": "15",
+     "p1": "Carolina Hurricanes",
+     "p2": "Vancouver Canucks",
+     "start": "2026-10-08T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908974",
+     "sportId": "15",
+     "p1": "New York Islanders",
+     "p2": "Chicago Blackhawks",
+     "start": "2026-10-08T23:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472886462",
+     "sportId": "15",
+     "p1": "St. Louis Blues",
+     "p2": "San Jose Sharks",
+     "start": "2026-10-09T00:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908960",
+     "sportId": "15",
+     "p1": "Calgary Flames",
+     "p2": "Colorado Avalanche",
+     "start": "2026-10-09T01:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023472908962",
+     "sportId": "15",
+     "p1": "Vegas Golden Knights",
+     "p2": "Toronto Maple Leafs",
+     "start": "2026-10-09T02:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "NHL"
+    },
+    {
+     "id": "id1500023772019214",
+     "sportId": "15",
+     "p1": "Ocelari Trinec",
+     "p2": "Mountfield HK",
+     "start": "2026-10-09T15:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500013472116338",
+     "sportId": "15",
+     "p1": "KooKoo",
+     "p2": "Jukurit Mikkeli",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Liiga"
+    },
+    {
+     "id": "id1500013472116344",
+     "sportId": "15",
+     "p1": "Assat Pori",
+     "p2": "HPK Hameenlinna",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Liiga"
+    },
+    {
+     "id": "id1500023672709778",
+     "sportId": "15",
+     "p1": "HC 05 Banska Bystrica",
+     "p2": "Slovan Bratislava",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023672709782",
+     "sportId": "15",
+     "p1": "Dukla Michalovce",
+     "p2": "HK Poprad",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023672709788",
+     "sportId": "15",
+     "p1": "Spisska Nova Ves",
+     "p2": "HC Presov",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023772019216",
+     "sportId": "15",
+     "p1": "HC Litvinov",
+     "p2": "HC Olomouc",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023772019220",
+     "sportId": "15",
+     "p1": "HC Vitkovice",
+     "p2": "HC Pardubice",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023672709780",
+     "sportId": "15",
+     "p1": "Mhk 32 Liptovsky Mikulas",
+     "p2": "HK Vlci Zilina",
+     "start": "2026-10-09T16:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023672709784",
+     "sportId": "15",
+     "p1": "HKM Zvolen",
+     "p2": "HC Kosice",
+     "start": "2026-10-09T16:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023672709786",
+     "sportId": "15",
+     "p1": "HK Dukla Trencin",
+     "p2": "HK Nitra",
+     "start": "2026-10-09T16:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023772019224",
+     "sportId": "15",
+     "p1": "HC Rytiri Kladno",
+     "p2": "BK Mlada Boleslav",
+     "start": "2026-10-09T16:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500023772019226",
+     "sportId": "15",
+     "p1": "Bili Tygri Liberec",
+     "p2": "Energie Karlovy Vary",
+     "start": "2026-10-09T16:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500013472116346",
+     "sportId": "15",
+     "p1": "KalPa Hockey",
+     "p2": "Tappara Tampere",
+     "start": "2026-10-09T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Liiga"
+    },
+    {
+     "id": "id1500025673238402",
+     "sportId": "15",
+     "p1": "Ferencvaros-Esmtk",
+     "p2": "Vienna Capitals",
+     "start": "2026-10-09T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "ICE Hockey League"
+    },
+    {
+     "id": "id1500025673238404",
+     "sportId": "15",
+     "p1": "EC Graz 99Ers",
+     "p2": "HK Olimpija Ljubljana",
+     "start": "2026-10-09T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "ICE Hockey League"
+    },
+    {
+     "id": "id1500025673238406",
+     "sportId": "15",
+     "p1": "EC Villacher SV",
+     "p2": "HC Bolzano-Bozen Foxes",
+     "start": "2026-10-09T17:15:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "ICE Hockey League"
+    },
+    {
+     "id": "id1500025673238408",
+     "sportId": "15",
+     "p1": "Fehervar AV19",
+     "p2": "Red Bull Salzburg",
+     "start": "2026-10-09T17:15:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "ICE Hockey League"
+    },
+    {
+     "id": "id1500025673238410",
+     "sportId": "15",
+     "p1": "Black Wings Linz",
+     "p2": "Pustertal Wolfe",
+     "start": "2026-10-09T17:15:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "ICE Hockey League"
+    },
+    {
+     "id": "id1500022572483972",
+     "sportId": "15",
+     "p1": "Kolner Haie",
+     "p2": "Schwenninger Wild Wings",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "DEL"
+    },
+    {
+     "id": "id1500022572483974",
+     "sportId": "15",
+     "p1": "Eisbaren Berlin",
+     "p2": "Grizzlys Wolfsburg",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "DEL"
+    },
+    {
+     "id": "id1500022572483976",
+     "sportId": "15",
+     "p1": "Nuremberg Ice Tigers",
+     "p2": "Adler Mannheim",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "DEL"
+    },
+    {
+     "id": "id1500022572483978",
+     "sportId": "15",
+     "p1": "Augsburger Panther",
+     "p2": "Fischtown Pinguins",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "DEL"
+    },
+    {
+     "id": "id1500022572483980",
+     "sportId": "15",
+     "p1": "Red Bull Munich",
+     "p2": "ERC Ingolstadt",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "DEL"
+    },
+    {
+     "id": "id1500022572483982",
+     "sportId": "15",
+     "p1": "Straubing Tigers",
+     "p2": "Iserlohn Roosters",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "DEL"
+    },
+    {
+     "id": "id1500025673238412",
+     "sportId": "15",
+     "p1": "Pioneers Vorarlberg",
+     "p2": "KAC Klagenfurt",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "ICE Hockey League"
+    },
+    {
+     "id": "id1500012872123388",
+     "sportId": "15",
+     "p1": "SC Bern",
+     "p2": "EHC Biel",
+     "start": "2026-10-09T17:45:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "National League"
+    },
+    {
+     "id": "id1500012872123390",
+     "sportId": "15",
+     "p1": "HC Davos",
+     "p2": "EHC Kloten",
+     "start": "2026-10-09T17:45:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "National League"
+    },
+    {
+     "id": "id1500012872123392",
+     "sportId": "15",
+     "p1": "HC Lugano",
+     "p2": "ZSC Lions Zurich",
+     "start": "2026-10-09T17:45:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "National League"
+    },
+    {
+     "id": "id1500012872123394",
+     "sportId": "15",
+     "p1": "SCL Tigers Langnau",
+     "p2": "SC Rapperswil-Jona Lakers",
+     "start": "2026-10-09T17:45:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "National League"
+    },
+    {
+     "id": "id1500025673238414",
+     "sportId": "15",
+     "p1": "HC Milano Bears",
+     "p2": "HC TWK Innsbruck",
+     "start": "2026-10-09T17:45:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "ICE Hockey League"
+    },
+    {
+     "id": "id1500059972178074",
+     "sportId": "15",
+     "p1": "Les Aigles de Nice",
+     "p2": "Angers Ducs",
+     "start": "2026-10-09T18:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Ligue Magnus"
+    },
+    {
+     "id": "id1500059972178078",
+     "sportId": "15",
+     "p1": "HC Briancon",
+     "p2": "HC Amiens Somme",
+     "start": "2026-10-09T18:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Ligue Magnus"
+    },
+    {
+     "id": "id1500059972178358",
+     "sportId": "15",
+     "p1": "Rouen Dragons",
+     "p2": "Chamonix Mont-Blanc Pionieers",
+     "start": "2026-10-09T18:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Ligue Magnus"
+    },
+    {
+     "id": "id1500059972178036",
+     "sportId": "15",
+     "p1": "Cergy-Pontoise",
+     "p2": "Anglet Hormadi Elite",
+     "start": "2026-10-09T18:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Ligue Magnus"
+    },
+    {
+     "id": "id1500059972178080",
+     "sportId": "15",
+     "p1": "Spartiates de Marseille",
+     "p2": "Rapaces de Gap",
+     "start": "2026-10-09T18:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Ligue Magnus"
+    },
+    {
+     "id": "id1500084472732460",
+     "sportId": "15",
+     "p1": "Grand Rapids Griffins",
+     "p2": "Manitoba Moose",
+     "start": "2026-10-09T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472732462",
+     "sportId": "15",
+     "p1": "Hamilton Hammers",
+     "p2": "Toronto Marlies",
+     "start": "2026-10-09T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472732464",
+     "sportId": "15",
+     "p1": "Providence Bruins",
+     "p2": "Hartford Wolf Pack",
+     "start": "2026-10-09T23:05:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472732466",
+     "sportId": "15",
+     "p1": "Rochester Americans",
+     "p2": "Syracuse Crunch",
+     "start": "2026-10-09T23:05:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472733464",
+     "sportId": "15",
+     "p1": "Iowa Wild",
+     "p2": "Rockford Icehogs",
+     "start": "2026-10-10T00:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472733688",
+     "sportId": "15",
+     "p1": "Calgary Wranglers",
+     "p2": "Bakersfield Condors",
+     "start": "2026-10-10T01:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472733690",
+     "sportId": "15",
+     "p1": "Colorado Eagles",
+     "p2": "Abbotsford Canucks",
+     "start": "2026-10-10T01:05:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472733626",
+     "sportId": "15",
+     "p1": "San Jose Barracuda",
+     "p2": "Tucson Roadrunners",
+     "start": "2026-10-10T02:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472733628",
+     "sportId": "15",
+     "p1": "Coachella Valley Firebirds",
+     "p2": "San Diego Gulls",
+     "start": "2026-10-10T02:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500026072122090",
+     "sportId": "15",
+     "p1": "Frisk Asker",
+     "p2": "Ringerike IHK Hoenefoss",
+     "start": "2026-10-10T15:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "EHL"
+    },
+    {
+     "id": "id1500059972178014",
+     "sportId": "15",
+     "p1": "Bordeaux GHC",
+     "p2": "Grenoble Bruleurs de Loups",
+     "start": "2026-10-10T16:30:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Ligue Magnus"
+    },
+    {
+     "id": "id1500023672709796",
+     "sportId": "15",
+     "p1": "HK Poprad",
+     "p2": "HKM Zvolen",
+     "start": "2026-10-10T17:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "Extraliga"
+    },
+    {
+     "id": "id1500084472732474",
+     "sportId": "15",
+     "p1": "Hershey Bears",
+     "p2": "Texas Stars",
+     "start": "2026-10-10T23:00:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    },
+    {
+     "id": "id1500084472732480",
+     "sportId": "15",
+     "p1": "Lehigh Valley Phantoms",
+     "p2": "Cleveland Monsters",
+     "start": "2026-10-10T23:05:00.000Z",
+     "sport": "Ice Hockey",
+     "league": "AHL"
+    }
+   ]
+  },
+  "22": {
+   "fetched": "2026-10-08T05:31:49.998467+00:00",
+   "items": [
+    {
+     "id": "id2200003073164542",
+     "sportId": "22",
+     "p1": "Fuchse Berlin",
+     "p2": "FC Porto",
+     "start": "2026-10-08T16:45:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League"
+    },
+    {
+     "id": "id2200003073164592",
+     "sportId": "22",
+     "p1": "RK Zagreb",
+     "p2": "Aalborg Haandbold",
+     "start": "2026-10-08T16:45:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League"
+    },
+    {
+     "id": "id2200014972473184",
+     "sportId": "22",
+     "p1": "Rhein-Neckar Lowen",
+     "p2": "ThSV Eisenach",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "Bundesliga"
+    },
+    {
+     "id": "id2200014972473196",
+     "sportId": "22",
+     "p1": "TVB Stuttgart",
+     "p2": "HSG Wetzlar",
+     "start": "2026-10-08T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "Bundesliga"
+    },
+    {
+     "id": "id2200015972748934",
+     "sportId": "22",
+     "p1": "PAUC Handball",
+     "p2": "Saran Loiret Handball",
+     "start": "2026-10-08T18:00:00.000Z",
+     "sport": "Handball",
+     "league": "LNH Starligue"
+    },
+    {
+     "id": "id2200003073164568",
+     "sportId": "22",
+     "p1": "RK Vardar Skopje",
+     "p2": "Wisla Plock",
+     "start": "2026-10-08T18:45:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League"
+    },
+    {
+     "id": "id2200003073164570",
+     "sportId": "22",
+     "p1": "MT Melsungen",
+     "p2": "HBC Nantes",
+     "start": "2026-10-08T18:45:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League"
+    },
+    {
+     "id": "id2200003073164660",
+     "sportId": "22",
+     "p1": "FC Barcelona",
+     "p2": "CS Dinamo Bucuresti",
+     "start": "2026-10-08T18:45:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League"
+    },
+    {
+     "id": "id2200003073164662",
+     "sportId": "22",
+     "p1": "Skanderborg AGF Haandbold",
+     "p2": "Montpellier Handball",
+     "start": "2026-10-08T18:45:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League"
+    },
+    {
+     "id": "id2200014972473188",
+     "sportId": "22",
+     "p1": "TSV Hannover-Burgdorf",
+     "p2": "SG Flensburg-Handewitt",
+     "start": "2026-10-09T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "Bundesliga"
+    },
+    {
+     "id": "id2200024872982578",
+     "sportId": "22",
+     "p1": "Fertiberia Puerto Sagunto",
+     "p2": "Eon Horneo Alicante",
+     "start": "2026-10-09T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "Liga Asobal"
+    },
+    {
+     "id": "id2200015972748944",
+     "sportId": "22",
+     "p1": "Saint Raphael",
+     "p2": "Cesson Rennes Metropole HB",
+     "start": "2026-10-09T17:30:00.000Z",
+     "sport": "Handball",
+     "league": "LNH Starligue"
+    },
+    {
+     "id": "id2200015972748936",
+     "sportId": "22",
+     "p1": "Chartres Metropole Handball",
+     "p2": "Chambery Savoie Mont Blanc Handball",
+     "start": "2026-10-09T18:00:00.000Z",
+     "sport": "Handball",
+     "league": "LNH Starligue"
+    },
+    {
+     "id": "id2200024872982574",
+     "sportId": "22",
+     "p1": "BM Ciudad Encantada Cuenca",
+     "p2": "BM Logrono La Rioja",
+     "start": "2026-10-09T18:00:00.000Z",
+     "sport": "Handball",
+     "league": "Liga Asobal"
+    },
+    {
+     "id": "id2200024872982572",
+     "sportId": "22",
+     "p1": "BM Caserio Ciudad Real",
+     "p2": "BM Granollers",
+     "start": "2026-10-09T18:15:00.000Z",
+     "sport": "Handball",
+     "league": "Liga Asobal"
+    },
+    {
+     "id": "id2200028873163316",
+     "sportId": "22",
+     "p1": "Gyori ETO KC",
+     "p2": "Metz Handball",
+     "start": "2026-10-10T14:00:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League, Women"
+    },
+    {
+     "id": "id2200024872982570",
+     "sportId": "22",
+     "p1": "Ademar Leon",
+     "p2": "BM Nava",
+     "start": "2026-10-10T16:00:00.000Z",
+     "sport": "Handball",
+     "league": "Liga Asobal"
+    },
+    {
+     "id": "id2200014972473190",
+     "sportId": "22",
+     "p1": "FRISCH AUF! Goppingen",
+     "p2": "SG BBM Bietigheim",
+     "start": "2026-10-10T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "Bundesliga"
+    },
+    {
+     "id": "id2200015972748938",
+     "sportId": "22",
+     "p1": "Limoges Handball",
+     "p2": "USAM Nimes Gard",
+     "start": "2026-10-10T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "LNH Starligue"
+    },
+    {
+     "id": "id2200015972748942",
+     "sportId": "22",
+     "p1": "Paris Saint-Germain",
+     "p2": "Fenix Toulouse Handball",
+     "start": "2026-10-10T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "LNH Starligue"
+    },
+    {
+     "id": "id2200024872982566",
+     "sportId": "22",
+     "p1": "BM Torrelavega",
+     "p2": "CB Cangas",
+     "start": "2026-10-10T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "Liga Asobal"
+    },
+    {
+     "id": "id2200024872982576",
+     "sportId": "22",
+     "p1": "Bidasoa Irun",
+     "p2": "BM Triana",
+     "start": "2026-10-10T17:00:00.000Z",
+     "sport": "Handball",
+     "league": "Liga Asobal"
+    },
+    {
+     "id": "id2200003073164634",
+     "sportId": "22",
+     "p1": "SC Szeged",
+     "p2": "Sporting Clube Portugal",
+     "start": "2026-10-10T18:00:00.000Z",
+     "sport": "Handball",
+     "league": "EHF Champions League"
+    }
+   ]
+  },
+  "23": {
+   "fetched": "2026-10-08T05:31:49.998467+00:00",
+   "items": [
+    {
+     "id": "id2300117372775220",
+     "sportId": "23",
+     "p1": "Stal Mielec",
+     "p2": "KS Palac Bydgoszcz",
+     "start": "2026-10-09T15:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300117372775214",
+     "sportId": "23",
+     "p1": "Budowlani Lodz",
+     "p2": "LKS Lodz",
+     "start": "2026-10-09T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300056773076412",
+     "sportId": "23",
+     "p1": "Volley Vallefoglia",
+     "p2": "Pallavolo Scandicci",
+     "start": "2026-10-10T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076414",
+     "sportId": "23",
+     "p1": "Volley Conegliano",
+     "p2": "Busto Arsizio Volley",
+     "start": "2026-10-10T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    }
+   ]
   }
  },
  "alerted": {
@@ -1330,6 +2296,6 @@
   "id1100014172902428|winamax.fr|111|112": "2026-10-07T16:01:07.108599+00:00"
  },
  "billable": {
-  "2026-10": 20
+  "2026-10": 25
  }
 }
