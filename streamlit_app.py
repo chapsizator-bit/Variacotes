@@ -37,7 +37,7 @@ def fmt_dt(s):
 
 def to_df(series, end, current, hourly):
     df = pd.DataFrame(series)
-    df["t"] = pd.to_datetime(df["t"], utc=True).dt.tz_convert(TZ)
+    df["t"] = pd.to_datetime(df["t"], utc=True, format="ISO8601").dt.tz_convert(TZ)
     df = df.sort_values("t")
     if end > df["t"].iloc[-1]:
         df = pd.concat([df, pd.DataFrame({"t": [end], "p": [current]})],
@@ -85,7 +85,7 @@ def make_chart(a, sel, refs, hourly):
         x=[x0, x1], y=[op, cur], mode="markers+text", showlegend=False,
         marker=dict(size=11, color=["#64748b", "#ef4444"],
                     line=dict(color="white", width=2)),
-        text=[f"Ouverture {op:.2f}", f"{cur:.2f} ({cur - op:+.2f})"],
+        text=f"Réf. {op:.2f}", f"{cur:.2f} ({cur - op:+.2f})"],
         textposition=["top right", "top left"], cliponaxis=False,
         hoverinfo="skip"))
 
@@ -110,7 +110,7 @@ def show_chart(fig, key):
 def row(name, op, cur):
     d = cur - op
     arrow = "▼" if d < 0 else ("▲" if d > 0 else "=")
-    return {"Nom": name, "Ouverture": f"{op:.2f}", "Actuelle": f"{cur:.2f}",
+    return {"Nom": name, "Référence": f"{op:.2f}", "Actuelle": f"{cur:.2f}",
             "Variation": f"{arrow} {d:+.2f}"}
 
 
@@ -159,7 +159,7 @@ for a in rows:
                    f'coup d\'envoi {fmt_dt(a["start"])}')
         st.markdown(f'**Sélection : {a["selection"]}**')
         c1, c2, c3 = st.columns(3)
-        c1.metric("Ouverture", f'{a["open"]:.2f}')
+        c1.metric("Référence", f'{a["open"]:.2f}')
         c2.metric("Actuelle", f'{a["current"]:.2f}')
         c3.metric("Variation", f'{-a["drop"]:+.2f}', f'{-a["pct"]:+.1f} %',
                   delta_color="off")
