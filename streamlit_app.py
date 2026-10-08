@@ -85,7 +85,7 @@ def make_chart(a, sel, refs, hourly):
         x=[x0, x1], y=[op, cur], mode="markers+text", showlegend=False,
         marker=dict(size=11, color=["#64748b", "#ef4444"],
                     line=dict(color="white", width=2)),
-        text=f"Réf. {op:.2f}", f"{cur:.2f} ({cur - op:+.2f})"],
+        text=[f"Réf. {op:.2f}", f"{cur:.2f} ({cur - op:+.2f})"],
         textposition=["top right", "top left"], cliponaxis=False,
         hoverinfo="skip"))
 
