@@ -37,7 +37,7 @@ jobs:
           APP_URL: "https://variacotes.streamlit.app"
           HORIZON_HOURS: "24"
           MAX_FIXTURES: "150"
-          REFRESH_HOURS: "12"
+          REFRESH_HOURS: "24"
         run: python main.py
 
       - name: Sauvegarder l'état
