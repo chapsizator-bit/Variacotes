@@ -28,11 +28,13 @@ APP_URL = os.getenv("APP_URL", "").strip()
 HORIZON_HOURS = int(os.getenv("HORIZON_HOURS", "24"))
 FIXTURES_DAYS = int(os.getenv("FIXTURES_DAYS", "3"))
 REFRESH_HOURS = int(os.getenv("REFRESH_HOURS", "24"))
-MAX_FIXTURES = int(os.getenv("MAX_FIXTURES", "60"))
+MAX_FIXTURES = int(os.getenv("MAX_FIXTURES", "150"))
 MONTHLY_BUDGET = int(os.getenv("MONTHLY_BUDGET", "235"))
+REF_HOURS = int(os.getenv("REF_HOURS", "72"))
 MAX_POINTS = 120
 
-WANTED = {"soccer", "tennis", "basketball"}
+WANTED = {"soccer", "tennis", "basketball", "volleyball", "handball",
+          "ice hockey", "hockey"}
 MAIN_NAMES = {"full time result", "match winner", "winner", "moneyline",
               "money line", "match result", "winner (incl. overtime)"}
 
@@ -114,7 +116,8 @@ def save_state():
     STATE_FILE.write_text(json.dumps(STATE, ensure_ascii=False, indent=1),
                           encoding="utf-8")
     limit = datetime.now(timezone.utc) - timedelta(days=7)
-    keep = [a for a in ALERTS.values() if parse_date(a["start"]) > limit]
+    keep = [a for a in ALERTS.values()
+            if parse_date(a["start"]) > limit and a["bookmaker"] == ALERT_BOOKMAKER]
     keep.sort(key=lambda a: a["alerted_at"], reverse=True)
     ALERTS_FILE.write_text(json.dumps(keep, ensure_ascii=False), encoding="utf-8")
 
@@ -136,7 +139,9 @@ def is_main(m):
 
 
 def load_meta():
-    if STATE["meta"].get("markets") and STATE["meta"].get("sports"):
+    meta = STATE["meta"]
+    if (meta.get("markets") and meta.get("sports")
+            and meta.get("wanted") == sorted(WANTED)):
         return
     wanted = {str(s["sportId"]): s["sportName"] for s in call("/sports")
               if (s.get("sportName") or "").strip().lower() in WANTED}
@@ -158,9 +163,9 @@ def load_meta():
         else:
             seen = [f'{m["marketId"]}:{m["marketName"]}/{m.get("period")}'
                     for m in markets
-                    if str(m.get("sportId")) == sid and m.get("marketLength") == 2][:25]
-            print(f"ATTENTION {name} : aucun marché principal trouvé. Marchés à 2 issues : {seen}")
-    STATE["meta"] = {"sports": wanted, "markets": mk}
+                    if str(m.get("sportId")) == sid and m.get("marketLength") in (2, 3)][:25]
+            print(f"ATTENTION {name} : aucun marché principal trouvé. Marchés : {seen}")
+    STATE["meta"] = {"sports": wanted, "markets": mk, "wanted": sorted(WANTED)}
 
 
 def refresh_fixtures(now):
@@ -200,19 +205,31 @@ def label_for(raw, f):
     return raw
 
 
-def analyse(entries):
+def analyse(entries, start_dt):
+    """Retourne (cote de référence, cote actuelle).
+    Référence = dernière cote en vigueur REF_HOURS avant le match,
+    sinon première cote connue."""
     rows = sorted((e for e in entries if e.get("price") is not None),
                   key=lambda e: e["createdAt"])
     active = [e for e in rows if e.get("active")]
     if not rows or not active or not rows[-1].get("active"):
         return None
-    return float(active[0]["price"]), float(rows[-1]["price"])
+    ref_time = start_dt - timedelta(hours=REF_HOURS)
+    before = [e for e in active if parse_date(e["createdAt"]) <= ref_time]
+    ref = before[-1] if before else active[0]
+    return float(ref["price"]), float(rows[-1]["price"])
 
 
-def build_series(entries):
+def build_series(entries, start_dt):
     rows = sorted((e for e in entries if e.get("price") is not None and e.get("active")),
                   key=lambda e: e["createdAt"])
-    pts = [{"t": e["createdAt"], "p": float(e["price"])} for e in rows]
+    ref_time = start_dt - timedelta(hours=REF_HOURS)
+    before = [e for e in rows if parse_date(e["createdAt"]) <= ref_time]
+    after = [e for e in rows if parse_date(e["createdAt"]) > ref_time]
+    pts = []
+    if before:
+        pts.append({"t": ref_time.isoformat(), "p": float(before[-1]["price"])})
+    pts += [{"t": e["createdAt"], "p": float(e["price"])} for e in after]
     if len(pts) > MAX_POINTS:
         step = len(pts) / MAX_POINTS
         pts = [pts[int(i * step)] for i in range(MAX_POINTS)] + [pts[-1]]
@@ -224,19 +241,19 @@ def matches_filters(o, c):
             and round(o - c, 2) >= MIN_DROP)
 
 
-def collect(mdata, labels):
+def collect(mdata, labels, start_dt):
     outs = {}
     for oid, odata in (mdata.get("outcomes") or {}).items():
         if oid not in labels:
             continue
         entries = (odata.get("players") or {}).get("0", [])
-        res = analyse(entries)
+        res = analyse(entries, start_dt)
         if res:
             outs[oid] = (entries, res[0], res[1])
     return outs
 
 
-def ref_data(books, mid, oid):
+def ref_data(books, mid, oid, start_dt):
     out = {}
     for b in REF_BOOKMAKERS:
         markets = (books.get(b) or {}).get("markets") or {}
@@ -244,7 +261,7 @@ def ref_data(books, mid, oid):
         if not odata:
             continue
         entries = (odata.get("players") or {}).get("0", [])
-        res = analyse(entries)
+        res = analyse(entries, start_dt)
         if res:
             out[b] = (entries, res[0], res[1])
     return out
@@ -258,7 +275,7 @@ def build_message(f, selection, op, cur, refs):
         f"Match : {f['p1']} - {f['p2']}",
         f"Sélection : {selection}",
         f"Bookmaker : {ALERT_BOOKMAKER}",
-        f"Cote d'ouverture : {op:.2f}",
+        f"Cote de référence : {op:.2f}",
         f"Cote actuelle : {cur:.2f}",
         f"Variation : -{drop:.2f} (-{drop / op * 100:.1f}%)"]
     if refs:
@@ -271,6 +288,7 @@ def build_message(f, selection, op, cur, refs):
 
 
 def upsert_alert(key, f, labels, oid, outs, refs, now):
+    start_dt = parse_date(f["start"])
     _, op, cur = outs[oid]
     drop = round(op - cur, 2)
     old = ALERTS.get(key, {})
@@ -279,8 +297,9 @@ def upsert_alert(key, f, labels, oid, outs, refs, now):
         e2, op2, cur2 = outs[o2]
         outcomes.append({"label": label_for(labels[o2], f), "selected": o2 == oid,
                          "open": op2, "current": cur2,
-                         "series": build_series(e2) if o2 == oid else []})
-    ref_list = [{"bookmaker": b, "open": o2, "current": c2, "series": build_series(e2)}
+                         "series": build_series(e2, start_dt) if o2 == oid else []})
+    ref_list = [{"bookmaker": b, "open": o2, "current": c2,
+                 "series": build_series(e2, start_dt)}
                 for b, (e2, o2, c2) in refs.items()]
     ALERTS[key] = {
         "id": key, "sport": f["sport"], "league": f.get("league", ""),
@@ -303,6 +322,7 @@ def check(now):
         mk = STATE["meta"]["markets"].get(f["sportId"], {})
         if not mk:
             continue
+        start_dt = parse_date(f["start"])
         try:
             hist = call("/historical-odds", billed=False, fixtureId=f["id"],
                         bookmakers=ALL_BOOKS)
@@ -319,10 +339,10 @@ def check(now):
             labels = mk.get(mid)
             if not labels:
                 continue
-            outs = collect(mdata, labels)
+            outs = collect(mdata, labels, start_dt)
             for oid, (entries, op, cur) in outs.items():
                 key = f'{f["id"]}|{ALERT_BOOKMAKER}|{mid}|{oid}'
-                refs = ref_data(books, mid, oid)
+                refs = ref_data(books, mid, oid, start_dt)
                 if key not in STATE["alerted"] and matches_filters(op, cur):
                     notify(build_message(f, label_for(labels[oid], f), op, cur, refs))
                     STATE["alerted"][key] = now.isoformat()
