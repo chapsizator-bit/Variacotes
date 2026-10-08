@@ -36,7 +36,8 @@ MAX_POINTS = 120
 WANTED = {"soccer", "tennis", "basketball", "volleyball", "handball",
           "ice hockey", "hockey"}
 MAIN_NAMES = {"full time result", "match winner", "winner", "moneyline",
-              "money line", "match result", "winner (incl. overtime)"}
+              "money line", "match result", "winner (incl. overtime)",
+              "regular time result"}
 
 OPEN_MIN, OPEN_MAX = 1.90, 2.50
 CUR_MIN, CUR_MAX = 1.60, 2.15
@@ -141,7 +142,8 @@ def is_main(m):
 def load_meta():
     meta = STATE["meta"]
     if (meta.get("markets") and meta.get("sports")
-            and meta.get("wanted") == sorted(WANTED)):
+            and meta.get("wanted") == sorted(WANTED)
+            and meta.get("names") == sorted(MAIN_NAMES)):
         return
     wanted = {str(s["sportId"]): s["sportName"] for s in call("/sports")
               if (s.get("sportName") or "").strip().lower() in WANTED}
@@ -165,7 +167,8 @@ def load_meta():
                     for m in markets
                     if str(m.get("sportId")) == sid and m.get("marketLength") in (2, 3)][:25]
             print(f"ATTENTION {name} : aucun marché principal trouvé. Marchés : {seen}")
-    STATE["meta"] = {"sports": wanted, "markets": mk, "wanted": sorted(WANTED)}
+    STATE["meta"] = {"sports": wanted, "markets": mk, "wanted": sorted(WANTED),
+                     "names": sorted(MAIN_NAMES)}
 
 
 def refresh_fixtures(now):
