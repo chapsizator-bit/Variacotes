@@ -1,45 +1,22 @@
 {
  "meta": {
   "sports": {
-   "10": "Soccer",
    "11": "Basketball",
    "12": "Tennis",
-   "15": "Ice Hockey",
-   "22": "Handball",
    "23": "Volleyball"
   },
   "markets": {
-   "10": {
-    "101": {
-     "102": "X",
-     "101": "1",
-     "103": "2"
-    }
-   },
    "11": {
     "113": {
-     "113": "1",
      "114": "X",
-     "115": "2"
+     "115": "2",
+     "113": "1"
     }
    },
    "12": {
     "121": {
-     "121": "1",
-     "122": "2"
-    }
-   },
-   "15": {
-    "153": {
-     "153": "1",
-     "155": "2",
-     "154": "X"
-    }
-   },
-   "22": {
-    "221": {
-     "222": "2",
-     "221": "1"
+     "122": "2",
+     "121": "1"
     }
    },
    "23": {
@@ -51,10 +28,6 @@
   },
   "wanted": [
    "basketball",
-   "handball",
-   "hockey",
-   "ice hockey",
-   "soccer",
    "tennis",
    "volleyball"
   ],
@@ -5874,7 +5847,7 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-08T05:31:49.998467+00:00",
+   "fetched": "2026-10-09T07:01:25.560995+00:00",
    "items": [
     {
      "id": "id2300117372775220",
@@ -5909,6 +5882,60 @@
      "p1": "Volley Conegliano",
      "p2": "Busto Arsizio Volley",
      "start": "2026-10-10T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300117372775354",
+     "sportId": "23",
+     "p1": "Uni Opole",
+     "p2": "Bks Bielsko-Biala",
+     "start": "2026-10-11T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300056773076410",
+     "sportId": "23",
+     "p1": "Helvia Recina Macerata",
+     "p2": "Vero Volley Milano",
+     "start": "2026-10-11T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076408",
+     "sportId": "23",
+     "p1": "Chieri 76 Volleyball",
+     "p2": "Millenium Brescia",
+     "start": "2026-10-11T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076418",
+     "sportId": "23",
+     "p1": "Cda Talmassons",
+     "p2": "Cuneo Granda Volley",
+     "start": "2026-10-11T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076420",
+     "sportId": "23",
+     "p1": "Azzurra Volley Firenze",
+     "p2": "Polisportiva SG Marignano",
+     "start": "2026-10-11T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076416",
+     "sportId": "23",
+     "p1": "Agil Volley Novara",
+     "p2": "Volley Bergamo",
+     "start": "2026-10-11T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
     }
@@ -5957,6 +5984,6 @@
   "id1500022572483978|winamax.fr|153|153": "2026-10-09T04:01:23.703822+00:00"
  },
  "billable": {
-  "2026-10": 30
+  "2026-10": 33
  }
 }
