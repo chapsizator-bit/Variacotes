@@ -33,14 +33,13 @@ MONTHLY_BUDGET = int(os.getenv("MONTHLY_BUDGET", "235"))
 REF_HOURS = int(os.getenv("REF_HOURS", "72"))
 MAX_POINTS = 120
 
-WANTED = {"soccer", "tennis", "basketball", "volleyball", "handball",
-          "ice hockey", "hockey"}
+WANTED = {"tennis", "basketball", "volleyball"}
 MAIN_NAMES = {"full time result", "match winner", "winner", "moneyline",
               "money line", "match result", "winner (incl. overtime)",
               "regular time result"}
 
 OPEN_MIN, OPEN_MAX = 1.90, 2.50
-CUR_MIN, CUR_MAX = 1.60, 2.15
+CUR_MIN, CUR_MAX = 1.60, 1.85
 MIN_DROP = 0.15
 
 GAPS = {"/historical-odds": 5.2, "/fixtures": 2.2}
