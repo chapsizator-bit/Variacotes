@@ -3919,62 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-10-10T01:01:26.809926+00:00",
+   "fetched": "2026-10-10T13:01:27.340203+00:00",
    "items": [
-    {
-     "id": "id1100048675243944",
-     "sportId": "11",
-     "p1": "Las Vegas Aces",
-     "p2": "Golden State Valkyries",
-     "start": "2026-10-10T01:30:00.000Z",
-     "sport": "Basketball",
-     "league": "WNBA"
-    },
-    {
-     "id": "id1100152472016810",
-     "sportId": "11",
-     "p1": "SE Melbourne Phoenix",
-     "p2": "Melbourne United",
-     "start": "2026-10-10T08:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBL"
-    },
-    {
-     "id": "id1100051973495446",
-     "sportId": "11",
-     "p1": "Bahcesehir Koleji",
-     "p2": "Karsiyaka Basket",
-     "start": "2026-10-10T10:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Super Lig"
-    },
-    {
-     "id": "id1100152472016812",
-     "sportId": "11",
-     "p1": "Perth Wildcats",
-     "p2": "New Zealand Breakers",
-     "start": "2026-10-10T10:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBL"
-    },
-    {
-     "id": "id1100030474750410",
-     "sportId": "11",
-     "p1": "Peristeri Athens",
-     "p2": "Iraklis 2022",
-     "start": "2026-10-10T12:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Basketball League"
-    },
-    {
-     "id": "id1100051973495458",
-     "sportId": "11",
-     "p1": "Petkim Spor Aliaga",
-     "p2": "Korfez Basket",
-     "start": "2026-10-10T12:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Super Lig"
-    },
     {
      "id": "id1100030474750412",
      "sportId": "11",
@@ -4192,6 +4138,15 @@
      "league": "BBL"
     },
     {
+     "id": "id1100118973062752",
+     "sportId": "11",
+     "p1": "Beliers de Kemper - UJAP 1984",
+     "p2": "Alliance Sport Alsace",
+     "start": "2026-10-10T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "LNB Elite 2"
+    },
+    {
      "id": "id1100151473575196",
      "sportId": "11",
      "p1": "Oviedo BC",
@@ -4341,6 +4296,15 @@
      "p1": "Sydney Kings",
      "p2": "Adelaide 36ers",
      "start": "2026-10-11T04:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
+    },
+    {
+     "id": "id1100152472016816",
+     "sportId": "11",
+     "p1": "Illawarra Hawks",
+     "p2": "Cairns Taipans",
+     "start": "2026-10-11T06:00:00.000Z",
      "sport": "Basketball",
      "league": "NBL"
     },
@@ -4608,220 +4572,31 @@
    ]
   },
   "12": {
-   "fetched": "2026-10-10T01:01:26.809926+00:00",
+   "fetched": "2026-10-10T13:01:27.340203+00:00",
    "items": [
-    {
-     "id": "id1200308575151642",
-     "sportId": "12",
-     "p1": "Ugo Carabelli, Camilo",
-     "p2": "Auger-Aliassime, Felix",
-     "start": "2026-10-10T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575151648",
-     "sportId": "12",
-     "p1": "Lehecka, Jiri",
-     "p2": "Borges, Nuno",
-     "start": "2026-10-10T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575408688",
-     "sportId": "12",
-     "p1": "Tirante, Thiago Agustin",
-     "p2": "Jodar, Rafael",
-     "start": "2026-10-10T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575413686",
-     "sportId": "12",
-     "p1": "Medvedev, Daniil",
-     "p2": "Struff, Jan-Lennard",
-     "start": "2026-10-10T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200884575077948",
-     "sportId": "12",
-     "p1": "Siniakova K / Zhang S",
-     "p2": "Routliffe E / Sutjiadi A",
-     "start": "2026-10-10T05:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Doubles"
-    },
-    {
-     "id": "id1200308575151602",
-     "sportId": "12",
-     "p1": "Arnaldi, Matteo",
-     "p2": "Fritz, Taylor",
-     "start": "2026-10-10T05:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575151640",
-     "sportId": "12",
-     "p1": "Tabilo, Alejandro",
-     "p2": "Carreno Busta, Pablo",
-     "start": "2026-10-10T05:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575413690",
-     "sportId": "12",
-     "p1": "Bu, Yunchaokete",
-     "p2": "Ruud, Casper",
-     "start": "2026-10-10T05:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575415416",
-     "sportId": "12",
-     "p1": "Svrcina, Dalibor",
-     "p2": "Etcheverry, Tomas Martin",
-     "start": "2026-10-10T05:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575151628",
-     "sportId": "12",
-     "p1": "Fils, Arthur",
-     "p2": "Kotov, Pavel",
-     "start": "2026-10-10T06:20:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575408692",
-     "sportId": "12",
-     "p1": "Tien, Learner",
-     "p2": "Svajda, Zachary",
-     "start": "2026-10-10T06:20:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200884375051542",
-     "sportId": "12",
-     "p1": "Andreeva, Mirra",
-     "p2": "Bartunkova, Nikola",
-     "start": "2026-10-10T07:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Singles"
-    },
-    {
-     "id": "id1200308575151600",
-     "sportId": "12",
-     "p1": "Darderi, Luciano",
-     "p2": "Tsitsipas, Stefanos",
-     "start": "2026-10-10T07:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575408704",
-     "sportId": "12",
-     "p1": "Paul, Tommy",
-     "p2": "Vallejo, Adolfo Daniel",
-     "start": "2026-10-10T07:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575414076",
-     "sportId": "12",
-     "p1": "Buse, Ignacio",
-     "p2": "Bergs, Zizou",
-     "start": "2026-10-10T07:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575413688",
-     "sportId": "12",
-     "p1": "Van de Zandschulp, Botic",
-     "p2": "Michelsen, Alex",
-     "start": "2026-10-10T09:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575151594",
-     "sportId": "12",
-     "p1": "Cerundolo, Juan Manuel",
-     "p2": "Alcaraz, Carlos",
-     "start": "2026-10-10T10:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200884375051540",
-     "sportId": "12",
-     "p1": "Zheng, Qinwen",
-     "p2": "Mertens, Elise",
-     "start": "2026-10-10T11:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Beijing, China Women Singles"
-    },
-    {
-     "id": "id1200308575151586",
-     "sportId": "12",
-     "p1": "Baez, Sebastian",
-     "p2": "Vacherot, Valentin",
-     "start": "2026-10-10T11:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
     {
      "id": "id1200884575077950",
      "sportId": "12",
      "p1": "Mertens E / Shnaider D",
      "p2": "Dabrowski G / Stefani L",
-     "start": "2026-10-10T12:30:00.000Z",
+     "start": "2026-10-10T13:10:00.000Z",
      "sport": "Tennis",
      "league": "WTA Beijing, China Women Doubles"
     },
     {
-     "id": "id1200308575431494",
+     "id": "id1201111775462606",
      "sportId": "12",
-     "p1": "de Minaur, Alex",
-     "p2": "Sakamoto, Rei",
-     "start": "2026-10-11T04:00:00.000Z",
+     "p1": "Frech, Magdalena",
+     "p2": "Ito, Aoi",
+     "start": "2026-10-11T03:00:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
+     "league": "WTA Wuhan, China Women Singles"
     },
     {
      "id": "id1200308575433948",
      "sportId": "12",
      "p1": "Shelton, Ben",
      "p2": "Gea, Arthur",
-     "start": "2026-10-11T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575439272",
-     "sportId": "12",
-     "p1": "Zverev, Alexander",
-     "p2": "Halys, Quentin",
-     "start": "2026-10-11T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575439744",
-     "sportId": "12",
-     "p1": "Davidovich Fokina, Alejandro",
-     "p2": "Tiafoe, Frances",
      "start": "2026-10-11T04:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Shanghai, China Men Singles"
@@ -4836,11 +4611,11 @@
      "league": "ATP Shanghai, China Men Singles"
     },
     {
-     "id": "id1200308575445150",
+     "id": "id1200308575431494",
      "sportId": "12",
-     "p1": "Bublik, Alexander",
-     "p2": "Nakashima, Brandon",
-     "start": "2026-10-11T04:00:00.000Z",
+     "p1": "de Minaur, Alex",
+     "p2": "Sakamoto, Rei",
+     "start": "2026-10-11T05:10:00.000Z",
      "sport": "Tennis",
      "league": "ATP Shanghai, China Men Singles"
     },
@@ -4849,7 +4624,43 @@
      "sportId": "12",
      "p1": "Hurkacz, Hubert",
      "p2": "Zhou, Yi",
-     "start": "2026-10-11T04:00:00.000Z",
+     "start": "2026-10-11T05:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575445150",
+     "sportId": "12",
+     "p1": "Bublik, Alexander",
+     "p2": "Nakashima, Brandon",
+     "start": "2026-10-11T07:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575439272",
+     "sportId": "12",
+     "p1": "Zverev, Alexander",
+     "p2": "Halys, Quentin",
+     "start": "2026-10-11T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575439744",
+     "sportId": "12",
+     "p1": "Davidovich Fokina, Alejandro",
+     "p2": "Tiafoe, Frances",
+     "start": "2026-10-11T11:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575466698",
+     "sportId": "12",
+     "p1": "Lehecka, Jiri",
+     "p2": "Jodar, Rafael",
+     "start": "2026-10-12T04:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Shanghai, China Men Singles"
     }
@@ -6015,6 +5826,6 @@
   "id1100026473713494|winamax.fr|113|115": "2026-10-10T11:01:29.241307+00:00"
  },
  "billable": {
-  "2026-10": 39
+  "2026-10": 41
  }
 }
