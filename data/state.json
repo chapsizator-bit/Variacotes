@@ -5757,16 +5757,115 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-09T19:01:34.183512+00:00",
+   "fetched": "2026-10-10T08:01:19.603387+00:00",
    "items": [
     {
-     "id": "id2300117573957880",
+     "id": "id2304410172636342",
      "sportId": "23",
-     "p1": "Volley Mulhouse Alsace",
-     "p2": "Terville Florange OC",
-     "start": "2026-10-09T18:00:00.000Z",
+     "p1": "Hisamitsu Springs",
+     "p2": "Aleeza Aichi",
+     "start": "2026-10-10T09:05:00.000Z",
+     "sport": "Volleyball",
+     "league": "SV League, Women"
+    },
+    {
+     "id": "id2301447875091130",
+     "sportId": "23",
+     "p1": "CAV Esquimo",
+     "p2": "Cv Melilla",
+     "start": "2026-10-10T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
+    },
+    {
+     "id": "id2301447875091182",
+     "sportId": "23",
+     "p1": "Cv Kiele Socuellamos",
+     "p2": "Avarca de Menorca",
+     "start": "2026-10-10T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
+    },
+    {
+     "id": "id2301447874781826",
+     "sportId": "23",
+     "p1": "Cv Emeve",
+     "p2": "CV Gran Canaria",
+     "start": "2026-10-10T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
+    },
+    {
+     "id": "id2301447874781830",
+     "sportId": "23",
+     "p1": "CD Heidelberg",
+     "p2": "CV Aguere La Laguna",
+     "start": "2026-10-10T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
+    },
+    {
+     "id": "id2300050072524982",
+     "sportId": "23",
+     "p1": "Alemannia Aachen",
+     "p2": "SSC Schwerin",
+     "start": "2026-10-10T15:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300050072524984",
+     "sportId": "23",
+     "p1": "Dresdner SC",
+     "p2": "MTV Stuttgart",
+     "start": "2026-10-10T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2301447874781828",
+     "sportId": "23",
+     "p1": "Santa Cruz Cuesta Piedra",
+     "p2": "Cv Sayre Mayser GC",
+     "start": "2026-10-10T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
+    },
+    {
+     "id": "id2301447874781836",
+     "sportId": "23",
+     "p1": "Haro Rioja Voley",
+     "p2": "CV Haris Tenerife",
+     "start": "2026-10-10T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
+    },
+    {
+     "id": "id2300050072524986",
+     "sportId": "23",
+     "p1": "Schwarz-Weiss Erfurt",
+     "p2": "Rote Raben Vilsbiburg",
+     "start": "2026-10-10T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300117573957872",
+     "sportId": "23",
+     "p1": "Ugs Bordeaux Merignac Volley",
+     "p2": "Neptunes de Nantes",
+     "start": "2026-10-10T17:00:00.000Z",
      "sport": "Volleyball",
      "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300050072524990",
+     "sportId": "23",
+     "p1": "Binder Blaubaren TSV Flacht",
+     "p2": "Etv Hamburg",
+     "start": "2026-10-10T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
     },
     {
      "id": "id2300056773076412",
@@ -5778,6 +5877,15 @@
      "league": "Serie A1 Women"
     },
     {
+     "id": "id2300117573957878",
+     "sportId": "23",
+     "p1": "Saint Die Des Vosges",
+     "p2": "Vandoeuvre Nancy Volley Ball",
+     "start": "2026-10-10T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
      "id": "id2300056773076414",
      "sportId": "23",
      "p1": "Volley Conegliano",
@@ -5785,6 +5893,15 @@
      "start": "2026-10-10T18:30:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300117573957874",
+     "sportId": "23",
+     "p1": "Evreux Vb",
+     "p2": "Racing Club de Cannes",
+     "start": "2026-10-10T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
     },
     {
      "id": "id2300117372775354",
@@ -5839,6 +5956,15 @@
      "start": "2026-10-11T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300117372775216",
+     "sportId": "23",
+     "p1": "KS Rzeszow",
+     "p2": "MKS Sokol Mogilno",
+     "start": "2026-10-12T15:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
     }
    ]
   }
@@ -5888,6 +6014,6 @@
   "id1200308575413690|winamax.fr|121|121": "2026-10-10T03:01:30.513360+00:00"
  },
  "billable": {
-  "2026-10": 38
+  "2026-10": 39
  }
 }
