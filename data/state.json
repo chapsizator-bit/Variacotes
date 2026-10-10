@@ -5568,57 +5568,12 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-10T08:01:19.603387+00:00",
+   "fetched": "2026-10-10T20:01:21.428640+00:00",
    "items": [
-    {
-     "id": "id2304410172636342",
-     "sportId": "23",
-     "p1": "Hisamitsu Springs",
-     "p2": "Aleeza Aichi",
-     "start": "2026-10-10T09:05:00.000Z",
-     "sport": "Volleyball",
-     "league": "SV League, Women"
-    },
-    {
-     "id": "id2301447875091130",
-     "sportId": "23",
-     "p1": "CAV Esquimo",
-     "p2": "Cv Melilla",
-     "start": "2026-10-10T14:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2301447875091182",
-     "sportId": "23",
-     "p1": "Cv Kiele Socuellamos",
-     "p2": "Avarca de Menorca",
-     "start": "2026-10-10T14:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2301447874781826",
-     "sportId": "23",
-     "p1": "Cv Emeve",
-     "p2": "CV Gran Canaria",
-     "start": "2026-10-10T15:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2301447874781830",
-     "sportId": "23",
-     "p1": "CD Heidelberg",
-     "p2": "CV Aguere La Laguna",
-     "start": "2026-10-10T15:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
     {
      "id": "id2300050072524982",
      "sportId": "23",
-     "p1": "Alemannia Aachen",
+     "p1": "Ladies In Black Aachen",
      "p2": "SSC Schwerin",
      "start": "2026-10-10T15:30:00.000Z",
      "sport": "Volleyball",
@@ -5634,19 +5589,19 @@
      "league": "1. Bundesliga, Women"
     },
     {
-     "id": "id2301447874781828",
+     "id": "id2301447874781836",
      "sportId": "23",
-     "p1": "Santa Cruz Cuesta Piedra",
-     "p2": "Cv Sayre Mayser GC",
+     "p1": "Haro Rioja Voley",
+     "p2": "CV Haris Tenerife",
      "start": "2026-10-10T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga, Women"
     },
     {
-     "id": "id2301447874781836",
+     "id": "id2301447875091130",
      "sportId": "23",
-     "p1": "Haro Rioja Voley",
-     "p2": "CV Haris Tenerife",
+     "p1": "CAV Esquimo",
+     "p2": "Cv Melilla",
      "start": "2026-10-10T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga, Women"
@@ -5679,15 +5634,6 @@
      "league": "1. Bundesliga, Women"
     },
     {
-     "id": "id2300056773076412",
-     "sportId": "23",
-     "p1": "Volley Vallefoglia",
-     "p2": "Pallavolo Scandicci",
-     "start": "2026-10-10T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
      "id": "id2300117573957878",
      "sportId": "23",
      "p1": "Saint Die Des Vosges",
@@ -5697,22 +5643,49 @@
      "league": "Ligue A Women"
     },
     {
-     "id": "id2300056773076414",
+     "id": "id2300096975169220",
      "sportId": "23",
-     "p1": "Volley Conegliano",
-     "p2": "Busto Arsizio Volley",
-     "start": "2026-10-10T18:30:00.000Z",
+     "p1": "Galatasaray Istanbul",
+     "p2": "Nilufer Belediye Bursa",
+     "start": "2026-10-11T10:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Serie A1 Women"
+     "league": "Sultanlar Ligi, Women"
     },
     {
-     "id": "id2300117573957874",
+     "id": "id2300096975169214",
      "sportId": "23",
-     "p1": "Evreux Vb",
-     "p2": "Racing Club de Cannes",
-     "start": "2026-10-10T18:30:00.000Z",
+     "p1": "Afyon Bld",
+     "p2": "Turk Hava Yollari",
+     "start": "2026-10-11T12:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Ligue A Women"
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169216",
+     "sportId": "23",
+     "p1": "Zeren Spor",
+     "p2": "Ilbank SK Ankara",
+     "start": "2026-10-11T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169218",
+     "sportId": "23",
+     "p1": "Eczacibasi Istanbul",
+     "p2": "Aras Kargo",
+     "start": "2026-10-11T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169226",
+     "sportId": "23",
+     "p1": "Manisa Buyuksehir Belediyesi",
+     "p2": "Kuzeyboru Genclik",
+     "start": "2026-10-11T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
     },
     {
      "id": "id2300117372775354",
@@ -5722,6 +5695,15 @@
      "start": "2026-10-11T13:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300050072524992",
+     "sportId": "23",
+     "p1": "Usc Munster",
+     "p2": "VC Wiesbaden",
+     "start": "2026-10-11T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
     },
     {
      "id": "id2300056773076410",
@@ -5767,6 +5749,15 @@
      "start": "2026-10-11T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300096975169222",
+     "sportId": "23",
+     "p1": "Besiktas Istanbul",
+     "p2": "Fenerbahce Istanbul",
+     "start": "2026-10-11T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
     },
     {
      "id": "id2300117372775216",
@@ -5827,6 +5818,6 @@
   "id1100151473575198|winamax.fr|113|113": "2026-10-10T19:01:29.961340+00:00"
  },
  "billable": {
-  "2026-10": 41
+  "2026-10": 42
  }
 }
