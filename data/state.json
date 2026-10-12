@@ -3919,7 +3919,7 @@
    ]
   },
   "11": {
-   "fetched": "2026-10-12T03:01:29.575370+00:00",
+   "fetched": "2026-10-12T15:01:33.471421+00:00",
    "items": [
     {
      "id": "id1100051975406644",
@@ -3940,6 +3940,33 @@
      "league": "Liga ABA"
     },
     {
+     "id": "id1100014172902438",
+     "sportId": "11",
+     "p1": "BC Neptunas Klaipeda",
+     "p2": "JL Bourg Basket",
+     "start": "2026-10-13T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902546",
+     "sportId": "11",
+     "p1": "BC Lietkabelis Panevezys",
+     "p2": "PAOK BC",
+     "start": "2026-10-13T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902550",
+     "sportId": "11",
+     "p1": "Bahcesehir Koleji",
+     "p2": "Basquet Manresa",
+     "start": "2026-10-13T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
      "id": "id1100013873263018",
      "sportId": "11",
      "p1": "Fenerbahce Istanbul",
@@ -3956,6 +3983,51 @@
      "start": "2026-10-13T18:00:00.000Z",
      "sport": "Basketball",
      "league": "Euroleague"
+    },
+    {
+     "id": "id1100014172902440",
+     "sportId": "11",
+     "p1": "Aquila Basket Trento",
+     "p2": "Niners Chemnitz",
+     "start": "2026-10-13T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902552",
+     "sportId": "11",
+     "p1": "BC Roma Spqr",
+     "p2": "Balkan Botevgrad",
+     "start": "2026-10-13T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1101405173110536",
+     "sportId": "11",
+     "p1": "Nanterre 92",
+     "p2": "BC Rytas Vilnius",
+     "start": "2026-10-13T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
+     "id": "id1101405173110596",
+     "sportId": "11",
+     "p1": "Pallacanestro Varese",
+     "p2": "Peristeri Athens",
+     "start": "2026-10-13T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
+     "id": "id1101405173110656",
+     "sportId": "11",
+     "p1": "Alba Berlin",
+     "p2": "Igokea Aleksandrovac",
+     "start": "2026-10-13T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
     },
     {
      "id": "id1100013873263022",
@@ -4003,6 +4075,24 @@
      "league": "Euroleague"
     },
     {
+     "id": "id1100152472016818",
+     "sportId": "11",
+     "p1": "Sydney Kings",
+     "p2": "New Zealand Breakers",
+     "start": "2026-10-14T08:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
+    },
+    {
+     "id": "id1100014172902276",
+     "sportId": "11",
+     "p1": "BC Siauliai",
+     "p2": "FC Universitatea Cluj",
+     "start": "2026-10-14T15:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
      "id": "id1100013873263032",
      "sportId": "11",
      "p1": "Hapoel Tel-Aviv",
@@ -4010,6 +4100,51 @@
      "start": "2026-10-14T16:00:00.000Z",
      "sport": "Basketball",
      "league": "Euroleague"
+    },
+    {
+     "id": "id1100014172902018",
+     "sportId": "11",
+     "p1": "Rigas Zelli",
+     "p2": "KK Cedevita Olimpija Ljubljana",
+     "start": "2026-10-14T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014174290208",
+     "sportId": "11",
+     "p1": "Ulm Basketball",
+     "p2": "KK Bosna Royal Sarajevo",
+     "start": "2026-10-14T16:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902022",
+     "sportId": "11",
+     "p1": "BC Aris Thessaloniki",
+     "p2": "Derthona Basket",
+     "start": "2026-10-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902434",
+     "sportId": "11",
+     "p1": "Slask Wroclaw",
+     "p2": "Napoli Basket",
+     "start": "2026-10-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902436",
+     "sportId": "11",
+     "p1": "Tofas SK Bursa",
+     "p2": "Buducnost Podgorica",
+     "start": "2026-10-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
     },
     {
      "id": "id1100013873263034",
@@ -4021,6 +4156,24 @@
      "league": "Euroleague"
     },
     {
+     "id": "id1100014172902020",
+     "sportId": "11",
+     "p1": "Le Mans Sarthe Basket",
+     "p2": "Rostock Seawolves",
+     "start": "2026-10-14T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902016",
+     "sportId": "11",
+     "p1": "CB San Pablo Burgos",
+     "p2": "Hapoel Jerusalem",
+     "start": "2026-10-14T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
      "id": "id1100013873263036",
      "sportId": "11",
      "p1": "Paris Basketball",
@@ -4028,270 +4181,36 @@
      "start": "2026-10-14T18:45:00.000Z",
      "sport": "Basketball",
      "league": "Euroleague"
+    },
+    {
+     "id": "id1100014172902272",
+     "sportId": "11",
+     "p1": "CB 1939 Canarias",
+     "p2": "Maxima Roma",
+     "start": "2026-10-14T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902274",
+     "sportId": "11",
+     "p1": "Reyer Venezia",
+     "p2": "Turk Telekom",
+     "start": "2026-10-14T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
     }
    ]
   },
   "12": {
-   "fetched": "2026-10-12T03:01:29.575370+00:00",
+   "fetched": "2026-10-12T15:01:33.471421+00:00",
    "items": [
-    {
-     "id": "id1201111775469408",
-     "sportId": "12",
-     "p1": "Alexandrova, Ekaterina",
-     "p2": "Fernandez, Leylah",
-     "start": "2026-10-12T03:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469412",
-     "sportId": "12",
-     "p1": "Kalinina, Anhelina",
-     "p2": "Kartal, Sonay",
-     "start": "2026-10-12T03:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1200308575476904",
-     "sportId": "12",
-     "p1": "Carreno Busta, Pablo",
-     "p2": "Auger-Aliassime, Felix",
-     "start": "2026-10-12T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575477394",
-     "sportId": "12",
-     "p1": "Tien, Learner",
-     "p2": "Ruud, Casper",
-     "start": "2026-10-12T04:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1201111775469426",
-     "sportId": "12",
-     "p1": "Jovic, Iva",
-     "p2": "Pohankova, Mia",
-     "start": "2026-10-12T04:10:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469430",
-     "sportId": "12",
-     "p1": "Tauson, Clara",
-     "p2": "Bouzkova, Marie",
-     "start": "2026-10-12T04:10:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775503026",
-     "sportId": "12",
-     "p1": "Tjen, Janice",
-     "p2": "Ito, Aoi",
-     "start": "2026-10-12T04:10:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1200308575466698",
-     "sportId": "12",
-     "p1": "Lehecka, Jiri",
-     "p2": "Jodar, Rafael",
-     "start": "2026-10-12T05:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575477656",
-     "sportId": "12",
-     "p1": "Tsitsipas, Stefanos",
-     "p2": "Fritz, Taylor",
-     "start": "2026-10-12T05:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1201111775469416",
-     "sportId": "12",
-     "p1": "Paolini, Jasmine",
-     "p2": "Bejlek, Sara",
-     "start": "2026-10-12T05:20:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469422",
-     "sportId": "12",
-     "p1": "Sakkari, Maria",
-     "p2": "Vekic, Donna",
-     "start": "2026-10-12T05:20:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775503024",
-     "sportId": "12",
-     "p1": "Sawangkaew, Mananchaya",
-     "p2": "Frech, Magdalena",
-     "start": "2026-10-12T05:20:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1200308575473756",
-     "sportId": "12",
-     "p1": "Medvedev, Daniil",
-     "p2": "Svrcina, Dalibor",
-     "start": "2026-10-12T06:20:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1201111775503020",
-     "sportId": "12",
-     "p1": "McNally, Caty",
-     "p2": "Starodubtseva, Yuliia",
-     "start": "2026-10-12T06:30:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1200308575478490",
-     "sportId": "12",
-     "p1": "Fils, Arthur",
-     "p2": "Van de Zandschulp, Botic",
-     "start": "2026-10-12T07:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575478492",
-     "sportId": "12",
-     "p1": "Bergs, Zizou",
-     "p2": "Alcaraz, Carlos",
-     "start": "2026-10-12T10:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1200308575478914",
-     "sportId": "12",
-     "p1": "Paul, Tommy",
-     "p2": "Vacherot, Valentin",
-     "start": "2026-10-12T11:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Singles"
-    },
-    {
-     "id": "id1201111775469424",
-     "sportId": "12",
-     "p1": "Wang, Xiyu",
-     "p2": "Wang, Xinyu",
-     "start": "2026-10-12T11:30:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775503016",
-     "sportId": "12",
-     "p1": "Eala, Alexandra",
-     "p2": "Shi, Han",
-     "start": "2026-10-12T12:40:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469410",
-     "sportId": "12",
-     "p1": "Boulter, Katie",
-     "p2": "Shnaider, Diana",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469414",
-     "sportId": "12",
-     "p1": "Tagger, Lilli",
-     "p2": "Bartunkova, Nikola",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469418",
-     "sportId": "12",
-     "p1": "Guo, Hanyu",
-     "p2": "Cirstea, Sorana",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469420",
-     "sportId": "12",
-     "p1": "Siniakova, Katerina",
-     "p2": "Samsonova, Liudmila",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469428",
-     "sportId": "12",
-     "p1": "Sherif Ahmed Abdelaziz, Mayar",
-     "p2": "Chwalinska, Maja",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
     {
      "id": "id1201111775469432",
      "sportId": "12",
      "p1": "Yastremska, Dayana",
      "p2": "Bucsa, Cristina",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469438",
-     "sportId": "12",
-     "p1": "Snigur, Daria",
-     "p2": "Mertens, Elise",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775469442",
-     "sportId": "12",
-     "p1": "Li, Ann",
-     "p2": "Zheng, Qinwen",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775503014",
-     "sportId": "12",
-     "p1": "Kasatkina, Daria",
-     "p2": "Ostapenko, Jelena",
-     "start": "2026-10-13T02:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Wuhan, China Women Singles"
-    },
-    {
-     "id": "id1201111775503018",
-     "sportId": "12",
-     "p1": "Putintseva, Yulia",
-     "p2": "Sonmez, Zeynep",
-     "start": "2026-10-13T02:00:00.000Z",
+     "start": "2026-10-13T03:00:00.000Z",
      "sport": "Tennis",
      "league": "WTA Wuhan, China Women Singles"
     },
@@ -4300,16 +4219,25 @@
      "sportId": "12",
      "p1": "Birrell, Kimberly",
      "p2": "Volynets, Katie",
-     "start": "2026-10-13T02:00:00.000Z",
+     "start": "2026-10-13T03:00:00.000Z",
      "sport": "Tennis",
      "league": "WTA Wuhan, China Women Singles"
     },
     {
-     "id": "id1201111775505370",
+     "id": "id1201111775469420",
      "sportId": "12",
-     "p1": "Kalinskaya, Anna",
-     "p2": "Zhang, Shuai",
-     "start": "2026-10-13T02:00:00.000Z",
+     "p1": "Siniakova, Katerina",
+     "p2": "Samsonova, Liudmila",
+     "start": "2026-10-13T03:35:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775469418",
+     "sportId": "12",
+     "p1": "Guo, Hanyu",
+     "p2": "Cirstea, Sorana",
+     "start": "2026-10-13T03:45:00.000Z",
      "sport": "Tennis",
      "league": "WTA Wuhan, China Women Singles"
     },
@@ -4323,31 +4251,166 @@
      "league": "ATP Shanghai, China Men Singles"
     },
     {
+     "id": "id1201111775469410",
+     "sportId": "12",
+     "p1": "Boulter, Katie",
+     "p2": "Shnaider, Diana",
+     "start": "2026-10-13T04:20:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775469428",
+     "sportId": "12",
+     "p1": "Sherif Ahmed Abdelaziz, Mayar",
+     "p2": "Chwalinska, Maja",
+     "start": "2026-10-13T04:20:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775503018",
+     "sportId": "12",
+     "p1": "Putintseva, Yulia",
+     "p2": "Sonmez, Zeynep",
+     "start": "2026-10-13T04:20:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
      "id": "id1200308575509552",
      "sportId": "12",
      "p1": "Gea, Arthur",
      "p2": "Mensik, Jakub",
-     "start": "2026-10-13T04:00:00.000Z",
+     "start": "2026-10-13T05:10:00.000Z",
      "sport": "Tennis",
      "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1201111775373628",
+     "sportId": "12",
+     "p1": "Sakkari, Maria",
+     "p2": "Kostyuk, Marta",
+     "start": "2026-10-13T05:40:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775469414",
+     "sportId": "12",
+     "p1": "Tagger, Lilli",
+     "p2": "Bartunkova, Nikola",
+     "start": "2026-10-13T05:40:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775469438",
+     "sportId": "12",
+     "p1": "Snigur, Daria",
+     "p2": "Mertens, Elise",
+     "start": "2026-10-13T05:40:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775503014",
+     "sportId": "12",
+     "p1": "Kasatkina, Daria",
+     "p2": "Ostapenko, Jelena",
+     "start": "2026-10-13T05:40:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775531764",
+     "sportId": "12",
+     "p1": "Li, Ann",
+     "p2": "Osorio, Camila",
+     "start": "2026-10-13T07:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
     },
     {
      "id": "id1200308575515280",
      "sportId": "12",
      "p1": "Zverev, Alexander",
      "p2": "Bublik, Alexander",
-     "start": "2026-10-13T04:00:00.000Z",
+     "start": "2026-10-13T10:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1201111775544950",
+     "sportId": "12",
+     "p1": "Krueger, Ashlyn",
+     "p2": "Zhang, Shuai",
+     "start": "2026-10-13T11:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
     },
     {
      "id": "id1200308575516836",
      "sportId": "12",
      "p1": "Hurkacz, Hubert",
      "p2": "Davidovich Fokina, Alejandro",
-     "start": "2026-10-13T04:00:00.000Z",
+     "start": "2026-10-13T11:10:00.000Z",
      "sport": "Tennis",
      "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575542000",
+     "sportId": "12",
+     "p1": "Ruud, Casper",
+     "p2": "Auger-Aliassime, Felix",
+     "start": "2026-10-14T02:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1200308575558184",
+     "sportId": "12",
+     "p1": "Medvedev, Daniil",
+     "p2": "Tsitsipas, Stefanos",
+     "start": "2026-10-14T02:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Singles"
+    },
+    {
+     "id": "id1201111775373636",
+     "sportId": "12",
+     "p1": "Frech, Magdalena",
+     "p2": "Swiatek, Iga",
+     "start": "2026-10-14T02:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775373590",
+     "sportId": "12",
+     "p1": "Kartal, Sonay",
+     "p2": "Bencic, Belinda",
+     "start": "2026-10-14T02:30:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1201111775373592",
+     "sportId": "12",
+     "p1": "Muchova, Karolina",
+     "p2": "McNally, Caty",
+     "start": "2026-10-14T03:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1200308775240468",
+     "sportId": "12",
+     "p1": "Harrison C / Skupski N",
+     "p2": "Schnaitter J / Wallner M",
+     "start": "2026-10-14T04:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Shanghai, China Men Doubles"
     }
    ]
   },
@@ -5313,6 +5376,6 @@
   "id1100152472016816|winamax.fr|113|113": "2026-10-10T22:01:31.124485+00:00"
  },
  "billable": {
-  "2026-10": 51
+  "2026-10": 53
  }
 }
