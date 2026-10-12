@@ -5316,26 +5316,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-12T09:01:58.480880+00:00",
+   "fetched": "2026-10-12T22:01:24.941471+00:00",
    "items": [
-    {
-     "id": "id2300117372775216",
-     "sportId": "23",
-     "p1": "KS Rzeszow",
-     "p2": "MKS Sokol Mogilno",
-     "start": "2026-10-12T15:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2300117372775224",
-     "sportId": "23",
-     "p1": "Chemik Police",
-     "p2": "MKS Kalisz",
-     "start": "2026-10-12T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
     {
      "id": "id2300117372775218",
      "sportId": "23",
@@ -5375,6 +5357,6 @@
   "id1100152472016816|winamax.fr|113|113": "2026-10-10T22:01:31.124485+00:00"
  },
  "billable": {
-  "2026-10": 53
+  "2026-10": 54
  }
 }
