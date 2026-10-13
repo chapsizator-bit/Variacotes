@@ -5352,7 +5352,7 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-12T22:01:24.941471+00:00",
+   "fetched": "2026-10-13T10:01:37.907906+00:00",
    "items": [
     {
      "id": "id2300117372775218",
@@ -5362,6 +5362,150 @@
      "start": "2026-10-13T15:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300050072524994",
+     "sportId": "23",
+     "p1": "Etv Hamburg",
+     "p2": "Schwarz-Weiss Erfurt",
+     "start": "2026-10-13T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300050072524996",
+     "sportId": "23",
+     "p1": "MTV Stuttgart",
+     "p2": "Binder Blaubaren TSV Flacht",
+     "start": "2026-10-13T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300050072524998",
+     "sportId": "23",
+     "p1": "Rote Raben Vilsbiburg",
+     "p2": "VfB Suhl Thuringia",
+     "start": "2026-10-13T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300117573957886",
+     "sportId": "23",
+     "p1": "Racing Club de Cannes",
+     "p2": "Volero Le Cannet",
+     "start": "2026-10-13T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300117573957884",
+     "sportId": "23",
+     "p1": "Vandoeuvre Nancy Volley Ball",
+     "p2": "Evreux Vb",
+     "start": "2026-10-13T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300117573957888",
+     "sportId": "23",
+     "p1": "Saint Die Des Vosges",
+     "p2": "Volley Mulhouse Alsace",
+     "start": "2026-10-13T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300117573957890",
+     "sportId": "23",
+     "p1": "Terville Florange",
+     "p2": "Levallois Paris Saint-Cloud - Les Mariannes 92",
+     "start": "2026-10-13T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300117573957892",
+     "sportId": "23",
+     "p1": "VBC Chamalieres",
+     "p2": "Ugs Bordeaux Merignac Volley",
+     "start": "2026-10-13T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300117573957894",
+     "sportId": "23",
+     "p1": "Neptunes de Nantes",
+     "p2": "Beziers Volley",
+     "start": "2026-10-13T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300096975169228",
+     "sportId": "23",
+     "p1": "Kuzeyboru Genclik",
+     "p2": "Turk Hava Yollari",
+     "start": "2026-10-14T11:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169238",
+     "sportId": "23",
+     "p1": "Aras Kargo",
+     "p2": "Galatasaray Istanbul",
+     "start": "2026-10-14T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169232",
+     "sportId": "23",
+     "p1": "Nilufer Belediye Bursa",
+     "p2": "Afyon Bld",
+     "start": "2026-10-14T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169230",
+     "sportId": "23",
+     "p1": "Ilbank SK Ankara",
+     "p2": "Eczacibasi Istanbul",
+     "start": "2026-10-14T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169234",
+     "sportId": "23",
+     "p1": "Fenerbahce Istanbul",
+     "p2": "Goztepe",
+     "start": "2026-10-14T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169236",
+     "sportId": "23",
+     "p1": "Vakifbank SK",
+     "p2": "Zeren Spor",
+     "start": "2026-10-14T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300096975169240",
+     "sportId": "23",
+     "p1": "Manisa Buyuksehir Belediyesi",
+     "p2": "Besiktas Istanbul",
+     "start": "2026-10-14T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
     }
    ]
   }
@@ -5391,6 +5535,6 @@
   "id1100152472016816|winamax.fr|113|113": "2026-10-10T22:01:31.124485+00:00"
  },
  "billable": {
-  "2026-10": 56
+  "2026-10": 57
  }
 }
