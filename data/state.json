@@ -5343,44 +5343,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-13T10:01:37.907906+00:00",
+   "fetched": "2026-10-13T22:51:24.814284+00:00",
    "items": [
-    {
-     "id": "id2300117372775218",
-     "sportId": "23",
-     "p1": "Radomka Radom",
-     "p2": "Volley Wroclaw",
-     "start": "2026-10-13T15:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2300050072524994",
-     "sportId": "23",
-     "p1": "Etv Hamburg",
-     "p2": "Schwarz-Weiss Erfurt",
-     "start": "2026-10-13T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050072524996",
-     "sportId": "23",
-     "p1": "MTV Stuttgart",
-     "p2": "Binder Blaubaren TSV Flacht",
-     "start": "2026-10-13T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050072524998",
-     "sportId": "23",
-     "p1": "Rote Raben Vilsbiburg",
-     "p2": "VfB Suhl Thuringia",
-     "start": "2026-10-13T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
     {
      "id": "id2300117573957886",
      "sportId": "23",
@@ -5411,7 +5375,7 @@
     {
      "id": "id2300117573957890",
      "sportId": "23",
-     "p1": "Terville Florange",
+     "p1": "Terville Florange OC",
      "p2": "Levallois Paris Saint-Cloud - Les Mariannes 92",
      "start": "2026-10-13T17:30:00.000Z",
      "sport": "Volleyball",
@@ -5422,15 +5386,6 @@
      "sportId": "23",
      "p1": "VBC Chamalieres",
      "p2": "Ugs Bordeaux Merignac Volley",
-     "start": "2026-10-13T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300117573957894",
-     "sportId": "23",
-     "p1": "Neptunes de Nantes",
-     "p2": "Beziers Volley",
      "start": "2026-10-13T18:00:00.000Z",
      "sport": "Volleyball",
      "league": "Ligue A Women"
@@ -5497,6 +5452,24 @@
      "start": "2026-10-14T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300050072525002",
+     "sportId": "23",
+     "p1": "SSC Schwerin",
+     "p2": "Dresdner SC",
+     "start": "2026-10-14T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300050072525004",
+     "sportId": "23",
+     "p1": "VC Wiesbaden",
+     "p2": "Alemannia Aachen",
+     "start": "2026-10-14T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
     }
    ]
   }
@@ -5517,6 +5490,6 @@
   "id1101503775214882|winamax.fr|113|113": "2026-10-13T12:01:30.875901+00:00"
  },
  "billable": {
-  "2026-10": 59
+  "2026-10": 60
  }
 }
