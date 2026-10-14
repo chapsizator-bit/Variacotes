@@ -5244,97 +5244,34 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-14T11:01:23.222206+00:00",
+   "fetched": "2026-10-14T23:01:29.462577+00:00",
    "items": [
     {
-     "id": "id2300096975169228",
+     "id": "id2300117372775234",
      "sportId": "23",
-     "p1": "Kuzeyboru Genclik",
-     "p2": "Turk Hava Yollari",
-     "start": "2026-10-14T11:00:00.000Z",
+     "p1": "LKS Lodz",
+     "p2": "Stal Mielec",
+     "start": "2026-10-15T15:30:00.000Z",
      "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
+     "league": "Liga Siatkowki, Women"
     },
     {
-     "id": "id2300096975169238",
+     "id": "id2303824172985640",
      "sportId": "23",
-     "p1": "Aras Kargo",
-     "p2": "Galatasaray Istanbul",
-     "start": "2026-10-14T13:00:00.000Z",
+     "p1": "VC Oudegem",
+     "p2": "VDK Gent",
+     "start": "2026-10-15T18:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
+     "league": "Liga Dames, Women"
     },
     {
-     "id": "id2300096975169232",
+     "id": "id2300117372775230",
      "sportId": "23",
-     "p1": "Nilufer Belediye Bursa",
-     "p2": "Afyon Bld",
-     "start": "2026-10-14T15:00:00.000Z",
+     "p1": "Volley Wroclaw",
+     "p2": "Chemik Police",
+     "start": "2026-10-16T17:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300050072525000",
-     "sportId": "23",
-     "p1": "Skurios Volleys Borken",
-     "p2": "Usc Munster",
-     "start": "2026-10-14T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300096975169230",
-     "sportId": "23",
-     "p1": "Ilbank SK Ankara",
-     "p2": "Eczacibasi Istanbul",
-     "start": "2026-10-14T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975169234",
-     "sportId": "23",
-     "p1": "Fenerbahce Istanbul",
-     "p2": "Goztepe",
-     "start": "2026-10-14T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975169236",
-     "sportId": "23",
-     "p1": "Vakifbank SK",
-     "p2": "Zeren Spor",
-     "start": "2026-10-14T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975169240",
-     "sportId": "23",
-     "p1": "Manisa Buyuksehir Belediyesi",
-     "p2": "Besiktas Istanbul",
-     "start": "2026-10-14T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300050072525002",
-     "sportId": "23",
-     "p1": "SSC Schwerin",
-     "p2": "Dresdner SC",
-     "start": "2026-10-14T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050072525004",
-     "sportId": "23",
-     "p1": "VC Wiesbaden",
-     "p2": "Alemannia Aachen",
-     "start": "2026-10-14T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
+     "league": "Liga Siatkowki, Women"
     }
    ]
   }
@@ -5351,6 +5288,6 @@
   "id1100014172902274|winamax.fr|113|115": "2026-10-14T17:01:33.080809+00:00"
  },
  "billable": {
-  "2026-10": 65
+  "2026-10": 66
  }
 }
