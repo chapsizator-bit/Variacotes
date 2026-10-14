@@ -5370,53 +5370,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-13T22:51:24.814284+00:00",
+   "fetched": "2026-10-14T11:01:23.222206+00:00",
    "items": [
-    {
-     "id": "id2300117573957886",
-     "sportId": "23",
-     "p1": "Racing Club de Cannes",
-     "p2": "Volero Le Cannet",
-     "start": "2026-10-13T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300117573957884",
-     "sportId": "23",
-     "p1": "Vandoeuvre Nancy Volley Ball",
-     "p2": "Evreux Vb",
-     "start": "2026-10-13T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300117573957888",
-     "sportId": "23",
-     "p1": "Saint Die Des Vosges",
-     "p2": "Volley Mulhouse Alsace",
-     "start": "2026-10-13T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300117573957890",
-     "sportId": "23",
-     "p1": "Terville Florange OC",
-     "p2": "Levallois Paris Saint-Cloud - Les Mariannes 92",
-     "start": "2026-10-13T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300117573957892",
-     "sportId": "23",
-     "p1": "VBC Chamalieres",
-     "p2": "Ugs Bordeaux Merignac Volley",
-     "start": "2026-10-13T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
     {
      "id": "id2300096975169228",
      "sportId": "23",
@@ -5443,6 +5398,15 @@
      "start": "2026-10-14T15:00:00.000Z",
      "sport": "Volleyball",
      "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300050072525000",
+     "sportId": "23",
+     "p1": "Skurios Volleys Borken",
+     "p2": "Usc Munster",
+     "start": "2026-10-14T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
     },
     {
      "id": "id2300096975169230",
@@ -5513,6 +5477,6 @@
   "id1103632172319150|winamax.fr|113|115": "2026-10-14T05:01:25.117188+00:00"
  },
  "billable": {
-  "2026-10": 62
+  "2026-10": 63
  }
 }
