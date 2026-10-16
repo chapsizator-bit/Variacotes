@@ -5550,7 +5550,7 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-16T00:01:31.474104+00:00",
+   "fetched": "2026-10-16T12:33:51.512111+00:00",
    "items": [
     {
      "id": "id2300083172764882",
@@ -5625,6 +5625,24 @@
      "league": "Liga Siatkowki"
     },
     {
+     "id": "id2303824172985636",
+     "sportId": "23",
+     "p1": "Tchalou Volley",
+     "p2": "G. H. Amigos Zoersel",
+     "start": "2026-10-17T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Dames, Women"
+    },
+    {
+     "id": "id2300056773076424",
+     "sportId": "23",
+     "p1": "Cuneo Granda Volley",
+     "p2": "Chieri 76 Volleyball",
+     "start": "2026-10-17T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
      "id": "id2300056773076426",
      "sportId": "23",
      "p1": "Vero Volley Milano",
@@ -5661,6 +5679,15 @@
      "league": "SuperLega"
     },
     {
+     "id": "id2300056773076432",
+     "sportId": "23",
+     "p1": "Pallavolo Scandicci",
+     "p2": "Azzurra Volley Firenze",
+     "start": "2026-10-18T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
      "id": "id2300051773076786",
      "sportId": "23",
      "p1": "TOP Volley Cisterna",
@@ -5677,6 +5704,15 @@
      "start": "2026-10-18T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "SuperLega"
+    },
+    {
+     "id": "id2300056773076428",
+     "sportId": "23",
+     "p1": "Busto Arsizio Volley",
+     "p2": "Volley Bergamo",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
     },
     {
      "id": "id2300051773076782",
@@ -5706,6 +5742,6 @@
   "id1103632172319154|winamax.fr|113|113": "2026-10-15T21:01:33.203406+00:00"
  },
  "billable": {
-  "2026-10": 74
+  "2026-10": 75
  }
 }
