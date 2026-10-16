@@ -5352,25 +5352,16 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-15T11:01:36.840827+00:00",
+   "fetched": "2026-10-16T00:01:31.474104+00:00",
    "items": [
     {
-     "id": "id2300117372775234",
+     "id": "id2300083172764882",
      "sportId": "23",
-     "p1": "LKS Lodz",
-     "p2": "Stal Mielec",
-     "start": "2026-10-15T15:30:00.000Z",
+     "p1": "GKS Katowice",
+     "p2": "Warta Zawiercie",
+     "start": "2026-10-16T15:30:00.000Z",
      "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2303824172985640",
-     "sportId": "23",
-     "p1": "VC Oudegem",
-     "p2": "VDK Gent",
-     "start": "2026-10-15T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Dames, Women"
+     "league": "Liga Siatkowki"
     },
     {
      "id": "id2300117372775230",
@@ -5382,6 +5373,42 @@
      "league": "Liga Siatkowki, Women"
     },
     {
+     "id": "id2300056773076422",
+     "sportId": "23",
+     "p1": "Millenium Brescia",
+     "p2": "Volley Vallefoglia",
+     "start": "2026-10-16T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300083172764888",
+     "sportId": "23",
+     "p1": "Projekt Warsaw",
+     "p2": "AZS Olsztyn",
+     "start": "2026-10-16T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300117372775228",
+     "sportId": "23",
+     "p1": "KS Palac Bydgoszcz",
+     "p2": "MKS Kalisz",
+     "start": "2026-10-17T10:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300083172764890",
+     "sportId": "23",
+     "p1": "Exact Systems Norwid Czestochowa",
+     "p2": "Resovia Rzeszow",
+     "start": "2026-10-17T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
      "id": "id2300051773076780",
      "sportId": "23",
      "p1": "Volley Verona",
@@ -5389,6 +5416,87 @@
      "start": "2026-10-17T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "SuperLega"
+    },
+    {
+     "id": "id2300083172764886",
+     "sportId": "23",
+     "p1": "Skra Belchatow",
+     "p2": "Trefl Gdansk",
+     "start": "2026-10-17T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300056773076426",
+     "sportId": "23",
+     "p1": "Vero Volley Milano",
+     "p2": "Agil Volley Novara",
+     "start": "2026-10-17T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300117372775236",
+     "sportId": "23",
+     "p1": "KS Rzeszow",
+     "p2": "Radomka Radom",
+     "start": "2026-10-17T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300083172764884",
+     "sportId": "23",
+     "p1": "ZAKSA Kedzierzyn-Kozle",
+     "p2": "LKPS Lublin",
+     "start": "2026-10-18T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300051773076784",
+     "sportId": "23",
+     "p1": "Pallavolo Padova",
+     "p2": "Gas Sales Piacenza",
+     "start": "2026-10-18T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "SuperLega"
+    },
+    {
+     "id": "id2300051773076786",
+     "sportId": "23",
+     "p1": "TOP Volley Cisterna",
+     "p2": "Power Volley Milano",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "SuperLega"
+    },
+    {
+     "id": "id2300051773076788",
+     "sportId": "23",
+     "p1": "Cuneo Volley",
+     "p2": "Perugia Volley",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "SuperLega"
+    },
+    {
+     "id": "id2300051773076782",
+     "sportId": "23",
+     "p1": "Modena Volley",
+     "p2": "Trentino Volley",
+     "start": "2026-10-18T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "SuperLega"
+    },
+    {
+     "id": "id2300117372775226",
+     "sportId": "23",
+     "p1": "Uni Opole",
+     "p2": "Budowlani Lodz",
+     "start": "2026-10-18T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
     }
    ]
   }
@@ -5400,6 +5508,6 @@
   "id1103632172319154|winamax.fr|113|113": "2026-10-15T21:01:33.203406+00:00"
  },
  "billable": {
-  "2026-10": 71
+  "2026-10": 72
  }
 }
