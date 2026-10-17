@@ -5379,26 +5379,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-17T01:01:25.799105+00:00",
+   "fetched": "2026-10-17T13:01:26.088166+00:00",
    "items": [
-    {
-     "id": "id2304410172636354",
-     "sportId": "23",
-     "p1": "Blue Cats",
-     "p2": "Toray Arrows",
-     "start": "2026-10-17T04:05:00.000Z",
-     "sport": "Volleyball",
-     "league": "SV League, Women"
-    },
-    {
-     "id": "id2300117372775228",
-     "sportId": "23",
-     "p1": "KS Palac Bydgoszcz",
-     "p2": "MKS Kalisz",
-     "start": "2026-10-17T10:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
     {
      "id": "id2300083172764890",
      "sportId": "23",
@@ -5409,13 +5391,13 @@
      "league": "Liga Siatkowki"
     },
     {
-     "id": "id2300050072525006",
+     "id": "id2300096774100328",
      "sportId": "23",
-     "p1": "VC Wiesbaden",
-     "p2": "Skurios Volleys Borken",
-     "start": "2026-10-17T15:15:00.000Z",
+     "p1": "Halkbank Ankara",
+     "p2": "Galatasaray SK",
+     "start": "2026-10-17T13:00:00.000Z",
      "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
+     "league": "Efeler Ligi"
     },
     {
      "id": "id2300051773076780",
@@ -5445,13 +5427,22 @@
      "league": "Ligue A"
     },
     {
-     "id": "id2300050072525008",
+     "id": "id2300096774100326",
      "sportId": "23",
-     "p1": "Alemannia Aachen",
-     "p2": "Dresdner SC",
+     "p1": "Fenerbahce SK Istanbul",
+     "p2": "Ziraat Bankasi Ankara",
+     "start": "2026-10-17T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300083373951180",
+     "sportId": "23",
+     "p1": "Stade Poitevin Poitiers",
+     "p2": "AS Cannes Volley-Ball",
      "start": "2026-10-17T16:30:00.000Z",
      "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
+     "league": "Ligue A"
     },
     {
      "id": "id2300117573957898",
@@ -5461,6 +5452,15 @@
      "start": "2026-10-17T17:00:00.000Z",
      "sport": "Volleyball",
      "league": "Ligue A Women"
+    },
+    {
+     "id": "id2302446473952294",
+     "sportId": "23",
+     "p1": "Cambrai Volley",
+     "p2": "Frejus Var Volley",
+     "start": "2026-10-17T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
     },
     {
      "id": "id2303824172985636",
@@ -5490,13 +5490,13 @@
      "league": "Ligue A Women"
     },
     {
-     "id": "id2300056773076424",
+     "id": "id2302446473952300",
      "sportId": "23",
-     "p1": "Cuneo Granda Volley",
-     "p2": "Chieri 76 Volleyball",
-     "start": "2026-10-17T18:30:00.000Z",
+     "p1": "Vbc Chalon Sur Saone",
+     "p2": "Martigues VB",
+     "start": "2026-10-17T18:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Serie A1 Women"
+     "league": "Ligue B"
     },
     {
      "id": "id2300056773076426",
@@ -5620,6 +5620,6 @@
   "id2303824172985636|winamax.fr|231|232": "2026-10-17T09:01:23.110753+00:00"
  },
  "billable": {
-  "2026-10": 80
+  "2026-10": 81
  }
 }
