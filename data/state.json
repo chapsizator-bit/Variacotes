@@ -5199,43 +5199,16 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-16T12:33:51.512111+00:00",
+   "fetched": "2026-10-17T01:01:25.799105+00:00",
    "items": [
     {
-     "id": "id2300083172764882",
+     "id": "id2304410172636354",
      "sportId": "23",
-     "p1": "GKS Katowice",
-     "p2": "Warta Zawiercie",
-     "start": "2026-10-16T15:30:00.000Z",
+     "p1": "Blue Cats",
+     "p2": "Toray Arrows",
+     "start": "2026-10-17T04:05:00.000Z",
      "sport": "Volleyball",
-     "league": "Liga Siatkowki"
-    },
-    {
-     "id": "id2300117372775230",
-     "sportId": "23",
-     "p1": "Volley Wroclaw",
-     "p2": "Chemik Police",
-     "start": "2026-10-16T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2300056773076422",
-     "sportId": "23",
-     "p1": "Millenium Brescia",
-     "p2": "Volley Vallefoglia",
-     "start": "2026-10-16T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300083172764888",
-     "sportId": "23",
-     "p1": "Projekt Warsaw",
-     "p2": "AZS Olsztyn",
-     "start": "2026-10-16T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki"
+     "league": "SV League, Women"
     },
     {
      "id": "id2300117372775228",
@@ -5249,11 +5222,20 @@
     {
      "id": "id2300083172764890",
      "sportId": "23",
-     "p1": "Exact Systems Norwid Czestochowa",
+     "p1": "KS Norwid Czestochowa",
      "p2": "Resovia Rzeszow",
      "start": "2026-10-17T13:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300050072525006",
+     "sportId": "23",
+     "p1": "VC Wiesbaden",
+     "p2": "Skurios Volleys Borken",
+     "start": "2026-10-17T15:15:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
     },
     {
      "id": "id2300051773076780",
@@ -5274,6 +5256,33 @@
      "league": "Liga Siatkowki"
     },
     {
+     "id": "id2300083373951178",
+     "sportId": "23",
+     "p1": "Spacers Toulouse Volley",
+     "p2": "Arago de Sete",
+     "start": "2026-10-17T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2300050072525008",
+     "sportId": "23",
+     "p1": "Alemannia Aachen",
+     "p2": "Dresdner SC",
+     "start": "2026-10-17T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300117573957898",
+     "sportId": "23",
+     "p1": "Volero Le Cannet",
+     "p2": "Neptunes de Nantes",
+     "start": "2026-10-17T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
      "id": "id2303824172985636",
      "sportId": "23",
      "p1": "Tchalou Volley",
@@ -5281,6 +5290,24 @@
      "start": "2026-10-17T17:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Dames, Women"
+    },
+    {
+     "id": "id2300083373951190",
+     "sportId": "23",
+     "p1": "Tours Volley-Ball",
+     "p2": "Nice Volley Ball",
+     "start": "2026-10-17T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2300117573957900",
+     "sportId": "23",
+     "p1": "Beziers Volley",
+     "p2": "Racing Club de Cannes",
+     "start": "2026-10-17T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
     },
     {
      "id": "id2300056773076424",
@@ -5380,6 +5407,24 @@
      "start": "2026-10-18T18:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300083172764892",
+     "sportId": "23",
+     "p1": "KS Arka Tempo Chelm",
+     "p2": "Cuprum Lubin SA",
+     "start": "2026-10-19T15:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300117372775232",
+     "sportId": "23",
+     "p1": "MKS Sokol Mogilno",
+     "p2": "Bks Bielsko-Biala",
+     "start": "2026-10-19T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
     }
    ]
   }
@@ -5389,9 +5434,10 @@
   "id1103632172319150|winamax.fr|113|115": "2026-10-14T05:01:25.117188+00:00",
   "id1100014172902274|winamax.fr|113|115": "2026-10-14T17:01:33.080809+00:00",
   "id1103632172319154|winamax.fr|113|113": "2026-10-15T21:01:33.203406+00:00",
-  "id1100151473575206|winamax.fr|113|115": "2026-10-16T17:01:28.625852+00:00"
+  "id1100151473575206|winamax.fr|113|115": "2026-10-16T17:01:28.625852+00:00",
+  "id2300117573957900|winamax.fr|231|232": "2026-10-17T01:01:25.799105+00:00"
  },
  "billable": {
-  "2026-10": 77
+  "2026-10": 78
  }
 }
