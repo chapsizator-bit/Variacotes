@@ -3919,17 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-10-16T19:01:30.495295+00:00",
+   "fetched": "2026-10-17T08:01:26.969887+00:00",
    "items": [
-    {
-     "id": "id1100151473575206",
-     "sportId": "11",
-     "p1": "Club Ourense Baloncesto Sad",
-     "p2": "Lucentum Alicante",
-     "start": "2026-10-16T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Primera FEB"
-    },
     {
      "id": "id1100152472016826",
      "sportId": "11",
@@ -3947,6 +3938,15 @@
      "start": "2026-10-17T12:00:00.000Z",
      "sport": "Basketball",
      "league": "Basketball League"
+    },
+    {
+     "id": "id1101455473113750",
+     "sportId": "11",
+     "p1": "Athinaikos",
+     "p2": "Mgs Panseraikos",
+     "start": "2026-10-17T12:15:00.000Z",
+     "sport": "Basketball",
+     "league": "Womens Basketball League 1"
     },
     {
      "id": "id1100051973495462",
@@ -3983,6 +3983,15 @@
      "start": "2026-10-17T14:00:00.000Z",
      "sport": "Basketball",
      "league": "Basketball League"
+    },
+    {
+     "id": "id1100023574131728",
+     "sportId": "11",
+     "p1": "KK FMP Belgrade",
+     "p2": "HKK Siroki",
+     "start": "2026-10-17T15:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Liga ABA"
     },
     {
      "id": "id1100015674295674",
@@ -4066,6 +4075,24 @@
      "league": "BNXT League"
     },
     {
+     "id": "id1100152073432672",
+     "sportId": "11",
+     "p1": "Dinamo Sassari",
+     "p2": "Benedetto Xiv Cento",
+     "start": "2026-10-17T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
+     "id": "id1103632172319160",
+     "sportId": "11",
+     "p1": "Leuven Bears",
+     "p2": "Kortrijk Spurs ",
+     "start": "2026-10-17T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
      "id": "id1103632172319162",
      "sportId": "11",
      "p1": "Kangoeroes Basket Mechelen",
@@ -4075,6 +4102,24 @@
      "league": "BNXT League"
     },
     {
+     "id": "id1103632172319164",
+     "sportId": "11",
+     "p1": "Union Mons-Hainaut",
+     "p2": "Landstede Hammers",
+     "start": "2026-10-17T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
+     "id": "id1100152073432664",
+     "sportId": "11",
+     "p1": "Libertas Livorno",
+     "p2": "Urania Milano",
+     "start": "2026-10-17T18:45:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
      "id": "id1100048675462402",
      "sportId": "11",
      "p1": "Golden State Valkyries",
@@ -4082,6 +4127,15 @@
      "start": "2026-10-17T19:30:00.000Z",
      "sport": "Basketball",
      "league": "WNBA"
+    },
+    {
+     "id": "id1100152472016828",
+     "sportId": "11",
+     "p1": "Tasmania Jackjumpers",
+     "p2": "New Zealand Breakers",
+     "start": "2026-10-18T04:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
     },
     {
      "id": "id1100152472016830",
@@ -4201,6 +4255,24 @@
      "league": "Serie A"
     },
     {
+     "id": "id1100026473713524",
+     "sportId": "11",
+     "p1": "Valencia Basket",
+     "p2": "UCAM Murcia",
+     "start": "2026-10-18T15:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Liga ACB"
+    },
+    {
+     "id": "id1100055673440880",
+     "sportId": "11",
+     "p1": "Geas San Sesto Giovanni",
+     "p2": "OME PS Battipaglia",
+     "start": "2026-10-18T15:00:00.000Z",
+     "sport": "Basketball",
+     "league": "A1 Women"
+    },
+    {
      "id": "id1100026273432094",
      "sportId": "11",
      "p1": "Scaligera Basket Verona",
@@ -4217,6 +4289,51 @@
      "start": "2026-10-18T16:00:00.000Z",
      "sport": "Basketball",
      "league": "Serie A"
+    },
+    {
+     "id": "id1100152073432658",
+     "sportId": "11",
+     "p1": "Juvecaserta 2021",
+     "p2": "Juvi Cremona 1952",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
+     "id": "id1100152073432662",
+     "sportId": "11",
+     "p1": "Pallacanestro 2.015 Forli",
+     "p2": "Real Sebastiani Rieti",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
+     "id": "id1100152073432666",
+     "sportId": "11",
+     "p1": "AS Pistoia Basket 2000",
+     "p2": "Elachem Vigevano 1955",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
+     "id": "id1100152073432668",
+     "sportId": "11",
+     "p1": "Rinascita Basket Rimini",
+     "p2": "Basket Mestre 1958",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
+     "id": "id1100152073432670",
+     "sportId": "11",
+     "p1": "Pallacanestro Ruvo di Puglia",
+     "p2": "US Victoria Libertas",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
     },
     {
      "id": "id1100026273432090",
@@ -4262,11 +4379,29 @@
      "start": "2026-10-18T17:30:00.000Z",
      "sport": "Basketball",
      "league": "Liga ABA"
+    },
+    {
+     "id": "id1100055673440876",
+     "sportId": "11",
+     "p1": "PF Schio",
+     "p2": "Magnolia Basket",
+     "start": "2026-10-18T18:45:00.000Z",
+     "sport": "Basketball",
+     "league": "A1 Women"
+    },
+    {
+     "id": "id1100023574131930",
+     "sportId": "11",
+     "p1": "Dubai Basketball",
+     "p2": "KK Studentski centar Podgorica",
+     "start": "2026-10-19T15:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Liga ABA"
     }
    ]
   },
   "12": {
-   "fetched": "2026-10-16T19:01:30.495295+00:00",
+   "fetched": "2026-10-17T08:01:26.969887+00:00",
    "items": [
     {
      "id": "id1200308575660770",
@@ -4294,6 +4429,51 @@
      "start": "2026-10-17T10:30:00.000Z",
      "sport": "Tennis",
      "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1204593575698082",
+     "sportId": "12",
+     "p1": "Rune, Holger",
+     "p2": "Collignon, Raphael",
+     "start": "2026-10-18T10:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Brussels, Belgium Singles"
+    },
+    {
+     "id": "id1204593575698084",
+     "sportId": "12",
+     "p1": "Griekspoor, Tallon",
+     "p2": "Schoenhaus, Max",
+     "start": "2026-10-18T10:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Brussels, Belgium Singles"
+    },
+    {
+     "id": "id1204593575698088",
+     "sportId": "12",
+     "p1": "Fearnley, Jacob",
+     "p2": "Gaston, Hugo",
+     "start": "2026-10-18T10:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Brussels, Belgium Singles"
+    },
+    {
+     "id": "id1204593575698092",
+     "sportId": "12",
+     "p1": "Samuel, Toby",
+     "p2": "Bergs, Zizou",
+     "start": "2026-10-18T10:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Brussels, Belgium Singles"
+    },
+    {
+     "id": "id1204593575698094",
+     "sportId": "12",
+     "p1": "Prizmic, Dino",
+     "p2": "Dzumhur, Damir",
+     "start": "2026-10-18T10:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Brussels, Belgium Singles"
     }
    ]
   },
@@ -5435,9 +5615,10 @@
   "id1100014172902274|winamax.fr|113|115": "2026-10-14T17:01:33.080809+00:00",
   "id1103632172319154|winamax.fr|113|113": "2026-10-15T21:01:33.203406+00:00",
   "id1100151473575206|winamax.fr|113|115": "2026-10-16T17:01:28.625852+00:00",
-  "id2300117573957900|winamax.fr|231|232": "2026-10-17T01:01:25.799105+00:00"
+  "id2300117573957900|winamax.fr|231|232": "2026-10-17T01:01:25.799105+00:00",
+  "id1103632172319160|winamax.fr|113|113": "2026-10-17T08:01:26.969887+00:00"
  },
  "billable": {
-  "2026-10": 78
+  "2026-10": 80
  }
 }
