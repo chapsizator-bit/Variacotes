@@ -3919,44 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-10-17T20:41:31.323808+00:00",
+   "fetched": "2026-10-18T09:01:25.310259+00:00",
    "items": [
-    {
-     "id": "id1100185473496276",
-     "sportId": "11",
-     "p1": "Tango Bourges Basket",
-     "p2": "SAS Toulouse Metropole",
-     "start": "2026-10-17T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LFB, Women"
-    },
-    {
-     "id": "id1103632172319158",
-     "sportId": "11",
-     "p1": "Zorg En Zekerheid Leiden",
-     "p2": "Okapi Aalst",
-     "start": "2026-10-17T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "BNXT League"
-    },
-    {
-     "id": "id1100152472016828",
-     "sportId": "11",
-     "p1": "Tasmania Jackjumpers",
-     "p2": "New Zealand Breakers",
-     "start": "2026-10-18T04:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBL"
-    },
-    {
-     "id": "id1100152472016830",
-     "sportId": "11",
-     "p1": "Melbourne United",
-     "p2": "Illawarra Hawks",
-     "start": "2026-10-18T06:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBL"
-    },
     {
      "id": "id1100026273432104",
      "sportId": "11",
@@ -3967,10 +3931,10 @@
      "league": "Serie A"
     },
     {
-     "id": "id1100026473713520",
+     "id": "id1100026473713518",
      "sportId": "11",
-     "p1": "Basket Zaragoza 2002",
-     "p2": "Caprabo Lleida",
+     "p1": "Basquet Girona",
+     "p2": "CB Coruna",
      "start": "2026-10-18T10:00:00.000Z",
      "sport": "Basketball",
      "league": "Liga ACB"
@@ -3985,6 +3949,15 @@
      "league": "Basketball League"
     },
     {
+     "id": "id1100030474750436",
+     "sportId": "11",
+     "p1": "Panathinaikos BC",
+     "p2": "Peristeri Athens",
+     "start": "2026-10-18T10:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Basketball League"
+    },
+    {
      "id": "id1100051973495468",
      "sportId": "11",
      "p1": "Merkezefendi Belediyesi Denizli Basket",
@@ -3992,6 +3965,15 @@
      "start": "2026-10-18T10:00:00.000Z",
      "sport": "Basketball",
      "league": "Super Lig"
+    },
+    {
+     "id": "id1101455473113758",
+     "sportId": "11",
+     "p1": "Aris Thessaloniki",
+     "p2": "Panathinaikos BC",
+     "start": "2026-10-18T10:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Womens Basketball League 1"
     },
     {
      "id": "id1100023574131924",
@@ -4012,13 +3994,58 @@
      "league": "Super Lig"
     },
     {
-     "id": "id1100035974682436",
+     "id": "id1100055673440870",
      "sportId": "11",
-     "p1": "Basketball Lowen Braunschweig",
-     "p2": "Niners Chemnitz",
+     "p1": "Derthona Basket",
+     "p2": "Asd Broni 2022",
+     "start": "2026-10-18T12:30:00.000Z",
+     "sport": "Basketball",
+     "league": "A1 Women"
+    },
+    {
+     "id": "id1100035974682424",
+     "sportId": "11",
+     "p1": "Wurzburg Baskets",
+     "p2": "Mitteldeutscher BC",
      "start": "2026-10-18T13:00:00.000Z",
      "sport": "Basketball",
      "league": "BBL Pokal"
+    },
+    {
+     "id": "id1100185473496284",
+     "sportId": "11",
+     "p1": "Flammes Carolo Basket",
+     "p2": "Basket Lattes Montpellier",
+     "start": "2026-10-18T13:00:00.000Z",
+     "sport": "Basketball",
+     "league": "LFB, Women"
+    },
+    {
+     "id": "id1101455473113752",
+     "sportId": "11",
+     "p1": "AEO Proteas Voulas",
+     "p2": "AO Amintas",
+     "start": "2026-10-18T13:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Womens Basketball League 1"
+    },
+    {
+     "id": "id1100185473496280",
+     "sportId": "11",
+     "p1": "BC La Tronche Meylan",
+     "p2": "Landerneau Bretagne Basket",
+     "start": "2026-10-18T13:15:00.000Z",
+     "sport": "Basketball",
+     "league": "LFB, Women"
+    },
+    {
+     "id": "id1100185473496282",
+     "sportId": "11",
+     "p1": "ESB Villeneuve d´Ascq",
+     "p2": "C Chartres Basket Feminin",
+     "start": "2026-10-18T13:30:00.000Z",
+     "sport": "Basketball",
+     "league": "LFB, Women"
     },
     {
      "id": "id1100015674295682",
@@ -4111,6 +4138,15 @@
      "league": "BBL Pokal"
     },
     {
+     "id": "id1100055673440874",
+     "sportId": "11",
+     "p1": "CLV Limonta Costa Masnaga",
+     "p2": "Panthers Roseto",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "A1 Women"
+    },
+    {
      "id": "id1100152073432658",
      "sportId": "11",
      "p1": "Juvecaserta 2021",
@@ -4154,6 +4190,15 @@
      "start": "2026-10-18T16:00:00.000Z",
      "sport": "Basketball",
      "league": "Serie A2"
+    },
+    {
+     "id": "id1101455473113756",
+     "sportId": "11",
+     "p1": "Panathlitikos SF Sykeon",
+     "p2": "PAOK Thessaloniki",
+     "start": "2026-10-18T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Womens Basketball League 1"
     },
     {
      "id": "id1100026273432090",
@@ -4201,6 +4246,15 @@
      "league": "Liga ABA"
     },
     {
+     "id": "id1100051975649362",
+     "sportId": "11",
+     "p1": "Besiktas JK",
+     "p2": "Galatasaray SK",
+     "start": "2026-10-18T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
+    },
+    {
      "id": "id1100055673440876",
      "sportId": "11",
      "p1": "PF Schio",
@@ -4217,20 +4271,101 @@
      "start": "2026-10-19T15:30:00.000Z",
      "sport": "Basketball",
      "league": "Liga ABA"
+    },
+    {
+     "id": "id1100051975649376",
+     "sportId": "11",
+     "p1": "Esenler Erokspor",
+     "p2": "Anadolu Efes SK",
+     "start": "2026-10-19T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
+    },
+    {
+     "id": "id1100048675462404",
+     "sportId": "11",
+     "p1": "Golden State Valkyries",
+     "p2": "Atlanta Dream",
+     "start": "2026-10-20T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "WNBA"
+    },
+    {
+     "id": "id1100013273682356",
+     "sportId": "11",
+     "p1": "New York Knicks",
+     "p2": "Philadelphia 76ers",
+     "start": "2026-10-20T23:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
     }
    ]
   },
   "12": {
-   "fetched": "2026-10-17T20:41:31.323808+00:00",
+   "fetched": "2026-10-18T09:01:25.310259+00:00",
    "items": [
     {
-     "id": "id1200308775240496",
+     "id": "id1201111775373626",
      "sportId": "12",
-     "p1": "Miedler L / Oberleitner N",
-     "p2": "Cabral F / Tracy J",
-     "start": "2026-10-18T06:00:00.000Z",
+     "p1": "Chwalinska, Maja",
+     "p2": "Kartal, Sonay",
+     "start": "2026-10-18T10:30:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Shanghai, China Men Doubles"
+     "league": "WTA Wuhan, China Women Singles"
+    },
+    {
+     "id": "id1200306175744662",
+     "sportId": "12",
+     "p1": "Liu, Claire",
+     "p2": "Linette, Magda",
+     "start": "2026-10-19T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Singles"
+    },
+    {
+     "id": "id1200306175744664",
+     "sportId": "12",
+     "p1": "Oliynykova, Oleksandra",
+     "p2": "Stoiana, Mary",
+     "start": "2026-10-19T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Singles"
+    },
+    {
+     "id": "id1200306175744666",
+     "sportId": "12",
+     "p1": "McNally, Caty",
+     "p2": "Kraus, Sinja",
+     "start": "2026-10-19T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Singles"
+    },
+    {
+     "id": "id1200306175744668",
+     "sportId": "12",
+     "p1": "Gibson, Talia",
+     "p2": "Dart, Harriet",
+     "start": "2026-10-19T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Singles"
+    },
+    {
+     "id": "id1200306175744670",
+     "sportId": "12",
+     "p1": "Joint, Maya",
+     "p2": "Sonmez, Zeynep",
+     "start": "2026-10-19T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Singles"
+    },
+    {
+     "id": "id1200306175744672",
+     "sportId": "12",
+     "p1": "Li, Ann",
+     "p2": "Jones, Emerson",
+     "start": "2026-10-19T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Singles"
     },
     {
      "id": "id1200306175705284",
@@ -4258,6 +4393,78 @@
      "start": "2026-10-19T01:45:00.000Z",
      "sport": "Tennis",
      "league": "WTA Osaka, Japan Women Singles"
+    },
+    {
+     "id": "id1200306175705298",
+     "sportId": "12",
+     "p1": "Tararudee, Lanlana",
+     "p2": "Quevedo, Kaitlin",
+     "start": "2026-10-19T01:45:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Singles"
+    },
+    {
+     "id": "id1205376275741338",
+     "sportId": "12",
+     "p1": "Nakao, Kokoa",
+     "p2": "Ohwaki, Yui",
+     "start": "2026-10-19T02:10:00.000Z",
+     "sport": "Tennis",
+     "league": "UTR PTT Saitama Women 06"
+    },
+    {
+     "id": "id1204006575720844",
+     "sportId": "12",
+     "p1": "Bejlek, Sara",
+     "p2": "Wang, Xiyu",
+     "start": "2026-10-19T03:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Ningbo, China Women Singles"
+    },
+    {
+     "id": "id1204006575720846",
+     "sportId": "12",
+     "p1": "Guo, Hanyu",
+     "p2": "Alexandrova, Ekaterina",
+     "start": "2026-10-19T03:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Ningbo, China Women Singles"
+    },
+    {
+     "id": "id1204006575720848",
+     "sportId": "12",
+     "p1": "Mertens, Elise",
+     "p2": "Fernandez, Leylah",
+     "start": "2026-10-19T03:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Ningbo, China Women Singles"
+    },
+    {
+     "id": "id1204006575720852",
+     "sportId": "12",
+     "p1": "Ostapenko, Jelena",
+     "p2": "Bencic, Belinda",
+     "start": "2026-10-19T03:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Ningbo, China Women Singles"
+    },
+    {
+     "id": "id1205376275741268",
+     "sportId": "12",
+     "p1": "Shibutani, Tsuki",
+     "p2": "Kinoshita, Neon",
+     "start": "2026-10-19T03:20:00.000Z",
+     "sport": "Tennis",
+     "league": "UTR PTT Saitama Women 06"
+    },
+    {
+     "id": "id1200463175744166",
+     "sportId": "12",
+     "p1": "Purcell, Max",
+     "p2": "Zhu, Evan",
+     "start": "2026-10-19T05:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Challenger Guangzhou, China Men Singles"
     },
     {
      "id": "id1204195975716384",
@@ -4314,6 +4521,96 @@
      "league": "ATP Almaty, Kazakhstan Men Singles"
     },
     {
+     "id": "id1200309975741454",
+     "sportId": "12",
+     "p1": "Droguet T / Jacquet K",
+     "p2": "Arribage T / Olivetti A",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309975741456",
+     "sportId": "12",
+     "p1": "Paul J / Vocel M",
+     "p2": "Gonzalez S / Jebens H",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309975741458",
+     "sportId": "12",
+     "p1": "Bobichon M / Feldbausch K",
+     "p2": "Cash R / Erler A",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309975741460",
+     "sportId": "12",
+     "p1": "Arneodo R / Blanchet U",
+     "p2": "Escobar G / Kaliyanda Poonacha N",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309975741462",
+     "sportId": "12",
+     "p1": "Hilderbrand T / Latinovic S",
+     "p2": "Behar A / Paris J",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309975741464",
+     "sportId": "12",
+     "p1": "Nys H / Roger-Vasselin E",
+     "p2": "Reynolds F / Watt J",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309975741466",
+     "sportId": "12",
+     "p1": "Stevenson D / Willis M",
+     "p2": "Paulson A / Serdarusic N",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309975741468",
+     "sportId": "12",
+     "p1": "Cash J / Glasspool L",
+     "p2": "Reyes-Varela M A / Stalder R",
+     "start": "2026-10-19T08:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
+    },
+    {
+     "id": "id1200309775722448",
+     "sportId": "12",
+     "p1": "Medjedovic, Hamad",
+     "p2": "Nakashima, Brandon",
+     "start": "2026-10-19T08:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Singles"
+    },
+    {
+     "id": "id1200309775722450",
+     "sportId": "12",
+     "p1": "Wawrinka, Stan",
+     "p2": "Landaluce, Martin",
+     "start": "2026-10-19T08:30:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Singles"
+    },
+    {
      "id": "id1204593575698082",
      "sportId": "12",
      "p1": "Rune, Holger",
@@ -4341,15 +4638,6 @@
      "league": "ATP Brussels, Belgium Singles"
     },
     {
-     "id": "id1204593575698090",
-     "sportId": "12",
-     "p1": "Van de Zandschulp, Botic",
-     "p2": "Majchrzak, Kamil",
-     "start": "2026-10-19T10:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Brussels, Belgium Singles"
-    },
-    {
      "id": "id1204593575698092",
      "sportId": "12",
      "p1": "Samuel, Toby",
@@ -4366,6 +4654,42 @@
      "start": "2026-10-19T10:30:00.000Z",
      "sport": "Tennis",
      "league": "ATP Brussels, Belgium Singles"
+    },
+    {
+     "id": "id1205376275741264",
+     "sportId": "12",
+     "p1": "Furuya, Michiru",
+     "p2": "Kinoshita, Neon",
+     "start": "2026-10-20T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "UTR PTT Saitama Women 06"
+    },
+    {
+     "id": "id1205376275741266",
+     "sportId": "12",
+     "p1": "Ohashi, Yuna",
+     "p2": "Kinoshita, Neon",
+     "start": "2026-10-20T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "UTR PTT Saitama Women 06"
+    },
+    {
+     "id": "id1205376275741336",
+     "sportId": "12",
+     "p1": "Nakao, Kokoa",
+     "p2": "Shigeta, Mua",
+     "start": "2026-10-20T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "UTR PTT Saitama Women 06"
+    },
+    {
+     "id": "id1205376275741340",
+     "sportId": "12",
+     "p1": "Nakao, Kokoa",
+     "p2": "Goshima, Uri",
+     "start": "2026-10-20T01:00:00.000Z",
+     "sport": "Tennis",
+     "league": "UTR PTT Saitama Women 06"
     }
    ]
   },
@@ -5451,6 +5775,6 @@
   "id1204195975716398|winamax.fr|121|122": "2026-10-18T06:00:22.756291+00:00"
  },
  "billable": {
-  "2026-10": 84
+  "2026-10": 86
  }
 }
