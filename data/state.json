@@ -5208,13 +5208,13 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-19T02:01:22.818931+00:00",
+   "fetched": "2026-10-19T14:01:34.820344+00:00",
    "items": [
     {
      "id": "id2300083172764892",
      "sportId": "23",
-     "p1": "KS Arka Tempo Chelm",
-     "p2": "Cuprum Lubin SA",
+     "p1": "Chks Chelm",
+     "p2": "Cuprum Stilon Gorzow",
      "start": "2026-10-19T15:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
@@ -5288,6 +5288,6 @@
   "id2300117372775226|winamax.fr|231|231": "2026-10-18T15:01:23.924251+00:00"
  },
  "billable": {
-  "2026-10": 92
+  "2026-10": 93
  }
 }
