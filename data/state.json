@@ -5514,16 +5514,16 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-22T05:01:20.424913+00:00",
+   "fetched": "2026-10-22T17:01:37.170470+00:00",
    "items": [
     {
-     "id": "id2300117372775260",
+     "id": "id2300083373951206",
      "sportId": "23",
-     "p1": "Radomka Radom",
-     "p2": "Stal Mielec",
-     "start": "2026-10-22T15:30:00.000Z",
+     "p1": "Arago de Sete",
+     "p2": "Chaumont 52",
+     "start": "2026-10-22T18:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
+     "league": "Ligue A"
     },
     {
      "id": "id2300058772919274",
@@ -5542,6 +5542,15 @@
      "start": "2026-10-23T15:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300050172524630",
+     "sportId": "23",
+     "p1": "VC Bitterfeld-Wolfen",
+     "p2": "Netzhoppers Konigs Wusterhausen",
+     "start": "2026-10-23T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
     },
     {
      "id": "id2300083172764898",
@@ -5578,12 +5587,56 @@
      "start": "2026-10-24T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300050172524632",
+     "sportId": "23",
+     "p1": "VfB Friedrichshafen",
+     "p2": "SSC Karlsruhe",
+     "start": "2026-10-24T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300050172524634",
+     "sportId": "23",
+     "p1": "Svg Luneburg",
+     "p2": "SV Warnemünde",
+     "start": "2026-10-24T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300050172524636",
+     "sportId": "23",
+     "p1": "TSV Giesen Grizzlys",
+     "p2": "Berlin RV",
+     "start": "2026-10-24T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300146875360756",
+     "sportId": "23",
+     "p1": "Mackenzie EC MG",
+     "p2": "Osasco VC",
+     "start": "2026-10-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
+    },
+    {
+     "id": "id2300146875360758",
+     "sportId": "23",
+     "p1": "Abel/Moda Brusque",
+     "p2": "Praia Clube",
+     "start": "2026-10-25T00:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
     }
    ]
   }
  },
  "alerted": {
-  "id1100026273432104|winamax.fr|113|113": "2026-10-17T17:01:21.811596+00:00",
   "id1204195975716398|winamax.fr|121|122": "2026-10-18T06:00:22.756291+00:00",
   "id2300117372775226|winamax.fr|231|231": "2026-10-18T15:01:23.924251+00:00",
   "id2302446473952310|winamax.fr|231|232": "2026-10-20T07:41:21.887545+00:00",
@@ -5596,6 +5649,6 @@
   "id1204195975620020|winamax.fr|121|121": "2026-10-22T00:01:29.220448+00:00"
  },
  "billable": {
-  "2026-10": 110
+  "2026-10": 111
  }
 }
