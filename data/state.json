@@ -3919,17 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-10-23T01:01:23.021592+00:00",
+   "fetched": "2026-10-23T13:01:30.242512+00:00",
    "items": [
-    {
-     "id": "id1100152472016836",
-     "sportId": "11",
-     "p1": "Perth Wildcats",
-     "p2": "Melbourne United",
-     "start": "2026-10-23T10:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBL"
-    },
     {
      "id": "id1100023574132000",
      "sportId": "11",
@@ -3938,6 +3929,15 @@
      "start": "2026-10-23T15:00:00.000Z",
      "sport": "Basketball",
      "league": "Liga ABA"
+    },
+    {
+     "id": "id1100051973495490",
+     "sportId": "11",
+     "p1": "Cayirova Belediyesi",
+     "p2": "Bursaspor",
+     "start": "2026-10-23T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
     },
     {
      "id": "id1100013873263072",
@@ -4111,6 +4111,15 @@
      "league": "NBA"
     },
     {
+     "id": "id1100013273682596",
+     "sportId": "11",
+     "p1": "Boston Celtics",
+     "p2": "New York Knicks",
+     "start": "2026-10-23T23:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
      "id": "id1100013273719350",
      "sportId": "11",
      "p1": "Charlotte Hornets",
@@ -4152,6 +4161,15 @@
      "p1": "Miami Heat",
      "p2": "Detroit Pistons",
      "start": "2026-10-24T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273682598",
+     "sportId": "11",
+     "p1": "San Antonio Spurs",
+     "p2": "Houston Rockets",
+     "start": "2026-10-24T01:30:00.000Z",
      "sport": "Basketball",
      "league": "NBA"
     },
@@ -4390,6 +4408,15 @@
      "league": "Serie A"
     },
     {
+     "id": "id1100118973062792",
+     "sportId": "11",
+     "p1": "Basket Le Havre",
+     "p2": "Asc Denain Voltaire Ph",
+     "start": "2026-10-24T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "LNB Elite 2"
+    },
+    {
      "id": "id1103632172319172",
      "sportId": "11",
      "p1": "Antwerp Giants",
@@ -4525,6 +4552,15 @@
      "league": "Super Lig"
     },
     {
+     "id": "id1100118973062804",
+     "sportId": "11",
+     "p1": "Ada Blois Basket 41",
+     "p2": "Antibes Sharks",
+     "start": "2026-10-25T15:00:00.000Z",
+     "sport": "Basketball",
+     "league": "LNB Elite 2"
+    },
+    {
      "id": "id1100015674295700",
      "sportId": "11",
      "p1": "ASVEL Lyon-Villeurbanne",
@@ -4597,6 +4633,15 @@
      "league": "Serie A2"
     },
     {
+     "id": "id1100152073432710",
+     "sportId": "11",
+     "p1": "Rinascita Basket Rimini",
+     "p2": "Real Sebastiani Rieti",
+     "start": "2026-10-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
      "id": "id1100026273432118",
      "sportId": "11",
      "p1": "Pallacanestro Reggiana",
@@ -4644,131 +4689,14 @@
    ]
   },
   "12": {
-   "fetched": "2026-10-23T01:01:23.021592+00:00",
+   "fetched": "2026-10-23T13:01:30.242512+00:00",
    "items": [
-    {
-     "id": "id1205376075915080",
-     "sportId": "12",
-     "p1": "Suh, Nathaniel",
-     "p2": "Craig, Carter",
-     "start": "2026-10-23T01:30:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Newport Beach Men 25"
-    },
-    {
-     "id": "id1200306175658356",
-     "sportId": "12",
-     "p1": "Li, Ann",
-     "p2": "Tagger, Lilli",
-     "start": "2026-10-23T02:30:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Osaka, Japan Women Singles"
-    },
-    {
-     "id": "id1200306175658358",
-     "sportId": "12",
-     "p1": "Gibson, Talia",
-     "p2": "Krueger, Ashlyn",
-     "start": "2026-10-23T03:40:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Osaka, Japan Women Singles"
-    },
-    {
-     "id": "id1200306175658376",
-     "sportId": "12",
-     "p1": "Stoiana, Mary",
-     "p2": "Siniakova, Katerina",
-     "start": "2026-10-23T04:50:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Osaka, Japan Women Singles"
-    },
-    {
-     "id": "id1204006575656888",
-     "sportId": "12",
-     "p1": "Bejlek, Sara",
-     "p2": "Bouzkova, Marie",
-     "start": "2026-10-23T05:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Ningbo, China Women Singles"
-    },
-    {
-     "id": "id1200306175658360",
-     "sportId": "12",
-     "p1": "Boulter, Katie",
-     "p2": "Ruzic, Antonia",
-     "start": "2026-10-23T06:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Osaka, Japan Women Singles"
-    },
-    {
-     "id": "id1204006575656886",
-     "sportId": "12",
-     "p1": "Fernandez, Leylah",
-     "p2": "Alexandrova, Ekaterina",
-     "start": "2026-10-23T06:10:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Ningbo, China Women Singles"
-    },
-    {
-     "id": "id1204195975620036",
-     "sportId": "12",
-     "p1": "Basilashvili, Nikoloz",
-     "p2": "Mannarino, Adrian",
-     "start": "2026-10-23T06:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Almaty, Kazakhstan Men Singles"
-    },
-    {
-     "id": "id1204006575656884",
-     "sportId": "12",
-     "p1": "Jovic, Iva",
-     "p2": "Shnaider, Diana",
-     "start": "2026-10-23T08:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Ningbo, China Women Singles"
-    },
-    {
-     "id": "id1204195975620038",
-     "sportId": "12",
-     "p1": "Tsitsipas, Stefanos",
-     "p2": "Duckworth, James",
-     "start": "2026-10-23T08:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Almaty, Kazakhstan Men Singles"
-    },
-    {
-     "id": "id1204195975620048",
-     "sportId": "12",
-     "p1": "Medvedev, Daniil",
-     "p2": "Atmane, Terence",
-     "start": "2026-10-23T09:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Almaty, Kazakhstan Men Singles"
-    },
-    {
-     "id": "id1204006575656898",
-     "sportId": "12",
-     "p1": "Rybakina, Elena",
-     "p2": "Kawa, Katarzyna",
-     "start": "2026-10-23T11:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Ningbo, China Women Singles"
-    },
-    {
-     "id": "id1204593575621158",
-     "sportId": "12",
-     "p1": "Chidekh, Clement",
-     "p2": "Cerundolo, Francisco",
-     "start": "2026-10-23T12:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Brussels, Belgium Singles"
-    },
     {
      "id": "id1200309775620256",
      "sportId": "12",
      "p1": "Altmaier, Daniel",
      "p2": "Fritz, Taylor",
-     "start": "2026-10-23T13:10:00.000Z",
+     "start": "2026-10-23T13:25:00.000Z",
      "sport": "Tennis",
      "league": "ATP Lyon, France Men Singles"
     },
@@ -4813,7 +4741,7 @@
      "sportId": "12",
      "p1": "Struff, Jan-Lennard",
      "p2": "Bergs, Zizou",
-     "start": "2026-10-23T17:40:00.000Z",
+     "start": "2026-10-23T18:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Brussels, Belgium Singles"
     },
@@ -4822,45 +4750,81 @@
      "sportId": "12",
      "p1": "Van Assche, Luca",
      "p2": "Musetti, Lorenzo",
-     "start": "2026-10-23T18:10:00.000Z",
+     "start": "2026-10-23T18:20:00.000Z",
      "sport": "Tennis",
      "league": "ATP Lyon, France Men Singles"
     },
     {
-     "id": "id1205335275655986",
+     "id": "id1200306175658378",
      "sportId": "12",
-     "p1": "Jong, Sander",
-     "p2": "Mayo, Aidan",
-     "start": "2026-10-23T18:20:00.000Z",
+     "p1": "Li, Ann",
+     "p2": "Krueger, Ashlyn",
+     "start": "2026-10-24T03:00:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Challenger Fort Worth, USA Men Singles"
+     "league": "WTA Osaka, Japan Women Singles"
     },
     {
-     "id": "id1205335475656558",
+     "id": "id1204006575656912",
      "sportId": "12",
-     "p1": "Debru G / Marcondes I",
-     "p2": "WQF4",
-     "start": "2026-10-23T18:40:00.000Z",
+     "p1": "Fernandez, Leylah",
+     "p2": "Bouzkova, Marie",
+     "start": "2026-10-24T06:10:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Challenger Fort Worth, USA Men Doubles"
+     "league": "WTA Ningbo, China Women Singles"
     },
     {
-     "id": "id1205383875618716",
+     "id": "id1202613875655556",
      "sportId": "12",
-     "p1": "Cirstea, Sorana (Srl)",
-     "p2": "Fernandez, Leylah (Srl)",
-     "start": "2026-10-23T21:00:00.000Z",
+     "p1": "Kopp, Sandro",
+     "p2": "Romano, Filippo",
+     "start": "2026-10-24T08:00:00.000Z",
      "sport": "Tennis",
-     "league": "SRL Fall Invitational Kansas City, KS, Women"
+     "league": "ATP Challenger Florence, Italy Men Singles"
     },
     {
-     "id": "id1205384075618936",
+     "id": "id1204006575656890",
      "sportId": "12",
-     "p1": "Swiatek, Iga (Srl)",
-     "p2": "Paolini, Jasmine (Srl)",
-     "start": "2026-10-23T21:00:00.000Z",
+     "p1": "WQF1",
+     "p2": "Shnaider, Diana",
+     "start": "2026-10-24T09:30:00.000Z",
      "sport": "Tennis",
-     "league": "SRL Fall Invitational Topeka, KS, Women"
+     "league": "WTA Ningbo, China Women Singles"
+    },
+    {
+     "id": "id1201505575653628",
+     "sportId": "12",
+     "p1": "WSF1",
+     "p2": "Pereira T / Winter Lopez B",
+     "start": "2026-10-24T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Challenger Lisbon, Portugal Men Doubles"
+    },
+    {
+     "id": "id1204195975620028",
+     "sportId": "12",
+     "p1": "Basilashvili, Nikoloz",
+     "p2": "Tsitsipas, Stefanos",
+     "start": "2026-10-24T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Almaty, Kazakhstan Men Singles"
+    },
+    {
+     "id": "id1204195975620040",
+     "sportId": "12",
+     "p1": "Medvedev, Daniil",
+     "p2": "WQF2",
+     "start": "2026-10-24T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Almaty, Kazakhstan Men Singles"
+    },
+    {
+     "id": "id1200309975620926",
+     "sportId": "12",
+     "p1": "Cash J / Glasspool L",
+     "p2": "WSF2",
+     "start": "2026-10-25T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Lyon, France Men Doubles"
     }
    ]
   },
@@ -5973,9 +5937,11 @@
   "id1100022773451806|winamax.fr|113|115": "2026-10-22T18:01:28.423762+00:00",
   "id1103632172319168|winamax.fr|113|113": "2026-10-23T01:01:23.021592+00:00",
   "id2304410172636372|winamax.fr|231|231": "2026-10-23T06:01:23.326844+00:00",
-  "id1100185473496286|winamax.fr|113|115": "2026-10-23T09:01:32.474655+00:00"
+  "id1100185473496286|winamax.fr|113|115": "2026-10-23T09:01:32.474655+00:00",
+  "id1100118973062788|winamax.fr|113|115": "2026-10-23T13:01:30.242512+00:00",
+  "id1100013273719362|winamax.fr|113|115": "2026-10-23T13:01:30.242512+00:00"
  },
  "billable": {
-  "2026-10": 114
+  "2026-10": 116
  }
 }
