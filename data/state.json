@@ -3919,269 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-10-23T13:01:30.242512+00:00",
+   "fetched": "2026-10-24T02:01:27.213530+00:00",
    "items": [
-    {
-     "id": "id1100023574132000",
-     "sportId": "11",
-     "p1": "FC Universitatea Cluj",
-     "p2": "KK Studentski centar Podgorica",
-     "start": "2026-10-23T15:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ABA"
-    },
-    {
-     "id": "id1100051973495490",
-     "sportId": "11",
-     "p1": "Cayirova Belediyesi",
-     "p2": "Bursaspor",
-     "start": "2026-10-23T16:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Super Lig"
-    },
-    {
-     "id": "id1100013873263072",
-     "sportId": "11",
-     "p1": "BC Zalgiris Kaunas",
-     "p2": "ASVEL Lyon-Villeurbanne",
-     "start": "2026-10-23T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Euroleague"
-    },
-    {
-     "id": "id1100023574131738",
-     "sportId": "11",
-     "p1": "KK Borac Cacak",
-     "p2": "KK FMP Belgrade",
-     "start": "2026-10-23T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ABA"
-    },
-    {
-     "id": "id1100015674295688",
-     "sportId": "11",
-     "p1": "Saint Quentin",
-     "p2": "JDA Dijon Basket",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite"
-    },
-    {
-     "id": "id1100022773451806",
-     "sportId": "11",
-     "p1": "Baskets Oldenburg",
-     "p2": "Bamberg Baskets",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "BBL"
-    },
-    {
-     "id": "id1100118973062786",
-     "sportId": "11",
-     "p1": "Caen Basket Calvados",
-     "p2": "Poitiers Basket 86",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062788",
-     "sportId": "11",
-     "p1": "Stade Rochelais Basket",
-     "p2": "ALM Evreux Basket",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062790",
-     "sportId": "11",
-     "p1": "Aix Maurienne Savoie Basket",
-     "p2": "Rouen Metropole Basket",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062796",
-     "sportId": "11",
-     "p1": "Hermine Nantes Basket",
-     "p2": "Alliance Sport Alsace",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100185473496286",
-     "sportId": "11",
-     "p1": "Asvel Feminin",
-     "p2": "ESB Villeneuve d´Ascq",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LFB, Women"
-    },
-    {
-     "id": "id1103632172319166",
-     "sportId": "11",
-     "p1": "Kortrijk Spurs ",
-     "p2": "Limburg United",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "BNXT League"
-    },
-    {
-     "id": "id1100013873263074",
-     "sportId": "11",
-     "p1": "BC Olympiakos Piraeus",
-     "p2": "Fenerbahce Istanbul",
-     "start": "2026-10-23T18:15:00.000Z",
-     "sport": "Basketball",
-     "league": "Euroleague"
-    },
-    {
-     "id": "id1100023574131744",
-     "sportId": "11",
-     "p1": "KK Cibona",
-     "p2": "KK Krka Novo Mesto",
-     "start": "2026-10-23T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ABA"
-    },
-    {
-     "id": "id1100118973062794",
-     "sportId": "11",
-     "p1": "Levallois Basketball",
-     "p2": "Orleans Loiret Basket",
-     "start": "2026-10-23T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062800",
-     "sportId": "11",
-     "p1": "Saint-Chamond",
-     "p2": "Champagne Basketball",
-     "start": "2026-10-23T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118974345680",
-     "sportId": "11",
-     "p1": "JA Vichy-Clermont",
-     "p2": "Hyeres Toulon",
-     "start": "2026-10-23T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1103632172319168",
-     "sportId": "11",
-     "p1": "Spirou Charleroi",
-     "p2": "BC Oostende",
-     "start": "2026-10-23T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "BNXT League"
-    },
-    {
-     "id": "id1103632172319170",
-     "sportId": "11",
-     "p1": "Cb Liege",
-     "p2": "Heroes Den Bosch",
-     "start": "2026-10-23T18:30:00.000Z",
-     "sport": "Basketball",
-     "league": "BNXT League"
-    },
-    {
-     "id": "id1100013873263076",
-     "sportId": "11",
-     "p1": "Paris Basketball",
-     "p2": "Valencia Basket",
-     "start": "2026-10-23T18:45:00.000Z",
-     "sport": "Basketball",
-     "league": "Euroleague"
-    },
-    {
-     "id": "id1100013273719360",
-     "sportId": "11",
-     "p1": "Milwaukee Bucks",
-     "p2": "Chicago Bulls",
-     "start": "2026-10-23T20:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273682596",
-     "sportId": "11",
-     "p1": "Boston Celtics",
-     "p2": "New York Knicks",
-     "start": "2026-10-23T23:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719350",
-     "sportId": "11",
-     "p1": "Charlotte Hornets",
-     "p2": "Atlanta Hawks",
-     "start": "2026-10-23T23:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719352",
-     "sportId": "11",
-     "p1": "Indiana Pacers",
-     "p2": "Dallas Mavericks",
-     "start": "2026-10-23T23:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719354",
-     "sportId": "11",
-     "p1": "Orlando Magic",
-     "p2": "Minnesota Timberwolves",
-     "start": "2026-10-23T23:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719356",
-     "sportId": "11",
-     "p1": "Washington Wizards",
-     "p2": "Toronto Raptors",
-     "start": "2026-10-23T23:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719358",
-     "sportId": "11",
-     "p1": "Miami Heat",
-     "p2": "Detroit Pistons",
-     "start": "2026-10-24T00:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273682598",
-     "sportId": "11",
-     "p1": "San Antonio Spurs",
-     "p2": "Houston Rockets",
-     "start": "2026-10-24T01:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719362",
-     "sportId": "11",
-     "p1": "Utah Jazz",
-     "p2": "New Orleans Pelicans",
-     "start": "2026-10-24T01:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
     {
      "id": "id1100013273719366",
      "sportId": "11",
@@ -4219,6 +3958,15 @@
      "league": "NBL"
     },
     {
+     "id": "id1100152472016840",
+     "sportId": "11",
+     "p1": "SE Melbourne Phoenix",
+     "p2": "Adelaide 36ers",
+     "start": "2026-10-24T08:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
+    },
+    {
      "id": "id1100051973495484",
      "sportId": "11",
      "p1": "Trabzonspor Basketbol",
@@ -4241,6 +3989,15 @@
      "sportId": "11",
      "p1": "PAOK BC",
      "p2": "BC AEK Athens",
+     "start": "2026-10-24T14:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Basketball League"
+    },
+    {
+     "id": "id1100030474750444",
+     "sportId": "11",
+     "p1": "Peristeri Athens",
+     "p2": "BC Maroussi Athens",
      "start": "2026-10-24T14:30:00.000Z",
      "sport": "Basketball",
      "league": "Basketball League"
@@ -4381,6 +4138,15 @@
      "league": "Super Lig"
     },
     {
+     "id": "id1101503775214432",
+     "sportId": "11",
+     "p1": "Umana Venezia",
+     "p2": "Elizur Ramla",
+     "start": "2026-10-24T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
      "id": "id1100022773451812",
      "sportId": "11",
      "p1": "Riesen Ludwigsburg",
@@ -4415,6 +4181,15 @@
      "start": "2026-10-24T18:00:00.000Z",
      "sport": "Basketball",
      "league": "LNB Elite 2"
+    },
+    {
+     "id": "id1100185473496288",
+     "sportId": "11",
+     "p1": "SAS Toulouse Metropole",
+     "p2": "UF Angers Basket 49",
+     "start": "2026-10-24T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "LFB, Women"
     },
     {
      "id": "id1103632172319172",
@@ -4480,6 +4255,15 @@
      "league": "NBL"
     },
     {
+     "id": "id1100152472016844",
+     "sportId": "11",
+     "p1": "Melbourne United",
+     "p2": "Sydney Kings",
+     "start": "2026-10-25T06:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
+    },
+    {
      "id": "id1100026473713532",
      "sportId": "11",
      "p1": "Basquet Girona",
@@ -4516,6 +4300,24 @@
      "league": "Basketball League"
     },
     {
+     "id": "id1100151473575222",
+     "sportId": "11",
+     "p1": "Cordoba CB",
+     "p2": "CB Gran Canaria",
+     "start": "2026-10-25T11:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Primera FEB"
+    },
+    {
+     "id": "id1100151473575230",
+     "sportId": "11",
+     "p1": "Caja 87 Baloncesto",
+     "p2": "CB Granada",
+     "start": "2026-10-25T11:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Primera FEB"
+    },
+    {
      "id": "id1100026473713540",
      "sportId": "11",
      "p1": "CB 1939 Canarias",
@@ -4525,6 +4327,24 @@
      "league": "Liga ACB"
     },
     {
+     "id": "id1100051973495492",
+     "sportId": "11",
+     "p1": "Karsiyaka Basket",
+     "p2": "Fenerbahce Istanbul",
+     "start": "2026-10-25T12:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
+    },
+    {
+     "id": "id1103632172319178",
+     "sportId": "11",
+     "p1": "Rotterdam City Basketball",
+     "p2": "Union Mons-Hainaut",
+     "start": "2026-10-25T13:00:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
      "id": "id1100022773451816",
      "sportId": "11",
      "p1": "Phoenix Hagen",
@@ -4532,6 +4352,15 @@
      "start": "2026-10-25T14:00:00.000Z",
      "sport": "Basketball",
      "league": "BBL"
+    },
+    {
+     "id": "id1103632172319174",
+     "sportId": "11",
+     "p1": "Okapi Aalst",
+     "p2": "Donar Groningen",
+     "start": "2026-10-25T14:00:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
     },
     {
      "id": "id1100015674295698",
@@ -4624,6 +4453,60 @@
      "league": "Liga ACB"
     },
     {
+     "id": "id1100055673440888",
+     "sportId": "11",
+     "p1": "Panthers Roseto",
+     "p2": "Geas San Sesto Giovanni",
+     "start": "2026-10-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "A1 Women"
+    },
+    {
+     "id": "id1100055673440890",
+     "sportId": "11",
+     "p1": "Brixia Basket",
+     "p2": "ASD San Martino di Lupari",
+     "start": "2026-10-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "A1 Women"
+    },
+    {
+     "id": "id1100055673440892",
+     "sportId": "11",
+     "p1": "Magnolia Basket",
+     "p2": "Derthona Basket",
+     "start": "2026-10-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "A1 Women"
+    },
+    {
+     "id": "id1100151473575224",
+     "sportId": "11",
+     "p1": "Baloncesto Fuenlabrada",
+     "p2": "Menorca Basquet",
+     "start": "2026-10-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Primera FEB"
+    },
+    {
+     "id": "id1100151473575226",
+     "sportId": "11",
+     "p1": "Albacete Basket",
+     "p2": "CD Estela",
+     "start": "2026-10-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Primera FEB"
+    },
+    {
+     "id": "id1100151473575234",
+     "sportId": "11",
+     "p1": "CB Bahia San Agustin",
+     "p2": "CB Estudiantes",
+     "start": "2026-10-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Primera FEB"
+    },
+    {
      "id": "id1100152073432702",
      "sportId": "11",
      "p1": "Juvi Cremona 1952",
@@ -4685,75 +4568,21 @@
      "start": "2026-10-25T19:45:00.000Z",
      "sport": "Basketball",
      "league": "Serie A2"
+    },
+    {
+     "id": "id1100022773451822",
+     "sportId": "11",
+     "p1": "Wurzburg Baskets",
+     "p2": "Niners Chemnitz",
+     "start": "2026-10-26T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "BBL"
     }
    ]
   },
   "12": {
-   "fetched": "2026-10-23T13:01:30.242512+00:00",
+   "fetched": "2026-10-24T02:01:27.213530+00:00",
    "items": [
-    {
-     "id": "id1200309775620256",
-     "sportId": "12",
-     "p1": "Altmaier, Daniel",
-     "p2": "Fritz, Taylor",
-     "start": "2026-10-23T13:25:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Lyon, France Men Singles"
-    },
-    {
-     "id": "id1204593575621144",
-     "sportId": "12",
-     "p1": "Griekspoor, Tallon",
-     "p2": "Lehecka, Jiri",
-     "start": "2026-10-23T14:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Brussels, Belgium Singles"
-    },
-    {
-     "id": "id1204195975620034",
-     "sportId": "12",
-     "p1": "Bublik, Alexander",
-     "p2": "Khachanov, Karen",
-     "start": "2026-10-23T14:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Almaty, Kazakhstan Men Singles"
-    },
-    {
-     "id": "id1204593575621154",
-     "sportId": "12",
-     "p1": "Fils, Arthur",
-     "p2": "Michelsen, Alex",
-     "start": "2026-10-23T16:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Brussels, Belgium Singles"
-    },
-    {
-     "id": "id1200309775620266",
-     "sportId": "12",
-     "p1": "Cobolli, Flavio",
-     "p2": "Nakashima, Brandon",
-     "start": "2026-10-23T17:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Lyon, France Men Singles"
-    },
-    {
-     "id": "id1204593575621156",
-     "sportId": "12",
-     "p1": "Struff, Jan-Lennard",
-     "p2": "Bergs, Zizou",
-     "start": "2026-10-23T18:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Brussels, Belgium Singles"
-    },
-    {
-     "id": "id1200309775620250",
-     "sportId": "12",
-     "p1": "Van Assche, Luca",
-     "p2": "Musetti, Lorenzo",
-     "start": "2026-10-23T18:20:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Lyon, France Men Singles"
-    },
     {
      "id": "id1200306175658378",
      "sportId": "12",
@@ -4764,67 +4593,58 @@
      "league": "WTA Osaka, Japan Women Singles"
     },
     {
+     "id": "id1200306375659096",
+     "sportId": "12",
+     "p1": "Hunter S / Tjen J",
+     "p2": "Maleckova J / Skoch M",
+     "start": "2026-10-24T05:40:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Osaka, Japan Women Doubles"
+    },
+    {
      "id": "id1204006575656912",
      "sportId": "12",
      "p1": "Fernandez, Leylah",
      "p2": "Bouzkova, Marie",
-     "start": "2026-10-24T06:10:00.000Z",
+     "start": "2026-10-24T07:00:00.000Z",
      "sport": "Tennis",
      "league": "WTA Ningbo, China Women Singles"
     },
     {
-     "id": "id1202613875655556",
-     "sportId": "12",
-     "p1": "Kopp, Sandro",
-     "p2": "Romano, Filippo",
-     "start": "2026-10-24T08:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Florence, Italy Men Singles"
-    },
-    {
      "id": "id1204006575656890",
      "sportId": "12",
-     "p1": "WQF1",
+     "p1": "Rybakina, Elena",
      "p2": "Shnaider, Diana",
      "start": "2026-10-24T09:30:00.000Z",
      "sport": "Tennis",
      "league": "WTA Ningbo, China Women Singles"
     },
     {
-     "id": "id1201505575653628",
-     "sportId": "12",
-     "p1": "WSF1",
-     "p2": "Pereira T / Winter Lopez B",
-     "start": "2026-10-24T10:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Lisbon, Portugal Men Doubles"
-    },
-    {
-     "id": "id1204195975620028",
-     "sportId": "12",
-     "p1": "Basilashvili, Nikoloz",
-     "p2": "Tsitsipas, Stefanos",
-     "start": "2026-10-24T10:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Almaty, Kazakhstan Men Singles"
-    },
-    {
      "id": "id1204195975620040",
      "sportId": "12",
      "p1": "Medvedev, Daniil",
-     "p2": "WQF2",
-     "start": "2026-10-24T10:00:00.000Z",
+     "p2": "Bublik, Alexander",
+     "start": "2026-10-24T13:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Almaty, Kazakhstan Men Singles"
     },
     {
-     "id": "id1200309975620926",
+     "id": "id1200309775620258",
      "sportId": "12",
-     "p1": "Cash J / Glasspool L",
-     "p2": "WSF2",
-     "start": "2026-10-25T10:00:00.000Z",
+     "p1": "Cobolli, Flavio",
+     "p2": "Musetti, Lorenzo",
+     "start": "2026-10-24T14:00:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Lyon, France Men Doubles"
+     "league": "ATP Lyon, France Men Singles"
+    },
+    {
+     "id": "id1204593575621148",
+     "sportId": "12",
+     "p1": "Cerundolo, Francisco",
+     "p2": "Griekspoor, Tallon",
+     "start": "2026-10-24T14:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Brussels, Belgium Singles"
     }
    ]
   },
@@ -6067,9 +5887,10 @@
   "id1100013273719362|winamax.fr|113|115": "2026-10-23T13:01:30.242512+00:00",
   "id2300083172764898|winamax.fr|231|232": "2026-10-23T15:01:36.163707+00:00",
   "id1100013273719358|winamax.fr|113|115": "2026-10-23T15:01:36.163707+00:00",
-  "id1100118973062786|winamax.fr|113|115": "2026-10-23T17:01:31.707965+00:00"
+  "id1100118973062786|winamax.fr|113|115": "2026-10-23T17:01:31.707965+00:00",
+  "id2300083373951210|winamax.fr|231|232": "2026-10-24T02:01:27.213530+00:00"
  },
  "billable": {
-  "2026-10": 117
+  "2026-10": 119
  }
 }
