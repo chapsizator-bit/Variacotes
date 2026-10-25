@@ -5703,295 +5703,52 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-24T19:01:29.962712+00:00",
+   "fetched": "2026-10-25T08:01:28.518980+00:00",
    "items": [
     {
-     "id": "id2301447874781850",
+     "id": "id2300096975169260",
      "sportId": "23",
-     "p1": "Santa Cruz Cuesta Piedra",
-     "p2": "CV Gran Canaria",
-     "start": "2026-10-24T16:00:00.000Z",
+     "p1": "Besiktas Istanbul",
+     "p2": "Goztepe",
+     "start": "2026-10-25T10:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Superliga, Women"
+     "league": "Sultanlar Ligi, Women"
     },
     {
-     "id": "id2301447874781852",
+     "id": "id2300096975169264",
      "sportId": "23",
-     "p1": "CD Heidelberg",
-     "p2": "Cv Emeve",
-     "start": "2026-10-24T16:00:00.000Z",
+     "p1": "Vakifbank SK",
+     "p2": "Galatasaray Istanbul",
+     "start": "2026-10-25T11:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Superliga, Women"
+     "league": "Sultanlar Ligi, Women"
     },
     {
-     "id": "id2301447874781854",
+     "id": "id2300096975169258",
      "sportId": "23",
-     "p1": "Cv Kiele Socuellamos",
-     "p2": "Cv Sayre Mayser GC",
-     "start": "2026-10-24T16:00:00.000Z",
+     "p1": "Ilbank SK Ankara",
+     "p2": "Afyon Bld",
+     "start": "2026-10-25T13:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Superliga, Women"
+     "league": "Sultanlar Ligi, Women"
     },
     {
-     "id": "id2300050172524634",
+     "id": "id2300096975169266",
      "sportId": "23",
-     "p1": "Svg Luneburg",
-     "p2": "SV Warnemünde",
-     "start": "2026-10-24T17:00:00.000Z",
+     "p1": "Aras Kargo",
+     "p2": "Turk Hava Yollari",
+     "start": "2026-10-25T13:00:00.000Z",
      "sport": "Volleyball",
-     "league": "1st Bundesliga"
+     "league": "Sultanlar Ligi, Women"
     },
     {
-     "id": "id2300083373951210",
+     "id": "id2300096975169268",
      "sportId": "23",
-     "p1": "Plessis Robinson",
-     "p2": "Narbonne Volley",
-     "start": "2026-10-24T17:00:00.000Z",
+     "p1": "Manisa Buyuksehir Belediyesi",
+     "p2": "Zeren Spor",
+     "start": "2026-10-25T13:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Ligue A"
-    },
-    {
-     "id": "id2300083373951212",
-     "sportId": "23",
-     "p1": "Paris Volley",
-     "p2": "Montpellier HSC VB",
-     "start": "2026-10-24T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A"
-    },
-    {
-     "id": "id2300117573957910",
-     "sportId": "23",
-     "p1": "Evreux Vb",
-     "p2": "Volley Mulhouse Alsace",
-     "start": "2026-10-24T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300148074781438",
-     "sportId": "23",
-     "p1": "Suac Canarias",
-     "p2": "CV Manacor",
-     "start": "2026-10-24T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2302446473952320",
-     "sportId": "23",
-     "p1": "Cambrai Volley",
-     "p2": "Nancy Volley Maxeville Jarville",
-     "start": "2026-10-24T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue B"
-    },
-    {
-     "id": "id2302446473952322",
-     "sportId": "23",
-     "p1": "Reims Volley 51",
-     "p2": "AS Illac Volley",
-     "start": "2026-10-24T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue B"
-    },
-    {
-     "id": "id2302446473952324",
-     "sportId": "23",
-     "p1": "Rennes Etudiants Club",
-     "p2": "Martigues VB",
-     "start": "2026-10-24T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue B"
-    },
-    {
-     "id": "id2300050072525026",
-     "sportId": "23",
-     "p1": "Skurios Volleys Borken",
-     "p2": "Ladies In Black Aachen",
-     "start": "2026-10-24T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050172524636",
-     "sportId": "23",
-     "p1": "TSV Giesen Grizzlys",
-     "p2": "Berlin RV",
-     "start": "2026-10-24T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1st Bundesliga"
-    },
-    {
-     "id": "id2300050172524638",
-     "sportId": "23",
-     "p1": "SWD Powervolleys Duren",
-     "p2": "Wwk Volleys Munich",
-     "start": "2026-10-24T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1st Bundesliga"
-    },
-    {
-     "id": "id2300117573957912",
-     "sportId": "23",
-     "p1": "Beziers Volley",
-     "p2": "Volero Le Cannet",
-     "start": "2026-10-24T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300117573957914",
-     "sportId": "23",
-     "p1": "Saint Die Des Vosges",
-     "p2": "Levallois Paris Saint-Cloud - Les Mariannes 92",
-     "start": "2026-10-24T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300148074781440",
-     "sportId": "23",
-     "p1": "Cdv Rio Duero Soria",
-     "p2": "Intasa San Sadurnino",
-     "start": "2026-10-24T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2302446473952326",
-     "sportId": "23",
-     "p1": "FL Saint-Quentin Volleyball",
-     "p2": "GFC Ajaccio Volley-Ball",
-     "start": "2026-10-24T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue B"
-    },
-    {
-     "id": "id2300083373951214",
-     "sportId": "23",
-     "p1": "Royan Atlantique Volleyball",
-     "p2": "Tours Volley-Ball",
-     "start": "2026-10-24T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A"
-    },
-    {
-     "id": "id2300117573957916",
-     "sportId": "23",
-     "p1": "Vandoeuvre Nancy Volley Ball",
-     "p2": "Racing Club de Cannes",
-     "start": "2026-10-24T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300117573957918",
-     "sportId": "23",
-     "p1": "Neptunes de Nantes",
-     "p2": "Terville Florange OC",
-     "start": "2026-10-24T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2302446473952328",
-     "sportId": "23",
-     "p1": "Vbc Chalon Sur Saone",
-     "p2": "France Avenir 2024",
-     "start": "2026-10-24T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue B"
-    },
-    {
-     "id": "id2303824172985648",
-     "sportId": "23",
-     "p1": "Charleroi Volley",
-     "p2": "Bevo Roeselare",
-     "start": "2026-10-24T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Dames, Women"
-    },
-    {
-     "id": "id2300117372775376",
-     "sportId": "23",
-     "p1": "MKS Sokol Mogilno",
-     "p2": "Chemik Police",
-     "start": "2026-10-24T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2300192272983714",
-     "sportId": "23",
-     "p1": "Volley Menen",
-     "p2": "Lindemans Aalst",
-     "start": "2026-10-24T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Heren"
-    },
-    {
-     "id": "id2300192272983716",
-     "sportId": "23",
-     "p1": "VC Maaseik",
-     "p2": "Tectum Achel",
-     "start": "2026-10-24T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Heren"
-    },
-    {
-     "id": "id2303824172985650",
-     "sportId": "23",
-     "p1": "Hvc Helchteren",
-     "p2": "Tchalou Volley",
-     "start": "2026-10-24T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Dames, Women"
-    },
-    {
-     "id": "id2303824172985652",
-     "sportId": "23",
-     "p1": "Volley Noorderkempen",
-     "p2": "VC Oudegem",
-     "start": "2026-10-24T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Dames, Women"
-    },
-    {
-     "id": "id2303824172985656",
-     "sportId": "23",
-     "p1": "G. H. Amigos Zoersel",
-     "p2": "Antwerp Lvt",
-     "start": "2026-10-24T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Dames, Women"
-    },
-    {
-     "id": "id2300146875360756",
-     "sportId": "23",
-     "p1": "Mackenzie EC MG",
-     "p2": "Osasco VC",
-     "start": "2026-10-24T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2300145275360604",
-     "sportId": "23",
-     "p1": "Volei Guarulhos",
-     "p2": "Unifucamp/Monete Carmelo",
-     "start": "2026-10-24T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2300146875360758",
-     "sportId": "23",
-     "p1": "Abel/Moda Brusque",
-     "p2": "Praia Clube",
-     "start": "2026-10-25T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
+     "league": "Sultanlar Ligi, Women"
     },
     {
      "id": "id2300192272983718",
@@ -6064,6 +5821,15 @@
      "start": "2026-10-25T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Ligue A"
+    },
+    {
+     "id": "id2300096975169262",
+     "sportId": "23",
+     "p1": "Fenerbahce Istanbul",
+     "p2": "Eczacibasi Istanbul",
+     "start": "2026-10-25T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Sultanlar Ligi, Women"
     },
     {
      "id": "id2300051773076792",
@@ -6172,12 +5938,47 @@
      "start": "2026-10-27T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300056773076458",
+     "sportId": "23",
+     "p1": "Polisportiva SG Marignano",
+     "p2": "Volley Bergamo",
+     "start": "2026-10-27T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300117372775244",
+     "sportId": "23",
+     "p1": "Uni Opole",
+     "p2": "KS Palac Bydgoszcz",
+     "start": "2026-10-27T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300145275360610",
+     "sportId": "23",
+     "p1": "Suzano Volei SP",
+     "p2": "Goias EC",
+     "start": "2026-10-27T21:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
+    },
+    {
+     "id": "id2300145275360612",
+     "sportId": "23",
+     "p1": "Praia Clube",
+     "p2": "Sao Jose Dos Campos",
+     "start": "2026-10-28T00:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
     }
    ]
   }
  },
  "alerted": {
-  "id2302446473952310|winamax.fr|231|232": "2026-10-20T07:41:21.887545+00:00",
   "id1200306175658372|winamax.fr|121|122": "2026-10-20T15:01:27.899670+00:00",
   "id1200309775620274|winamax.fr|121|122": "2026-10-20T22:21:37.640328+00:00",
   "id1100152073432676|winamax.fr|113|113": "2026-10-21T07:45:42.485965+00:00",
@@ -6202,6 +6003,6 @@
   "id1100152073432696|winamax.fr|113|115": "2026-10-24T20:01:32.142123+00:00"
  },
  "billable": {
-  "2026-10": 125
+  "2026-10": 126
  }
 }
