@@ -5775,71 +5775,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-25T08:01:28.518980+00:00",
+   "fetched": "2026-10-25T20:01:30.434050+00:00",
    "items": [
-    {
-     "id": "id2300096975169260",
-     "sportId": "23",
-     "p1": "Besiktas Istanbul",
-     "p2": "Goztepe",
-     "start": "2026-10-25T10:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975169264",
-     "sportId": "23",
-     "p1": "Vakifbank SK",
-     "p2": "Galatasaray Istanbul",
-     "start": "2026-10-25T11:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975169258",
-     "sportId": "23",
-     "p1": "Ilbank SK Ankara",
-     "p2": "Afyon Bld",
-     "start": "2026-10-25T13:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975169266",
-     "sportId": "23",
-     "p1": "Aras Kargo",
-     "p2": "Turk Hava Yollari",
-     "start": "2026-10-25T13:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975169268",
-     "sportId": "23",
-     "p1": "Manisa Buyuksehir Belediyesi",
-     "p2": "Zeren Spor",
-     "start": "2026-10-25T13:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300192272983718",
-     "sportId": "23",
-     "p1": "VBC Waremme",
-     "p2": "Volley Gent",
-     "start": "2026-10-25T13:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Heren"
-    },
-    {
-     "id": "id2300060374512660",
-     "sportId": "23",
-     "p1": "Nop Rethymnou",
-     "p2": "Olympiacos Piraeus",
-     "start": "2026-10-25T14:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Volley League"
-    },
     {
      "id": "id2300050072525028",
      "sportId": "23",
@@ -5848,15 +5785,6 @@
      "start": "2026-10-25T14:30:00.000Z",
      "sport": "Volleyball",
      "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300056773076456",
-     "sportId": "23",
-     "p1": "Millenium Brescia",
-     "p2": "Helvia Recina Macerata",
-     "start": "2026-10-25T15:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
     },
     {
      "id": "id2300050172524640",
@@ -5868,22 +5796,13 @@
      "league": "1st Bundesliga"
     },
     {
-     "id": "id2300051773076794",
+     "id": "id2300083373951216",
      "sportId": "23",
-     "p1": "Trentino Volley",
-     "p2": "TOP Volley Cisterna",
+     "p1": "Tourcoing Lille Metropole",
+     "p2": "Nice Volley Ball",
      "start": "2026-10-25T16:00:00.000Z",
      "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300056773076454",
-     "sportId": "23",
-     "p1": "Cuneo Granda Volley",
-     "p2": "Azzurra Volley Firenze",
-     "start": "2026-10-25T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
+     "league": "Ligue A"
     },
     {
      "id": "id2300083373951218",
@@ -5895,78 +5814,6 @@
      "league": "Ligue A"
     },
     {
-     "id": "id2300096975169262",
-     "sportId": "23",
-     "p1": "Fenerbahce Istanbul",
-     "p2": "Eczacibasi Istanbul",
-     "start": "2026-10-25T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300051773076792",
-     "sportId": "23",
-     "p1": "Perugia Volley",
-     "p2": "Tinet Prata Di Pordenone",
-     "start": "2026-10-25T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300051773076796",
-     "sportId": "23",
-     "p1": "Gas Sales Piacenza",
-     "p2": "Modena Volley",
-     "start": "2026-10-25T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300051773076798",
-     "sportId": "23",
-     "p1": "Volley Civitanova",
-     "p2": "Pallavolo Padova",
-     "start": "2026-10-25T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300051774019318",
-     "sportId": "23",
-     "p1": "VV Monza",
-     "p2": "Volley Verona",
-     "start": "2026-10-25T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300083172764900",
-     "sportId": "23",
-     "p1": "KS Arka Tempo Chelm",
-     "p2": "Resovia Rzeszow",
-     "start": "2026-10-25T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki"
-    },
-    {
-     "id": "id2300192272983720",
-     "sportId": "23",
-     "p1": "VC Haasrode Leuven",
-     "p2": "VBC Guibertin",
-     "start": "2026-10-25T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Heren"
-    },
-    {
-     "id": "id2300051773076800",
-     "sportId": "23",
-     "p1": "Power Volley Milano",
-     "p2": "Cuneo Volley",
-     "start": "2026-10-25T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
      "id": "id2300192272983722",
      "sportId": "23",
      "p1": "Volley Antwerpen",
@@ -5974,15 +5821,6 @@
      "start": "2026-10-25T18:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Heren"
-    },
-    {
-     "id": "id2300117372775242",
-     "sportId": "23",
-     "p1": "MKS Kalisz",
-     "p2": "Volley Wroclaw",
-     "start": "2026-10-25T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
     },
     {
      "id": "id2300146875360760",
@@ -6019,15 +5857,6 @@
      "start": "2026-10-27T19:00:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300117372775244",
-     "sportId": "23",
-     "p1": "Uni Opole",
-     "p2": "KS Palac Bydgoszcz",
-     "start": "2026-10-27T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
     },
     {
      "id": "id2300145275360610",
@@ -6075,6 +5904,6 @@
   "id1100013273719398|winamax.fr|113|115": "2026-10-25T15:01:27.139857+00:00"
  },
  "billable": {
-  "2026-10": 128
+  "2026-10": 129
  }
 }
