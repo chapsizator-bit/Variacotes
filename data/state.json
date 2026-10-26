@@ -5487,57 +5487,21 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-25T20:01:30.434050+00:00",
+   "fetched": "2026-10-26T08:01:37.113856+00:00",
    "items": [
     {
-     "id": "id2300050072525028",
+     "id": "id2300117372775238",
      "sportId": "23",
-     "p1": "Etv Hamburg",
-     "p2": "Usc Munster",
-     "start": "2026-10-25T14:30:00.000Z",
+     "p1": "Bks Bielsko-Biala",
+     "p2": "LKS Lodz",
+     "start": "2026-10-26T16:30:00.000Z",
      "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050172524640",
-     "sportId": "23",
-     "p1": "Barock Volleys MTV Ludwigsburg",
-     "p2": "TV Rottenburg",
-     "start": "2026-10-25T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1st Bundesliga"
-    },
-    {
-     "id": "id2300083373951216",
-     "sportId": "23",
-     "p1": "Tourcoing Lille Metropole",
-     "p2": "Nice Volley Ball",
-     "start": "2026-10-25T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A"
-    },
-    {
-     "id": "id2300083373951218",
-     "sportId": "23",
-     "p1": "Stade Poitevin Poitiers",
-     "p2": "St. Nazaire VB",
-     "start": "2026-10-25T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A"
-    },
-    {
-     "id": "id2300192272983722",
-     "sportId": "23",
-     "p1": "Volley Antwerpen",
-     "p2": "Volley Roeselare",
-     "start": "2026-10-25T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Heren"
+     "league": "Liga Siatkowki, Women"
     },
     {
      "id": "id2300146875360760",
      "sportId": "23",
-     "p1": "Unilife Maringa",
+     "p1": "Sancor Seguros Volei Londrina",
      "p2": "Sesi Volei Bauru",
      "start": "2026-10-26T21:30:00.000Z",
      "sport": "Volleyball",
@@ -5587,12 +5551,47 @@
      "start": "2026-10-28T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300117372775248",
+     "sportId": "23",
+     "p1": "Stal Mielec",
+     "p2": "KS Rzeszow",
+     "start": "2026-10-28T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300056773076460",
+     "sportId": "23",
+     "p1": "Volley Conegliano",
+     "p2": "Volley Vallefoglia",
+     "start": "2026-10-28T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076462",
+     "sportId": "23",
+     "p1": "Pallavolo Scandicci",
+     "p2": "Agil Volley Novara",
+     "start": "2026-10-28T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300145275360614",
+     "sportId": "23",
+     "p1": "Minas",
+     "p2": "Sesi Bauru",
+     "start": "2026-10-29T00:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
     }
    ]
   }
  },
  "alerted": {
-  "id1100152073432676|winamax.fr|113|113": "2026-10-21T07:45:42.485965+00:00",
   "id1100238875108304|winamax.fr|113|115": "2026-10-21T13:01:34.496911+00:00",
   "id1100014172902280|winamax.fr|113|113": "2026-10-21T16:01:26.337348+00:00",
   "id1100013873263068|winamax.fr|113|113": "2026-10-21T18:01:30.713940+00:00",
@@ -5618,6 +5617,6 @@
   "id1200301376024444|winamax.fr|121|122": "2026-10-26T03:01:32.361086+00:00"
  },
  "billable": {
-  "2026-10": 131
+  "2026-10": 132
  }
 }
