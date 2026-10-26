@@ -5523,17 +5523,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-26T08:01:37.113856+00:00",
+   "fetched": "2026-10-26T20:33:58.688841+00:00",
    "items": [
-    {
-     "id": "id2300117372775238",
-     "sportId": "23",
-     "p1": "Bks Bielsko-Biala",
-     "p2": "LKS Lodz",
-     "start": "2026-10-26T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
     {
      "id": "id2300146875360760",
      "sportId": "23",
@@ -5560,6 +5551,105 @@
      "start": "2026-10-27T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300096775169192",
+     "sportId": "23",
+     "p1": "Istanbul Genclik Spor",
+     "p2": "Ibb Spor",
+     "start": "2026-10-27T11:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300096775169196",
+     "sportId": "23",
+     "p1": "TFL Altekma",
+     "p2": "Halkbank Ankara",
+     "start": "2026-10-27T12:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300096775169190",
+     "sportId": "23",
+     "p1": "Sultanbeyli Bld",
+     "p2": "Gebze Genclik",
+     "start": "2026-10-27T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300096775169188",
+     "sportId": "23",
+     "p1": "Corum Sungurlu Bld",
+     "p2": "Galatasaray SK",
+     "start": "2026-10-27T13:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300096775169186",
+     "sportId": "23",
+     "p1": "Ziraat Bankasi Ankara",
+     "p2": "Gaziantep Genclik Spor",
+     "start": "2026-10-27T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300096775169194",
+     "sportId": "23",
+     "p1": "Fenerbahce SK Istanbul",
+     "p2": "Alanya Belediye",
+     "start": "2026-10-27T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300096775169198",
+     "sportId": "23",
+     "p1": "Onikisubat Bld",
+     "p2": "Spor Toto SK Ankara",
+     "start": "2026-10-27T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300083172764938",
+     "sportId": "23",
+     "p1": "Skra Belchatow",
+     "p2": "GKS Katowice",
+     "start": "2026-10-27T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300050072525030",
+     "sportId": "23",
+     "p1": "Skurios Volleys Borken",
+     "p2": "Rote Raben Vilsbiburg",
+     "start": "2026-10-27T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300050172524642",
+     "sportId": "23",
+     "p1": "SV Warnemünde",
+     "p2": "VfB Friedrichshafen",
+     "start": "2026-10-27T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300050172524644",
+     "sportId": "23",
+     "p1": "SSC Karlsruhe",
+     "p2": "SWD Powervolleys Duren",
+     "start": "2026-10-27T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
     },
     {
      "id": "id2300056773076458",
@@ -5589,6 +5679,15 @@
      "league": "Superliga"
     },
     {
+     "id": "id2300117372775246",
+     "sportId": "23",
+     "p1": "Budowlani Lodz",
+     "p2": "Radomka Radom",
+     "start": "2026-10-28T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
      "id": "id2300117372775248",
      "sportId": "23",
      "p1": "Stal Mielec",
@@ -5596,6 +5695,15 @@
      "start": "2026-10-28T18:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300050172524650",
+     "sportId": "23",
+     "p1": "Netzhoppers Konigs Wusterhausen",
+     "p2": "Svg Luneburg",
+     "start": "2026-10-28T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
     },
     {
      "id": "id2300056773076460",
@@ -5614,6 +5722,15 @@
      "start": "2026-10-28T19:30:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300083172765032",
+     "sportId": "23",
+     "p1": "Projekt Warsaw",
+     "p2": "Warta Zawiercie",
+     "start": "2026-10-28T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
     },
     {
      "id": "id2300145275360614",
@@ -5653,6 +5770,6 @@
   "id1100014172902454|winamax.fr|113|115": "2026-10-26T19:01:34.678493+00:00"
  },
  "billable": {
-  "2026-10": 134
+  "2026-10": 135
  }
 }
