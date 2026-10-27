@@ -5433,35 +5433,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-26T20:33:58.688841+00:00",
+   "fetched": "2026-10-27T09:01:35.604306+00:00",
    "items": [
-    {
-     "id": "id2300146875360760",
-     "sportId": "23",
-     "p1": "Sancor Seguros Volei Londrina",
-     "p2": "Sesi Volei Bauru",
-     "start": "2026-10-26T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2300145275360606",
-     "sportId": "23",
-     "p1": "Montes Claros",
-     "p2": "Sada Cruzeiro",
-     "start": "2026-10-26T22:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2300145275360608",
-     "sportId": "23",
-     "p1": "Norde Volei",
-     "p2": "Volei Renata",
-     "start": "2026-10-27T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
     {
      "id": "id2300096775169192",
      "sportId": "23",
@@ -5571,6 +5544,15 @@
      "league": "Serie A1 Women"
     },
     {
+     "id": "id2300117372775244",
+     "sportId": "23",
+     "p1": "Uni Opole",
+     "p2": "KS Palac Bydgoszcz",
+     "start": "2026-10-27T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
      "id": "id2300145275360610",
      "sportId": "23",
      "p1": "Suzano Volei SP",
@@ -5589,13 +5571,13 @@
      "league": "Superliga"
     },
     {
-     "id": "id2300117372775246",
+     "id": "id2300050172524646",
      "sportId": "23",
-     "p1": "Budowlani Lodz",
-     "p2": "Radomka Radom",
-     "start": "2026-10-28T16:30:00.000Z",
+     "p1": "Berlin RV",
+     "p2": "VC Bitterfeld-Wolfen",
+     "start": "2026-10-28T18:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
+     "league": "1st Bundesliga"
     },
     {
      "id": "id2300117372775248",
@@ -5605,6 +5587,15 @@
      "start": "2026-10-28T18:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300117573957882",
+     "sportId": "23",
+     "p1": "Volero Le Cannet",
+     "p2": "VBC Chamalieres",
+     "start": "2026-10-28T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
     },
     {
      "id": "id2300050172524650",
@@ -5679,6 +5670,6 @@
   "id1100014172902454|winamax.fr|113|115": "2026-10-26T19:01:34.678493+00:00"
  },
  "billable": {
-  "2026-10": 137
+  "2026-10": 138
  }
 }
