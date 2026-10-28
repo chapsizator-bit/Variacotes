@@ -5496,115 +5496,16 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-28T10:01:29.176773+00:00",
+   "fetched": "2026-10-28T23:01:27.931514+00:00",
    "items": [
-    {
-     "id": "id2300050072525032",
-     "sportId": "23",
-     "p1": "VfB Suhl Thuringia",
-     "p2": "SSC Schwerin",
-     "start": "2026-10-28T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050072525034",
-     "sportId": "23",
-     "p1": "Schwarz-Weiss Erfurt",
-     "p2": "Dresdner SC",
-     "start": "2026-10-28T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050172524646",
-     "sportId": "23",
-     "p1": "Berlin RV",
-     "p2": "VC Bitterfeld-Wolfen",
-     "start": "2026-10-28T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1st Bundesliga"
-    },
-    {
-     "id": "id2300117372775248",
-     "sportId": "23",
-     "p1": "Stal Mielec",
-     "p2": "KS Rzeszow",
-     "start": "2026-10-28T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2300117573957882",
-     "sportId": "23",
-     "p1": "Volero Le Cannet",
-     "p2": "VBC Chamalieres",
-     "start": "2026-10-28T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
     {
      "id": "id2300050072525036",
      "sportId": "23",
-     "p1": "Alemannia Aachen",
+     "p1": "Ladies In Black Aachen",
      "p2": "Binder Blaubaren TSV Flacht",
      "start": "2026-10-28T18:30:00.000Z",
      "sport": "Volleyball",
      "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050172524650",
-     "sportId": "23",
-     "p1": "Netzhoppers Konigs Wusterhausen",
-     "p2": "Svg Luneburg",
-     "start": "2026-10-28T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1st Bundesliga"
-    },
-    {
-     "id": "id2300050072525040",
-     "sportId": "23",
-     "p1": "Usc Munster",
-     "p2": "MTV Stuttgart",
-     "start": "2026-10-28T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300056773076460",
-     "sportId": "23",
-     "p1": "Volley Conegliano",
-     "p2": "Volley Vallefoglia",
-     "start": "2026-10-28T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300051773076900",
-     "sportId": "23",
-     "p1": "Perugia Volley",
-     "p2": "Pallavolo Padova",
-     "start": "2026-10-28T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300056773076462",
-     "sportId": "23",
-     "p1": "Pallavolo Scandicci",
-     "p2": "Agil Volley Novara",
-     "start": "2026-10-28T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300083172765032",
-     "sportId": "23",
-     "p1": "Projekt Warsaw",
-     "p2": "Warta Zawiercie",
-     "start": "2026-10-28T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki"
     },
     {
      "id": "id2300145275360614",
@@ -5614,6 +5515,51 @@
      "start": "2026-10-29T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300058672919694",
+     "sportId": "23",
+     "p1": "HAOK Mladost",
+     "p2": "Pafiakos Pafos",
+     "start": "2026-10-29T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Champions League"
+    },
+    {
+     "id": "id2300050172524652",
+     "sportId": "23",
+     "p1": "VCO Berlin",
+     "p2": "Svg Luneburg",
+     "start": "2026-10-29T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300058772919284",
+     "sportId": "23",
+     "p1": "OTP Banka Branik",
+     "p2": "Asterix AVO Beveren",
+     "start": "2026-10-29T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Champions League, Women"
+    },
+    {
+     "id": "id2300083373951230",
+     "sportId": "23",
+     "p1": "Narbonne Volley",
+     "p2": "Stade Poitevin Poitiers",
+     "start": "2026-10-29T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2300050172524656",
+     "sportId": "23",
+     "p1": "Barock Volleys MTV Ludwigsburg",
+     "p2": "SSC Karlsruhe",
+     "start": "2026-10-30T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
     }
    ]
   }
@@ -5638,6 +5584,6 @@
   "id1100013273719450|winamax.fr|113|113": "2026-10-28T21:01:29.552275+00:00"
  },
  "billable": {
-  "2026-10": 146
+  "2026-10": 147
  }
 }
