@@ -5559,23 +5559,23 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-27T22:01:28.825460+00:00",
+   "fetched": "2026-10-28T10:01:29.176773+00:00",
    "items": [
-    {
-     "id": "id2300145275360612",
-     "sportId": "23",
-     "p1": "Praia Clube",
-     "p2": "Sao Jose Dos Campos",
-     "start": "2026-10-28T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
     {
      "id": "id2300050072525032",
      "sportId": "23",
      "p1": "VfB Suhl Thuringia",
      "p2": "SSC Schwerin",
      "start": "2026-10-28T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
+    },
+    {
+     "id": "id2300050072525034",
+     "sportId": "23",
+     "p1": "Schwarz-Weiss Erfurt",
+     "p2": "Dresdner SC",
+     "start": "2026-10-28T18:00:00.000Z",
      "sport": "Volleyball",
      "league": "1. Bundesliga, Women"
     },
@@ -5616,15 +5616,6 @@
      "league": "1. Bundesliga, Women"
     },
     {
-     "id": "id2300050072525038",
-     "sportId": "23",
-     "p1": "VC Wiesbaden",
-     "p2": "Etv Hamburg",
-     "start": "2026-10-28T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
      "id": "id2300050172524650",
      "sportId": "23",
      "p1": "Netzhoppers Konigs Wusterhausen",
@@ -5650,6 +5641,15 @@
      "start": "2026-10-28T19:00:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300051773076900",
+     "sportId": "23",
+     "p1": "Perugia Volley",
+     "p2": "Pallavolo Padova",
+     "start": "2026-10-28T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "SuperLega"
     },
     {
      "id": "id2300056773076462",
@@ -5682,7 +5682,6 @@
   }
  },
  "alerted": {
-  "id1100185473496286|winamax.fr|113|115": "2026-10-23T09:01:32.474655+00:00",
   "id1100118973062788|winamax.fr|113|115": "2026-10-23T13:01:30.242512+00:00",
   "id1100013273719362|winamax.fr|113|115": "2026-10-23T13:01:30.242512+00:00",
   "id2300083172764898|winamax.fr|231|232": "2026-10-23T15:01:36.163707+00:00",
@@ -5705,6 +5704,6 @@
   "id1100013873263096|winamax.fr|113|113": "2026-10-27T20:01:27.592757+00:00"
  },
  "billable": {
-  "2026-10": 143
+  "2026-10": 144
  }
 }
