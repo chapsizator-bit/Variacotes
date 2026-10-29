@@ -5514,26 +5514,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-28T23:01:27.931514+00:00",
+   "fetched": "2026-10-29T12:01:27.669208+00:00",
    "items": [
-    {
-     "id": "id2300050072525036",
-     "sportId": "23",
-     "p1": "Ladies In Black Aachen",
-     "p2": "Binder Blaubaren TSV Flacht",
-     "start": "2026-10-28T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300145275360614",
-     "sportId": "23",
-     "p1": "Minas",
-     "p2": "Sesi Bauru",
-     "start": "2026-10-29T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
     {
      "id": "id2300058672919694",
      "sportId": "23",
@@ -5542,6 +5524,15 @@
      "start": "2026-10-29T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Champions League"
+    },
+    {
+     "id": "id2300083172764914",
+     "sportId": "23",
+     "p1": "AZS Olsztyn",
+     "p2": "ZAKSA Kedzierzyn-Kozle",
+     "start": "2026-10-29T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
     },
     {
      "id": "id2300050172524652",
@@ -5562,6 +5553,24 @@
      "league": "CEV Champions League, Women"
     },
     {
+     "id": "id2300058772919286",
+     "sportId": "23",
+     "p1": "HAOK Mladost Zagreb",
+     "p2": "Turan VC Tovuz",
+     "start": "2026-10-29T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Champions League, Women"
+    },
+    {
+     "id": "id2300080272917464",
+     "sportId": "23",
+     "p1": "Vfm Franches-Montagnes",
+     "p2": "OK ORT Novo Sarajevo",
+     "start": "2026-10-29T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup, Women"
+    },
+    {
      "id": "id2300083373951230",
      "sportId": "23",
      "p1": "Narbonne Volley",
@@ -5571,6 +5580,33 @@
      "league": "Ligue A"
     },
     {
+     "id": "id2300083172764916",
+     "sportId": "23",
+     "p1": "Resovia Rzeszow",
+     "p2": "Trefl Gdansk",
+     "start": "2026-10-29T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300145275360712",
+     "sportId": "23",
+     "p1": "Sada Cruzeiro",
+     "p2": "Unifucamp/Monete Carmelo",
+     "start": "2026-10-29T22:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
+    },
+    {
+     "id": "id2300050172524654",
+     "sportId": "23",
+     "p1": "SWD Powervolleys Duren",
+     "p2": "SV Warnemünde",
+     "start": "2026-10-30T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
      "id": "id2300050172524656",
      "sportId": "23",
      "p1": "Barock Volleys MTV Ludwigsburg",
@@ -5578,6 +5614,42 @@
      "start": "2026-10-30T18:30:00.000Z",
      "sport": "Volleyball",
      "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300083172764920",
+     "sportId": "23",
+     "p1": "MKS Slepsk Suwalki",
+     "p2": "Exact Systems Norwid Czestochowa",
+     "start": "2026-10-30T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300083172764918",
+     "sportId": "23",
+     "p1": "Cuprum Lubin SA",
+     "p2": "Projekt Warsaw",
+     "start": "2026-10-31T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300083172764912",
+     "sportId": "23",
+     "p1": "Skra Belchatow",
+     "p2": "Warta Zawiercie",
+     "start": "2026-10-31T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300083172764910",
+     "sportId": "23",
+     "p1": "LKPS Lublin",
+     "p2": "GKS Katowice",
+     "start": "2026-10-31T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
     }
    ]
   }
@@ -5601,6 +5673,6 @@
   "id1100013273719450|winamax.fr|113|113": "2026-10-28T21:01:29.552275+00:00"
  },
  "billable": {
-  "2026-10": 149
+  "2026-10": 150
  }
 }
