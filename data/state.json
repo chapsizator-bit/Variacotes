@@ -5694,7 +5694,7 @@
    ]
   },
   "23": {
-   "fetched": "2026-10-30T00:01:30.708153+00:00",
+   "fetched": "2026-10-30T13:01:28.653909+00:00",
    "items": [
     {
      "id": "id2300050172524654",
@@ -5763,10 +5763,19 @@
      "id": "id2300083172764920",
      "sportId": "23",
      "p1": "MKS Slepsk Suwalki",
-     "p2": "Exact Systems Norwid Czestochowa",
+     "p2": "KS Norwid Czestochowa",
      "start": "2026-10-30T19:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300146875360768",
+     "sportId": "23",
+     "p1": "Sesi Volei Bauru",
+     "p2": "Fluminense RJ",
+     "start": "2026-10-31T00:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
     },
     {
      "id": "id2300083172764918",
@@ -5812,6 +5821,15 @@
      "start": "2026-10-31T17:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300121973072808",
+     "sportId": "23",
+     "p1": "AO Thiras",
+     "p2": "AS Elpis Ampelokipon",
+     "start": "2026-10-31T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "A1, Women"
     },
     {
      "id": "id2300083373951232",
@@ -5868,6 +5886,6 @@
   "id1100152472016852|winamax.fr|113|113": "2026-10-30T06:01:19.225696+00:00"
  },
  "billable": {
-  "2026-10": 155
+  "2026-10": 156
  }
 }
