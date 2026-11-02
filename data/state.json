@@ -5559,7 +5559,7 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-02T03:01:28.070768+00:00",
+   "fetched": "2026-11-02T15:01:29.865125+00:00",
    "items": [
     {
      "id": "id2300145275360616",
@@ -5598,6 +5598,60 @@
      "league": "Superliga"
     },
     {
+     "id": "id2300096775091072",
+     "sportId": "23",
+     "p1": "Istanbul Genclik Spor",
+     "p2": "Gaziantep Genclik Spor",
+     "start": "2026-11-03T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300096775743094",
+     "sportId": "23",
+     "p1": "Ziraat Bankasi Ankara",
+     "p2": "Corum Sungurlu Bld",
+     "start": "2026-11-03T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300050172524666",
+     "sportId": "23",
+     "p1": "VCO Berlin",
+     "p2": "VfB Friedrichshafen",
+     "start": "2026-11-03T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300050172524668",
+     "sportId": "23",
+     "p1": "Netzhoppers Konigs Wusterhausen",
+     "p2": "SWD Powervolleys Duren",
+     "start": "2026-11-03T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300050172524670",
+     "sportId": "23",
+     "p1": "SV Warnemünde",
+     "p2": "Barock Volleys MTV Ludwigsburg",
+     "start": "2026-11-03T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300050172524672",
+     "sportId": "23",
+     "p1": "SSC Karlsruhe",
+     "p2": "TV Rottenburg",
+     "start": "2026-11-03T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
      "id": "id2300145275360622",
      "sportId": "23",
      "p1": "Goias EC",
@@ -5605,6 +5659,15 @@
      "start": "2026-11-03T21:30:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300146875360848",
+     "sportId": "23",
+     "p1": "Barueri VC",
+     "p2": "Sesi Volei Bauru",
+     "start": "2026-11-03T21:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
     },
     {
      "id": "id2300145275360624",
@@ -5647,6 +5710,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 9
+  "2026-11": 10
  }
 }
