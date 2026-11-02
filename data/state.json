@@ -5433,106 +5433,16 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-01T15:01:20.266232+00:00",
+   "fetched": "2026-11-02T03:01:28.070768+00:00",
    "items": [
     {
-     "id": "id2301447875091134",
+     "id": "id2300145275360616",
      "sportId": "23",
-     "p1": "Cv Sayre Mayser GC",
-     "p2": "CAV Esquimo Andalucia",
-     "start": "2026-11-01T12:00:00.000Z",
+     "p1": "Montes Claros",
+     "p2": "Norde Volei",
+     "start": "2026-11-02T19:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2300050072525050",
-     "sportId": "23",
-     "p1": "Binder Blaubaren TSV Flacht",
-     "p2": "Schwarz-Weiss Erfurt",
-     "start": "2026-11-01T14:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300050072525052",
-     "sportId": "23",
-     "p1": "Etv Hamburg",
-     "p2": "Skurios Volleys Borken",
-     "start": "2026-11-01T14:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "1. Bundesliga, Women"
-    },
-    {
-     "id": "id2300117573957922",
-     "sportId": "23",
-     "p1": "Ugs Bordeaux Merignac Volley",
-     "p2": "Evreux Vb",
-     "start": "2026-11-01T14:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A Women"
-    },
-    {
-     "id": "id2300056773076476",
-     "sportId": "23",
-     "p1": "Azzurra Volley Firenze",
-     "p2": "Volley Conegliano",
-     "start": "2026-11-01T15:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300056773076468",
-     "sportId": "23",
-     "p1": "Volley Vallefoglia",
-     "p2": "Cda Talmassons",
-     "start": "2026-11-01T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300051773076806",
-     "sportId": "23",
-     "p1": "Power Volley Milano",
-     "p2": "Pallavolo Padova",
-     "start": "2026-11-01T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300051773076812",
-     "sportId": "23",
-     "p1": "Cuneo Volley",
-     "p2": "Volley Civitanova",
-     "start": "2026-11-01T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300051773076814",
-     "sportId": "23",
-     "p1": "Tinet Prata Di Pordenone",
-     "p2": "Trentino Volley",
-     "start": "2026-11-01T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "SuperLega"
-    },
-    {
-     "id": "id2300056773076470",
-     "sportId": "23",
-     "p1": "Volley Bergamo",
-     "p2": "Pallavolo Scandicci",
-     "start": "2026-11-01T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300060374512668",
-     "sportId": "23",
-     "p1": "Panionios",
-     "p2": "AO Kalamata 80",
-     "start": "2026-11-01T17:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Volley League"
+     "league": "Superliga"
     },
     {
      "id": "id2300056773076474",
@@ -5542,6 +5452,51 @@
      "start": "2026-11-02T19:40:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300145275360618",
+     "sportId": "23",
+     "p1": "Sesi Bauru",
+     "p2": "Praia Clube",
+     "start": "2026-11-02T21:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
+    },
+    {
+     "id": "id2300145275360620",
+     "sportId": "23",
+     "p1": "Volei Guarulhos",
+     "p2": "Sada Cruzeiro",
+     "start": "2026-11-03T00:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
+    },
+    {
+     "id": "id2300145275360622",
+     "sportId": "23",
+     "p1": "Goias EC",
+     "p2": "Minas",
+     "start": "2026-11-03T21:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
+    },
+    {
+     "id": "id2300145275360624",
+     "sportId": "23",
+     "p1": "Sao Jose Dos Campos",
+     "p2": "Volei Renata",
+     "start": "2026-11-04T00:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
+    },
+    {
+     "id": "id2300145275360626",
+     "sportId": "23",
+     "p1": "Unifucamp/Monete Carmelo",
+     "p2": "Suzano Volei SP",
+     "start": "2026-11-04T00:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga"
     }
    ]
   }
@@ -5566,6 +5521,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 6
+  "2026-11": 7
  }
 }
