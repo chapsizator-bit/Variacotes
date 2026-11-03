@@ -5748,44 +5748,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-02T15:01:29.865125+00:00",
+   "fetched": "2026-11-03T04:01:25.704991+00:00",
    "items": [
-    {
-     "id": "id2300145275360616",
-     "sportId": "23",
-     "p1": "Montes Claros",
-     "p2": "Norde Volei",
-     "start": "2026-11-02T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2300056773076474",
-     "sportId": "23",
-     "p1": "Agil Volley Novara",
-     "p2": "Millenium Brescia",
-     "start": "2026-11-02T19:40:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300145275360618",
-     "sportId": "23",
-     "p1": "Sesi Bauru",
-     "p2": "Praia Clube",
-     "start": "2026-11-02T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2300145275360620",
-     "sportId": "23",
-     "p1": "Volei Guarulhos",
-     "p2": "Sada Cruzeiro",
-     "start": "2026-11-03T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
     {
      "id": "id2300096775091072",
      "sportId": "23",
@@ -5803,6 +5767,15 @@
      "start": "2026-11-03T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Efeler Ligi"
+    },
+    {
+     "id": "id2300083172764930",
+     "sportId": "23",
+     "p1": "Trefl Gdansk",
+     "p2": "Cuprum Stilon Gorzow",
+     "start": "2026-11-03T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
     },
     {
      "id": "id2300050172524666",
@@ -5875,6 +5848,42 @@
      "start": "2026-11-04T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300083172764934",
+     "sportId": "23",
+     "p1": "Warta Zawiercie",
+     "p2": "AZS Olsztyn",
+     "start": "2026-11-04T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300083172764936",
+     "sportId": "23",
+     "p1": "LKPS Lublin",
+     "p2": "Skra Belchatow",
+     "start": "2026-11-04T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300083172764928",
+     "sportId": "23",
+     "p1": "Projekt Warsaw",
+     "p2": "MKS Slepsk Suwalki",
+     "start": "2026-11-05T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300146875360776",
+     "sportId": "23",
+     "p1": "Mackenzie EC MG",
+     "p2": "Minas",
+     "start": "2026-11-05T21:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Superliga, Women"
     }
    ]
   }
@@ -5897,6 +5906,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 12
+  "2026-11": 13
  }
 }
