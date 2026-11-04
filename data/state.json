@@ -5793,97 +5793,34 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-04T06:01:27.140340+00:00",
+   "fetched": "2026-11-04T18:01:27.281650+00:00",
    "items": [
     {
-     "id": "id2300096975712592",
+     "id": "id2300050172524674",
      "sportId": "23",
-     "p1": "Manisa Buyuksehir Belediyesi",
-     "p2": "Galatasaray Istanbul",
-     "start": "2026-11-04T13:30:00.000Z",
+     "p1": "Berlin RV",
+     "p2": "VfB Friedrichshafen",
+     "start": "2026-11-04T18:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
+     "league": "1st Bundesliga"
     },
     {
-     "id": "id2300080272917510",
+     "id": "id2300050172524676",
      "sportId": "23",
-     "p1": "CSM Bucuresti",
-     "p2": "Panathinaikos Athens",
-     "start": "2026-11-04T14:00:00.000Z",
+     "p1": "TSV Giesen Grizzlys",
+     "p2": "VC Bitterfeld-Wolfen",
+     "start": "2026-11-04T18:00:00.000Z",
      "sport": "Volleyball",
-     "league": "CEV Challenge Cup, Women"
+     "league": "1st Bundesliga"
     },
     {
-     "id": "id2300096975712600",
+     "id": "id2300058676232418",
      "sportId": "23",
-     "p1": "Goztepe",
-     "p2": "Zeren Spor",
-     "start": "2026-11-04T14:00:00.000Z",
+     "p1": "HAOK Mladost",
+     "p2": "Levski Sofia",
+     "start": "2026-11-04T18:00:00.000Z",
      "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975712594",
-     "sportId": "23",
-     "p1": "Kuzeyboru Genclik",
-     "p2": "Aras Kargo",
-     "start": "2026-11-04T15:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300080272917532",
-     "sportId": "23",
-     "p1": "Levski Sofia",
-     "p2": "Apollo 8",
-     "start": "2026-11-04T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "CEV Challenge Cup, Women"
-    },
-    {
-     "id": "id2300096975712596",
-     "sportId": "23",
-     "p1": "Besiktas Istanbul",
-     "p2": "Eczacibasi Istanbul",
-     "start": "2026-11-04T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300096975712598",
-     "sportId": "23",
-     "p1": "Vakifbank SK",
-     "p2": "Turk Hava Yollari",
-     "start": "2026-11-04T16:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Sultanlar Ligi, Women"
-    },
-    {
-     "id": "id2300080272917514",
-     "sportId": "23",
-     "p1": "TK Kaunas-Vdu",
-     "p2": "CV Ciutadella",
-     "start": "2026-11-04T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "CEV Challenge Cup, Women"
-    },
-    {
-     "id": "id2300080272917522",
-     "sportId": "23",
-     "p1": "Kuusamo Volley",
-     "p2": "Zok Borac Banja Luka",
-     "start": "2026-11-04T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "CEV Challenge Cup, Women"
-    },
-    {
-     "id": "id2300083172764934",
-     "sportId": "23",
-     "p1": "Warta Zawiercie",
-     "p2": "AZS Olsztyn",
-     "start": "2026-11-04T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki"
+     "league": "Champions League"
     },
     {
      "id": "id2300080272917506",
@@ -5904,13 +5841,31 @@
      "league": "CEV Challenge Cup, Women"
     },
     {
-     "id": "id2300080272917534",
+     "id": "id2300080272917528",
      "sportId": "23",
-     "p1": "Olympiada Neapolis",
-     "p2": "Ok Dinamo",
+     "p1": "Va Uniza Zilina",
+     "p2": "Volejbal Brno",
      "start": "2026-11-04T18:00:00.000Z",
      "sport": "Volleyball",
      "league": "CEV Challenge Cup, Women"
+    },
+    {
+     "id": "id2300050172524678",
+     "sportId": "23",
+     "p1": "FT 1844 Freiburg",
+     "p2": "Svg Luneburg",
+     "start": "2026-11-04T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
+     "id": "id2300058676195310",
+     "sportId": "23",
+     "p1": "Orion Stars",
+     "p2": "Volley Ljubljana",
+     "start": "2026-11-04T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Champions League"
     },
     {
      "id": "id2300080272917502",
@@ -5920,6 +5875,24 @@
      "start": "2026-11-04T19:00:00.000Z",
      "sport": "Volleyball",
      "league": "CEV Challenge Cup, Women"
+    },
+    {
+     "id": "id2300080272917518",
+     "sportId": "23",
+     "p1": "OK ORT Novo Sarajevo",
+     "p2": "Vfm Franches-Montagnes",
+     "start": "2026-11-04T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup, Women"
+    },
+    {
+     "id": "id2300192272983724",
+     "sportId": "23",
+     "p1": "Volley Roeselare",
+     "p2": "VBC Waremme",
+     "start": "2026-11-04T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Heren"
     },
     {
      "id": "id2300051773076816",
@@ -5976,6 +5949,42 @@
      "league": "Liga Siatkowki"
     },
     {
+     "id": "id2300192272983726",
+     "sportId": "23",
+     "p1": "Tectum Achel",
+     "p2": "VBC Guibertin",
+     "start": "2026-11-04T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Heren"
+    },
+    {
+     "id": "id2300192272983728",
+     "sportId": "23",
+     "p1": "Lindemans Aalst",
+     "p2": "Volley Antwerpen",
+     "start": "2026-11-04T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Heren"
+    },
+    {
+     "id": "id2300192272983730",
+     "sportId": "23",
+     "p1": "VC Haasrode Leuven",
+     "p2": "Volley Menen",
+     "start": "2026-11-04T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Heren"
+    },
+    {
+     "id": "id2300192272983732",
+     "sportId": "23",
+     "p1": "Volley Gent",
+     "p2": "VC Maaseik",
+     "start": "2026-11-04T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Heren"
+    },
+    {
      "id": "id2300080275592438",
      "sportId": "23",
      "p1": "Sl Benfica",
@@ -6001,6 +6010,15 @@
      "start": "2026-11-05T16:00:00.000Z",
      "sport": "Volleyball",
      "league": "Sultanlar Ligi, Women"
+    },
+    {
+     "id": "id2300058676195314",
+     "sportId": "23",
+     "p1": "Kaposvar SE",
+     "p2": "TSV Hartberg",
+     "start": "2026-11-05T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Champions League"
     },
     {
      "id": "id2300083172764928",
@@ -6060,6 +6078,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 21
+  "2026-11": 22
  }
 }
