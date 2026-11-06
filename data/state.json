@@ -5910,62 +5910,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-06T09:01:18.273563+00:00",
+   "fetched": "2026-11-06T21:01:25.582569+00:00",
    "items": [
-    {
-     "id": "id2304409972779722",
-     "sportId": "23",
-     "p1": "Voreas Hokkaido",
-     "p2": "Fragolad Kagoshima",
-     "start": "2026-11-06T09:35:00.000Z",
-     "sport": "Volleyball",
-     "league": "SV League"
-    },
-    {
-     "id": "id2300117372775266",
-     "sportId": "23",
-     "p1": "Chemik Police",
-     "p2": "KS Rzeszow",
-     "start": "2026-11-06T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2300083373951234",
-     "sportId": "23",
-     "p1": "Nice Volley Ball",
-     "p2": "Chaumont 52",
-     "start": "2026-11-06T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A"
-    },
-    {
-     "id": "id2300083373951236",
-     "sportId": "23",
-     "p1": "Stade Poitevin Poitiers",
-     "p2": "Paris Volley",
-     "start": "2026-11-06T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Ligue A"
-    },
-    {
-     "id": "id2300056773076490",
-     "sportId": "23",
-     "p1": "Cda Talmassons",
-     "p2": "Azzurra Volley Firenze",
-     "start": "2026-11-06T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Serie A1 Women"
-    },
-    {
-     "id": "id2300117372775268",
-     "sportId": "23",
-     "p1": "MKS Kalisz",
-     "p2": "LKS Lodz",
-     "start": "2026-11-06T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
     {
      "id": "id2300146875360778",
      "sportId": "23",
@@ -6012,11 +5958,47 @@
      "league": "A1, Women"
     },
     {
+     "id": "id2300121973072822",
+     "sportId": "23",
+     "p1": "AS Elpis Ampelokipon",
+     "p2": "Asp Thetis",
+     "start": "2026-11-07T15:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "A1, Women"
+    },
+    {
      "id": "id2300121973072816",
      "sportId": "23",
      "p1": "Zirinios Aon",
      "p2": "AO Markopoulou",
      "start": "2026-11-07T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "A1, Women"
+    },
+    {
+     "id": "id2300121973072824",
+     "sportId": "23",
+     "p1": "Aris Thessaloniki",
+     "p2": "GS Panionios",
+     "start": "2026-11-07T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "A1, Women"
+    },
+    {
+     "id": "id2300083373951240",
+     "sportId": "23",
+     "p1": "Spacers Toulouse Volley",
+     "p2": "Plessis Robinson",
+     "start": "2026-11-07T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2300121973072826",
+     "sportId": "23",
+     "p1": "Ofa Apolonios",
+     "p2": "Olympiacos Piraeus",
+     "start": "2026-11-07T17:00:00.000Z",
      "sport": "Volleyball",
      "league": "A1, Women"
     },
@@ -6030,6 +6012,69 @@
      "league": "Volley League"
     },
     {
+     "id": "id2300083373951242",
+     "sportId": "23",
+     "p1": "Narbonne Volley",
+     "p2": "Tours Volley-Ball",
+     "start": "2026-11-07T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2300117573957934",
+     "sportId": "23",
+     "p1": "Ugs Bordeaux Merignac Volley",
+     "p2": "Volero Le Cannet",
+     "start": "2026-11-07T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300117573957936",
+     "sportId": "23",
+     "p1": "Evreux Vb",
+     "p2": "Beziers Volley",
+     "start": "2026-11-07T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2302446473952344",
+     "sportId": "23",
+     "p1": "AS Illac Volley",
+     "p2": "GFC Ajaccio Volley-Ball",
+     "start": "2026-11-07T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
+    },
+    {
+     "id": "id2302446473952346",
+     "sportId": "23",
+     "p1": "Reims Volley 51",
+     "p2": "Frejus Var Volley",
+     "start": "2026-11-07T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
+    },
+    {
+     "id": "id2302446473952348",
+     "sportId": "23",
+     "p1": "Rennes Etudiants Club",
+     "p2": "Nancy Volley Maxeville Jarville",
+     "start": "2026-11-07T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
+    },
+    {
+     "id": "id2303824172985660",
+     "sportId": "23",
+     "p1": "Asterix AVO Beveren",
+     "p2": "Dauphines Charleroi",
+     "start": "2026-11-07T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Dames, Women"
+    },
+    {
      "id": "id2300056773076478",
      "sportId": "23",
      "p1": "Chieri 76 Volleyball",
@@ -6037,6 +6082,60 @@
      "start": "2026-11-07T18:30:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300117573957938",
+     "sportId": "23",
+     "p1": "Saint Die Des Vosges",
+     "p2": "Terville Florange",
+     "start": "2026-11-07T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2300117573957940",
+     "sportId": "23",
+     "p1": "Vandoeuvre Nancy Volley Ball",
+     "p2": "VBC Chamalieres",
+     "start": "2026-11-07T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
+     "id": "id2302446473952350",
+     "sportId": "23",
+     "p1": "FL Saint-Quentin Volleyball",
+     "p2": "Harnes VB",
+     "start": "2026-11-07T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
+    },
+    {
+     "id": "id2300083373951244",
+     "sportId": "23",
+     "p1": "Royan Atlantique Volleyball",
+     "p2": "AS Cannes Volley-Ball",
+     "start": "2026-11-07T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2300083373951246",
+     "sportId": "23",
+     "p1": "St. Nazaire VB",
+     "p2": "Montpellier Volley UC",
+     "start": "2026-11-07T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2302446473952352",
+     "sportId": "23",
+     "p1": "Vbc Chalon Sur Saone",
+     "p2": "Cambrai Volley",
+     "start": "2026-11-07T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
     },
     {
      "id": "id2300056773076480",
@@ -6055,6 +6154,24 @@
      "start": "2026-11-07T19:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2303824172985662",
+     "sportId": "23",
+     "p1": "VDK Gent",
+     "p2": "Tchalou Volley",
+     "start": "2026-11-07T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Dames, Women"
+    },
+    {
+     "id": "id2300060374512682",
+     "sportId": "23",
+     "p1": "NOP Rethymnou",
+     "p2": "Panathinaikos",
+     "start": "2026-11-08T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Volley League"
     },
     {
      "id": "id2300056773076488",
@@ -6084,6 +6201,15 @@
      "league": "Serie A1 Women"
     },
     {
+     "id": "id2300117573957942",
+     "sportId": "23",
+     "p1": "Levallois Paris Saint-Cloud - Les Mariannes 92",
+     "p2": "Neptunes de Nantes",
+     "start": "2026-11-08T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A Women"
+    },
+    {
      "id": "id2300056773076484",
      "sportId": "23",
      "p1": "Millenium Brescia",
@@ -6091,12 +6217,20 @@
      "start": "2026-11-08T17:00:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300060374512678",
+     "sportId": "23",
+     "p1": "AO Kalamata 80",
+     "p2": "PAOK Thessaloniki",
+     "start": "2026-11-08T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Volley League"
     }
    ]
   }
  },
  "alerted": {
-  "id1201111176286336|winamax.fr|121|122": "2026-11-01T20:01:20.716411+00:00",
   "id1201111176246628|winamax.fr|121|121": "2026-11-02T02:01:26.004150+00:00",
   "id1201111176286338|winamax.fr|121|121": "2026-11-02T02:01:26.004150+00:00",
   "id1100014172902094|winamax.fr|113|115": "2026-11-03T17:01:37.798376+00:00",
@@ -6108,6 +6242,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 33
+  "2026-11": 34
  }
 }
