@@ -5874,26 +5874,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-05T20:01:23.175088+00:00",
+   "fetched": "2026-11-06T09:01:18.273563+00:00",
    "items": [
-    {
-     "id": "id2300058776218550",
-     "sportId": "23",
-     "p1": "FC Porto",
-     "p2": "Asterix AVO Beveren",
-     "start": "2026-11-05T20:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "CEV Champions League, Women"
-    },
-    {
-     "id": "id2300146875360776",
-     "sportId": "23",
-     "p1": "Mackenzie EC MG",
-     "p2": "Minas",
-     "start": "2026-11-05T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
     {
      "id": "id2304409972779722",
      "sportId": "23",
@@ -5951,7 +5933,7 @@
     {
      "id": "id2300146875360778",
      "sportId": "23",
-     "p1": "Unilife Maringa",
+     "p1": "Sancor Seguros Volei Londrina",
      "p2": "Sesc RJ Flamengo",
      "start": "2026-11-06T21:30:00.000Z",
      "sport": "Volleyball",
@@ -5974,6 +5956,42 @@
      "start": "2026-11-07T11:00:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300060374512686",
+     "sportId": "23",
+     "p1": "OFI",
+     "p2": "AONS Milon",
+     "start": "2026-11-07T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Volley League"
+    },
+    {
+     "id": "id2300121973072820",
+     "sportId": "23",
+     "p1": "AEK Athens",
+     "p2": "AO Thiras",
+     "start": "2026-11-07T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "A1, Women"
+    },
+    {
+     "id": "id2300121973072816",
+     "sportId": "23",
+     "p1": "Zirinios Aon",
+     "p2": "AO Markopoulou",
+     "start": "2026-11-07T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "A1, Women"
+    },
+    {
+     "id": "id2300060374512684",
+     "sportId": "23",
+     "p1": "Olympiacos Piraeus",
+     "p2": "AO Floisvos",
+     "start": "2026-11-07T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Volley League"
     },
     {
      "id": "id2300056773076478",
@@ -6001,6 +6019,42 @@
      "start": "2026-11-07T19:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300056773076488",
+     "sportId": "23",
+     "p1": "Volley Conegliano",
+     "p2": "Helvia Recina Macerata",
+     "start": "2026-11-08T15:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076482",
+     "sportId": "23",
+     "p1": "Polisportiva SG Marignano",
+     "p2": "Busto Arsizio Volley",
+     "start": "2026-11-08T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076486",
+     "sportId": "23",
+     "p1": "Cuneo Granda Volley",
+     "p2": "Agil Volley Novara",
+     "start": "2026-11-08T16:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076484",
+     "sportId": "23",
+     "p1": "Millenium Brescia",
+     "p2": "Volley Bergamo",
+     "start": "2026-11-08T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
     }
    ]
   }
@@ -6020,6 +6074,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 30
+  "2026-11": 31
  }
 }
