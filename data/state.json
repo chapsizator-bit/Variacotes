@@ -3919,179 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-08T17:01:21.222840+00:00",
+   "fetched": "2026-11-09T06:01:18.273034+00:00",
    "items": [
-    {
-     "id": "id1100022773451856",
-     "sportId": "11",
-     "p1": "Wurzburg Baskets",
-     "p2": "Bayern Munich",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "BBL"
-    },
-    {
-     "id": "id1100026273432148",
-     "sportId": "11",
-     "p1": "Basket Scafati 1969",
-     "p2": "Napoli Basket",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Serie A"
-    },
-    {
-     "id": "id1100026473713580",
-     "sportId": "11",
-     "p1": "CB Coruna",
-     "p2": "BC Andorra",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ACB"
-    },
-    {
-     "id": "id1100151473575278",
-     "sportId": "11",
-     "p1": "CB Bahia San Agustin",
-     "p2": "CB Zamora",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Primera FEB"
-    },
-    {
-     "id": "id1100152073432738",
-     "sportId": "11",
-     "p1": "Juvecaserta 2021",
-     "p2": "S.S. Avellino Basket",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Serie A2"
-    },
-    {
-     "id": "id1100152073432742",
-     "sportId": "11",
-     "p1": "Juvi Cremona 1952",
-     "p2": "Basket Torino",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Serie A2"
-    },
-    {
-     "id": "id1100152073432750",
-     "sportId": "11",
-     "p1": "Rinascita Basket Rimini",
-     "p2": "Elachem Vigevano 1955",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Serie A2"
-    },
-    {
-     "id": "id1100152073432752",
-     "sportId": "11",
-     "p1": "Pallacanestro Ruvo di Puglia",
-     "p2": "Real Sebastiani Rieti",
-     "start": "2026-11-08T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Serie A2"
-    },
-    {
-     "id": "id1100015674295732",
-     "sportId": "11",
-     "p1": "SIG Strasbourg",
-     "p2": "Le Mans Sarthe Basket",
-     "start": "2026-11-08T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite"
-    },
-    {
-     "id": "id1100026273432152",
-     "sportId": "11",
-     "p1": "Pallacanestro Varese",
-     "p2": "APU Udine",
-     "start": "2026-11-08T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Serie A"
-    },
-    {
-     "id": "id1100026473713582",
-     "sportId": "11",
-     "p1": "Real Madrid",
-     "p2": "UCAM Murcia",
-     "start": "2026-11-08T18:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ACB"
-    },
-    {
-     "id": "id1100152073432746",
-     "sportId": "11",
-     "p1": "Montecatiniterme Basketball",
-     "p2": "AS Pistoia Basket 2000",
-     "start": "2026-11-08T19:45:00.000Z",
-     "sport": "Basketball",
-     "league": "Serie A2"
-    },
-    {
-     "id": "id1100013273719562",
-     "sportId": "11",
-     "p1": "Chicago Bulls",
-     "p2": "Philadelphia 76ers",
-     "start": "2026-11-08T20:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719564",
-     "sportId": "11",
-     "p1": "Detroit Pistons",
-     "p2": "Los Angeles Lakers",
-     "start": "2026-11-08T23:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719566",
-     "sportId": "11",
-     "p1": "Minnesota Timberwolves",
-     "p2": "Utah Jazz",
-     "start": "2026-11-09T00:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719568",
-     "sportId": "11",
-     "p1": "Dallas Mavericks",
-     "p2": "Brooklyn Nets",
-     "start": "2026-11-09T00:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719570",
-     "sportId": "11",
-     "p1": "Milwaukee Bucks",
-     "p2": "Boston Celtics",
-     "start": "2026-11-09T01:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719572",
-     "sportId": "11",
-     "p1": "LA Clippers",
-     "p2": "New Orleans Pelicans",
-     "start": "2026-11-09T02:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719574",
-     "sportId": "11",
-     "p1": "Sacramento Kings",
-     "p2": "Miami Heat",
-     "start": "2026-11-09T02:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
     {
      "id": "id1100051976087188",
      "sportId": "11",
@@ -4145,6 +3974,60 @@
      "start": "2026-11-09T19:00:00.000Z",
      "sport": "Basketball",
      "league": "Serie A"
+    },
+    {
+     "id": "id1100013273719576",
+     "sportId": "11",
+     "p1": "Atlanta Hawks",
+     "p2": "Los Angeles Lakers",
+     "start": "2026-11-10T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719578",
+     "sportId": "11",
+     "p1": "Charlotte Hornets",
+     "p2": "Cleveland Cavaliers",
+     "start": "2026-11-10T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719580",
+     "sportId": "11",
+     "p1": "Detroit Pistons",
+     "p2": "Washington Wizards",
+     "start": "2026-11-10T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719582",
+     "sportId": "11",
+     "p1": "Toronto Raptors",
+     "p2": "Memphis Grizzlies",
+     "start": "2026-11-10T00:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719586",
+     "sportId": "11",
+     "p1": "Houston Rockets",
+     "p2": "Denver Nuggets",
+     "start": "2026-11-10T01:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719588",
+     "sportId": "11",
+     "p1": "Phoenix Suns",
+     "p2": "San Antonio Spurs",
+     "start": "2026-11-10T02:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
     },
     {
      "id": "id1100014172902310",
@@ -4217,48 +4100,93 @@
      "start": "2026-11-10T19:30:00.000Z",
      "sport": "Basketball",
      "league": "Eurocup"
+    },
+    {
+     "id": "id1100013273719594",
+     "sportId": "11",
+     "p1": "Philadelphia 76ers",
+     "p2": "Boston Celtics",
+     "start": "2026-11-11T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100014172902578",
+     "sportId": "11",
+     "p1": "Bahcesehir Koleji",
+     "p2": "BC Lietkabelis Panevezys",
+     "start": "2026-11-11T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902304",
+     "sportId": "11",
+     "p1": "BC Siauliai",
+     "p2": "CB 1939 Canarias",
+     "start": "2026-11-11T16:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902098",
+     "sportId": "11",
+     "p1": "BC Aris Thessaloniki",
+     "p2": "Rigas Zelli",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902470",
+     "sportId": "11",
+     "p1": "Niners Chemnitz",
+     "p2": "Napoli Basket",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902096",
+     "sportId": "11",
+     "p1": "Le Mans Sarthe Basket",
+     "p2": "CB San Pablo Burgos",
+     "start": "2026-11-11T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902580",
+     "sportId": "11",
+     "p1": "BC Roma Spqr",
+     "p2": "Ulm Basketball",
+     "start": "2026-11-11T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100013873263138",
+     "sportId": "11",
+     "p1": "Paris Basketball",
+     "p2": "Fenerbahce Istanbul",
+     "start": "2026-11-11T19:45:00.000Z",
+     "sport": "Basketball",
+     "league": "Euroleague"
+    },
+    {
+     "id": "id1100013873263140",
+     "sportId": "11",
+     "p1": "KK Partizan Belgrade",
+     "p2": "Baskonia Vitoria-Gasteiz",
+     "start": "2026-11-11T19:45:00.000Z",
+     "sport": "Basketball",
+     "league": "Euroleague"
     }
    ]
   },
   "12": {
-   "fetched": "2026-11-08T17:01:21.222840+00:00",
+   "fetched": "2026-11-09T06:01:18.273034+00:00",
    "items": [
-    {
-     "id": "id1203730776133284",
-     "sportId": "12",
-     "p1": "Tjen, Janice",
-     "p2": "Linette, Magda",
-     "start": "2026-11-08T16:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Chennai, India, Women Singles"
-    },
-    {
-     "id": "id1200309176541898",
-     "sportId": "12",
-     "p1": "Tirante, Thiago Agustin",
-     "p2": "Munar, Jaume",
-     "start": "2026-11-08T17:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1202142276551594",
-     "sportId": "12",
-     "p1": "Kostyuk, Marta",
-     "p2": "Noskova, Linda",
-     "start": "2026-11-08T20:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Finals Women Singles"
-    },
-    {
-     "id": "id1202142276425238",
-     "sportId": "12",
-     "p1": "Gauff, Coco",
-     "p2": "Pegula, Jessica",
-     "start": "2026-11-08T21:10:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Finals Women Singles"
-    },
     {
      "id": "id1200309176541904",
      "sportId": "12",
@@ -4274,6 +4202,15 @@
      "p1": "Duckworth, James",
      "p2": "Norrie, Cameron",
      "start": "2026-11-09T12:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Stockholm, Sweden Men Singles"
+    },
+    {
+     "id": "id1200309176585408",
+     "sportId": "12",
+     "p1": "Machac, Tomas",
+     "p2": "Gojo, Borna",
+     "start": "2026-11-09T12:20:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
     },
@@ -4296,6 +4233,15 @@
      "league": "ATP Stockholm, Sweden Men Singles"
     },
     {
+     "id": "id1200309176585410",
+     "sportId": "12",
+     "p1": "Borg, Leo",
+     "p2": "Samuel, Toby",
+     "start": "2026-11-09T18:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Stockholm, Sweden Men Singles"
+    },
+    {
      "id": "id1202142276425310",
      "sportId": "12",
      "p1": "Sabalenka, Aryna",
@@ -4309,7 +4255,7 @@
      "sportId": "12",
      "p1": "Andreeva, Mirra",
      "p2": "Svitolina, Elina",
-     "start": "2026-11-09T21:30:00.000Z",
+     "start": "2026-11-09T21:10:00.000Z",
      "sport": "Tennis",
      "league": "WTA Finals Women Singles"
     },
@@ -4327,6 +4273,24 @@
      "sportId": "12",
      "p1": "Rinderknech, Arthur",
      "p2": "Kecmanovic, Miomir",
+     "start": "2026-11-10T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Stockholm, Sweden Men Singles"
+    },
+    {
+     "id": "id1200309176585404",
+     "sportId": "12",
+     "p1": "Van Assche, Luca",
+     "p2": "Shevchenko, Aleksandr",
+     "start": "2026-11-10T10:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Stockholm, Sweden Men Singles"
+    },
+    {
+     "id": "id1200309176585406",
+     "sportId": "12",
+     "p1": "Sonego, Lorenzo",
+     "p2": "Halys, Quentin",
      "start": "2026-11-10T10:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
@@ -5338,6 +5302,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 46
+  "2026-11": 48
  }
 }
