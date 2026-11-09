@@ -3919,26 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-09T06:01:18.273034+00:00",
+   "fetched": "2026-11-09T18:01:26.368933+00:00",
    "items": [
-    {
-     "id": "id1100051976087188",
-     "sportId": "11",
-     "p1": "Karsiyaka Basket",
-     "p2": "Besiktas JK",
-     "start": "2026-11-09T16:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Super Lig"
-    },
-    {
-     "id": "id1100023574131760",
-     "sportId": "11",
-     "p1": "KK Crvena zvezda Belgrade",
-     "p2": "BC Slovan Bratislava",
-     "start": "2026-11-09T17:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ABA"
-    },
     {
      "id": "id1100023574131764",
      "sportId": "11",
@@ -3947,6 +3929,15 @@
      "start": "2026-11-09T18:00:00.000Z",
      "sport": "Basketball",
      "league": "Liga ABA"
+    },
+    {
+     "id": "id1100166675656470",
+     "sportId": "11",
+     "p1": "SO Maritime Boulogne",
+     "p2": "Union Rennes Basket 35",
+     "start": "2026-11-09T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Coupe de France"
     },
     {
      "id": "id1100022773451858",
@@ -4012,6 +4003,15 @@
      "league": "NBA"
     },
     {
+     "id": "id1100013273719584",
+     "sportId": "11",
+     "p1": "Dallas Mavericks",
+     "p2": "Indiana Pacers",
+     "start": "2026-11-10T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
      "id": "id1100013273719586",
      "sportId": "11",
      "p1": "Houston Rockets",
@@ -4028,6 +4028,24 @@
      "start": "2026-11-10T02:00:00.000Z",
      "sport": "Basketball",
      "league": "NBA"
+    },
+    {
+     "id": "id1100013273719590",
+     "sportId": "11",
+     "p1": "Golden State Warriors",
+     "p2": "New Orleans Pelicans",
+     "start": "2026-11-10T03:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1101405173110544",
+     "sportId": "11",
+     "p1": "BK Sabah Baku",
+     "p2": "Trabzonspor Basketbol",
+     "start": "2026-11-10T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
     },
     {
      "id": "id1100014172902310",
@@ -4057,6 +4075,15 @@
      "league": "Eurocup"
     },
     {
+     "id": "id1101405175208534",
+     "sportId": "11",
+     "p1": "Hapoel Holon BC",
+     "p2": "Rasta Vechta",
+     "start": "2026-11-10T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
      "id": "id1100014172902472",
      "sportId": "11",
      "p1": "JL Bourg Basket",
@@ -4084,6 +4111,33 @@
      "league": "Eurocup"
     },
     {
+     "id": "id1100166675656472",
+     "sportId": "11",
+     "p1": "Poitiers Basket 86",
+     "p2": "Caen Basket Calvados",
+     "start": "2026-11-10T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id1101405173110642",
+     "sportId": "11",
+     "p1": "Spartak Subotica",
+     "p2": "Cholet Basket",
+     "start": "2026-11-10T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
+     "id": "id1101405173110664",
+     "sportId": "11",
+     "p1": "Bilbao Basket",
+     "p2": "Alba Berlin",
+     "start": "2026-11-10T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "FIBA Champions League"
+    },
+    {
      "id": "id1100014172902306",
      "sportId": "11",
      "p1": "London Lions",
@@ -4109,6 +4163,15 @@
      "start": "2026-11-11T01:00:00.000Z",
      "sport": "Basketball",
      "league": "NBA"
+    },
+    {
+     "id": "id1100152472016878",
+     "sportId": "11",
+     "p1": "SE Melbourne Phoenix",
+     "p2": "Illawarra Hawks",
+     "start": "2026-11-11T08:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
     },
     {
      "id": "id1100014172902578",
@@ -4143,6 +4206,15 @@
      "p1": "Niners Chemnitz",
      "p2": "Napoli Basket",
      "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup"
+    },
+    {
+     "id": "id1100014172902100",
+     "sportId": "11",
+     "p1": "Derthona Basket",
+     "p2": "Hapoel Jerusalem",
+     "start": "2026-11-11T18:30:00.000Z",
      "sport": "Basketball",
      "league": "Eurocup"
     },
@@ -4185,53 +4257,8 @@
    ]
   },
   "12": {
-   "fetched": "2026-11-09T06:01:18.273034+00:00",
+   "fetched": "2026-11-09T18:01:26.368933+00:00",
    "items": [
-    {
-     "id": "id1200309176541904",
-     "sportId": "12",
-     "p1": "Michelsen, Alex",
-     "p2": "Hanfmann, Yannick",
-     "start": "2026-11-09T11:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1200309176541912",
-     "sportId": "12",
-     "p1": "Duckworth, James",
-     "p2": "Norrie, Cameron",
-     "start": "2026-11-09T12:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1200309176585408",
-     "sportId": "12",
-     "p1": "Machac, Tomas",
-     "p2": "Gojo, Borna",
-     "start": "2026-11-09T12:20:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1200309176541906",
-     "sportId": "12",
-     "p1": "Vallejo, Adolfo Daniel",
-     "p2": "Humbert, Ugo",
-     "start": "2026-11-09T13:10:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1200309176541900",
-     "sportId": "12",
-     "p1": "Etcheverry, Tomas Martin",
-     "p2": "Dahlin, Max",
-     "start": "2026-11-09T17:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
     {
      "id": "id1200309176585410",
      "sportId": "12",
@@ -4260,29 +4287,20 @@
      "league": "WTA Finals Women Singles"
     },
     {
-     "id": "id1200309176541908",
+     "id": "id1200309176430128",
      "sportId": "12",
-     "p1": "Rune, Holger",
-     "p2": "Bergs, Zizou",
-     "start": "2026-11-10T10:00:00.000Z",
+     "p1": "Michelsen, Alex",
+     "p2": "Cerundolo, Juan Manuel",
+     "start": "2026-11-10T12:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
     },
     {
-     "id": "id1200309176541910",
+     "id": "id1200309176630288",
      "sportId": "12",
-     "p1": "Rinderknech, Arthur",
-     "p2": "Kecmanovic, Miomir",
-     "start": "2026-11-10T10:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1200309176585404",
-     "sportId": "12",
-     "p1": "Van Assche, Luca",
+     "p1": "Mannarino, Adrian",
      "p2": "Shevchenko, Aleksandr",
-     "start": "2026-11-10T10:00:00.000Z",
+     "start": "2026-11-10T12:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
     },
@@ -4291,7 +4309,52 @@
      "sportId": "12",
      "p1": "Sonego, Lorenzo",
      "p2": "Halys, Quentin",
-     "start": "2026-11-10T10:00:00.000Z",
+     "start": "2026-11-10T13:10:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Stockholm, Sweden Men Singles"
+    },
+    {
+     "id": "id1200309176541910",
+     "sportId": "12",
+     "p1": "Rinderknech, Arthur",
+     "p2": "Kecmanovic, Miomir",
+     "start": "2026-11-10T14:20:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Stockholm, Sweden Men Singles"
+    },
+    {
+     "id": "id1200309176541908",
+     "sportId": "12",
+     "p1": "Rune, Holger",
+     "p2": "Bergs, Zizou",
+     "start": "2026-11-10T17:00:00.000Z",
+     "sport": "Tennis",
+     "league": "ATP Stockholm, Sweden Men Singles"
+    },
+    {
+     "id": "id1202142276615636",
+     "sportId": "12",
+     "p1": "Kostyuk, Marta",
+     "p2": "Pegula, Jessica",
+     "start": "2026-11-10T20:00:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Finals Women Singles"
+    },
+    {
+     "id": "id1202142276615638",
+     "sportId": "12",
+     "p1": "Gauff, Coco",
+     "p2": "Noskova, Linda",
+     "start": "2026-11-10T21:30:00.000Z",
+     "sport": "Tennis",
+     "league": "WTA Finals Women Singles"
+    },
+    {
+     "id": "id1200309176430178",
+     "sportId": "12",
+     "p1": "Fritz, Taylor",
+     "p2": "Norrie, Cameron",
+     "start": "2026-11-11T12:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
     }
@@ -5304,7 +5367,6 @@
   }
  },
  "alerted": {
-  "id1101503775214892|winamax.fr|113|115": "2026-11-04T17:01:27.479132+00:00",
   "id1100013873263128|winamax.fr|113|113": "2026-11-04T20:01:19.986732+00:00",
   "id1201111176136062|winamax.fr|121|122": "2026-11-05T21:01:23.112947+00:00",
   "id1100151473575266|winamax.fr|113|113": "2026-11-07T04:01:16.128591+00:00",
@@ -5318,6 +5380,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 49
+  "2026-11": 51
  }
 }
