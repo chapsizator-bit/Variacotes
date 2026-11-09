@@ -5199,7 +5199,7 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-09T00:01:23.683152+00:00",
+   "fetched": "2026-11-09T13:01:27.345969+00:00",
    "items": [
     {
      "id": "id2300083172764940",
@@ -5247,6 +5247,15 @@
      "league": "Superliga"
     },
     {
+     "id": "id2305394875997738",
+     "sportId": "23",
+     "p1": "Maliye Voleybol",
+     "p2": "Konya B Sehir Bld",
+     "start": "2026-11-10T13:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "2. Lig"
+    },
+    {
      "id": "id2300145275360632",
      "sportId": "23",
      "p1": "Sao Jose Dos Campos",
@@ -5263,6 +5272,15 @@
      "start": "2026-11-11T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2302019674603878",
+     "sportId": "23",
+     "p1": "Csu Stiinta Bucuresti",
+     "p2": "CS Rapid Bucuresti",
+     "start": "2026-11-11T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Divizia A1, Women"
     },
     {
      "id": "id2300145275360636",
@@ -5301,6 +5319,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 48
+  "2026-11": 49
  }
 }
