@@ -5334,8 +5334,17 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-10T02:01:21.134156+00:00",
+   "fetched": "2026-11-10T14:01:25.546076+00:00",
    "items": [
+    {
+     "id": "id2300058776358794",
+     "sportId": "23",
+     "p1": "Turan VC Tovuz",
+     "p2": "VK Maritsa 1921 Plovdiv",
+     "start": "2026-11-10T14:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Champions League, Women"
+    },
     {
      "id": "id2300083172764924",
      "sportId": "23",
@@ -5344,6 +5353,15 @@
      "start": "2026-11-10T16:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300058676195316",
+     "sportId": "23",
+     "p1": "TSV Hartberg",
+     "p2": "Kaposvar SE",
+     "start": "2026-11-10T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Champions League"
     },
     {
      "id": "id2300145275360632",
@@ -5373,6 +5391,24 @@
      "league": "Liga Siatkowki"
     },
     {
+     "id": "id2300058776358796",
+     "sportId": "23",
+     "p1": "Asterix AVO Beveren",
+     "p2": "FC Porto",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Champions League, Women"
+    },
+    {
+     "id": "id2300058676232420",
+     "sportId": "23",
+     "p1": "Levski Sofia",
+     "p2": "HAOK Mladost",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Champions League"
+    },
+    {
      "id": "id2300083172764932",
      "sportId": "23",
      "p1": "ZAKSA Kedzierzyn-Kozle",
@@ -5398,6 +5434,15 @@
      "start": "2026-11-12T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300058676195312",
+     "sportId": "23",
+     "p1": "Volley Ljubljana",
+     "p2": "Orion Doetinchem",
+     "start": "2026-11-12T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Champions League"
     }
    ]
   }
@@ -5416,6 +5461,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 54
+  "2026-11": 55
  }
 }
