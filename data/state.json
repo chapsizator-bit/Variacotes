@@ -5262,61 +5262,16 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-09T13:01:27.345969+00:00",
+   "fetched": "2026-11-10T02:01:21.134156+00:00",
    "items": [
     {
-     "id": "id2300083172764940",
+     "id": "id2300083172764924",
      "sportId": "23",
-     "p1": "AZS Olsztyn",
-     "p2": "LKPS Lublin",
-     "start": "2026-11-09T16:30:00.000Z",
+     "p1": "GKS Katowice",
+     "p2": "Chks Chelm",
+     "start": "2026-11-10T16:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
-    },
-    {
-     "id": "id2300060374512678",
-     "sportId": "23",
-     "p1": "AO Kalamata 80",
-     "p2": "PAOK Thessaloniki",
-     "start": "2026-11-09T17:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Volley League"
-    },
-    {
-     "id": "id2300117372775270",
-     "sportId": "23",
-     "p1": "Uni Opole",
-     "p2": "MKS Sokol Mogilno",
-     "start": "2026-11-09T19:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
-    {
-     "id": "id2300145275360628",
-     "sportId": "23",
-     "p1": "Minas",
-     "p2": "Unifucamp/Monete Carmelo",
-     "start": "2026-11-09T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2300145275360630",
-     "sportId": "23",
-     "p1": "Volei Renata",
-     "p2": "Sesi Bauru",
-     "start": "2026-11-10T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2305394875997738",
-     "sportId": "23",
-     "p1": "Maliye Voleybol",
-     "p2": "Konya B Sehir Bld",
-     "start": "2026-11-10T13:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "2. Lig"
     },
     {
      "id": "id2300145275360632",
@@ -5337,13 +5292,22 @@
      "league": "Superliga"
     },
     {
-     "id": "id2302019674603878",
+     "id": "id2300083172764926",
      "sportId": "23",
-     "p1": "Csu Stiinta Bucuresti",
-     "p2": "CS Rapid Bucuresti",
-     "start": "2026-11-11T17:30:00.000Z",
+     "p1": "Exact Systems Norwid Czestochowa",
+     "p2": "Barkom-Kazhany Lviv",
+     "start": "2026-11-11T16:30:00.000Z",
      "sport": "Volleyball",
-     "league": "Divizia A1, Women"
+     "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300083172764932",
+     "sportId": "23",
+     "p1": "ZAKSA Kedzierzyn-Kozle",
+     "p2": "Resovia Rzeszow",
+     "start": "2026-11-11T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki"
     },
     {
      "id": "id2300145275360636",
@@ -5380,6 +5344,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 51
+  "2026-11": 52
  }
 }
