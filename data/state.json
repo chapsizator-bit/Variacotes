@@ -5595,8 +5595,17 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-11T03:01:26.916180+00:00",
+   "fetched": "2026-11-11T16:01:40.145775+00:00",
    "items": [
+    {
+     "id": "id2300080172917664",
+     "sportId": "23",
+     "p1": "Akaa Volley",
+     "p2": "AC Oulu",
+     "start": "2026-11-11T16:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
     {
      "id": "id2300083172764926",
      "sportId": "23",
@@ -5614,6 +5623,42 @@
      "start": "2026-11-11T17:00:00.000Z",
      "sport": "Volleyball",
      "league": "CEV Champions League, Women"
+    },
+    {
+     "id": "id2300080172917648",
+     "sportId": "23",
+     "p1": "MOK Dinamo Zagreb",
+     "p2": "OK Maribor",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080172917656",
+     "sportId": "23",
+     "p1": "Parnu Vk",
+     "p2": "VK Slovan Bratislava",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080172917670",
+     "sportId": "23",
+     "p1": "Hapoel Mate-Asher",
+     "p2": "MOK Mursa Osijek",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080172917682",
+     "sportId": "23",
+     "p1": "OK Budva",
+     "p2": "Lokomotiv Plovdiv",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
     },
     {
      "id": "id2300050172524680",
@@ -5634,6 +5679,42 @@
      "league": "Champions League"
     },
     {
+     "id": "id2300080172917646",
+     "sportId": "23",
+     "p1": "TSV Jona Volley",
+     "p2": "Mav Elore SC",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080172917678",
+     "sportId": "23",
+     "p1": "SK Aich/Dob",
+     "p2": "Nordenskov UIF",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080172917680",
+     "sportId": "23",
+     "p1": "Ok Mladost Kastela",
+     "p2": "UVC Graz",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080172917654",
+     "sportId": "23",
+     "p1": "Cdv Rio Duero Soria",
+     "p2": "OK Karadjordje Topola",
+     "start": "2026-11-11T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
      "id": "id2300056773076502",
      "sportId": "23",
      "p1": "Helvia Recina Macerata",
@@ -5641,6 +5722,33 @@
      "start": "2026-11-11T19:00:00.000Z",
      "sport": "Volleyball",
      "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300080172917676",
+     "sportId": "23",
+     "p1": "VV Huizen",
+     "p2": "Volley Aalst",
+     "start": "2026-11-11T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080175373698",
+     "sportId": "23",
+     "p1": "CD Cisneros Alter",
+     "p2": "VC Stroossen",
+     "start": "2026-11-11T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup"
+    },
+    {
+     "id": "id2300080576251212",
+     "sportId": "23",
+     "p1": "Ok Napredak Odzak",
+     "p2": "Modena Volley",
+     "start": "2026-11-11T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Cup"
     },
     {
      "id": "id2300056773076492",
@@ -5761,6 +5869,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 60
+  "2026-11": 61
  }
 }
