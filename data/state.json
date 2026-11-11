@@ -5442,58 +5442,13 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-10T14:01:25.546076+00:00",
+   "fetched": "2026-11-11T03:01:26.916180+00:00",
    "items": [
-    {
-     "id": "id2300058776358794",
-     "sportId": "23",
-     "p1": "Turan VC Tovuz",
-     "p2": "VK Maritsa 1921 Plovdiv",
-     "start": "2026-11-10T14:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "CEV Champions League, Women"
-    },
-    {
-     "id": "id2300083172764924",
-     "sportId": "23",
-     "p1": "GKS Katowice",
-     "p2": "Chks Chelm",
-     "start": "2026-11-10T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki"
-    },
-    {
-     "id": "id2300058676195316",
-     "sportId": "23",
-     "p1": "TSV Hartberg",
-     "p2": "Kaposvar SE",
-     "start": "2026-11-10T18:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Champions League"
-    },
-    {
-     "id": "id2300145275360632",
-     "sportId": "23",
-     "p1": "Sao Jose Dos Campos",
-     "p2": "Montes Claros",
-     "start": "2026-11-10T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2300145275360634",
-     "sportId": "23",
-     "p1": "Norde Volei",
-     "p2": "Sada Cruzeiro",
-     "start": "2026-11-11T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
     {
      "id": "id2300083172764926",
      "sportId": "23",
-     "p1": "Exact Systems Norwid Czestochowa",
-     "p2": "Barkom-Kazhany Lviv",
+     "p1": "KS Norwid Czestochowa",
+     "p2": "Jastrzebie Barkom",
      "start": "2026-11-11T16:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
@@ -5508,11 +5463,83 @@
      "league": "CEV Champions League, Women"
     },
     {
+     "id": "id2300050172524680",
+     "sportId": "23",
+     "p1": "VCO Berlin",
+     "p2": "Netzhoppers Konigs Wusterhausen",
+     "start": "2026-11-11T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "1st Bundesliga"
+    },
+    {
      "id": "id2300058676232420",
      "sportId": "23",
      "p1": "Levski Sofia",
      "p2": "HAOK Mladost",
      "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Champions League"
+    },
+    {
+     "id": "id2300056773076502",
+     "sportId": "23",
+     "p1": "Helvia Recina Macerata",
+     "p2": "Cda Talmassons",
+     "start": "2026-11-11T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076492",
+     "sportId": "23",
+     "p1": "Azzurra Volley Firenze",
+     "p2": "Chieri 76 Volleyball",
+     "start": "2026-11-11T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076494",
+     "sportId": "23",
+     "p1": "Vero Volley Milano",
+     "p2": "Millenium Brescia",
+     "start": "2026-11-11T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076496",
+     "sportId": "23",
+     "p1": "Busto Arsizio Volley",
+     "p2": "Volley Vallefoglia",
+     "start": "2026-11-11T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076500",
+     "sportId": "23",
+     "p1": "Polisportiva SG Marignano",
+     "p2": "Pallavolo Scandicci",
+     "start": "2026-11-11T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300056773076504",
+     "sportId": "23",
+     "p1": "Agil Volley Novara",
+     "p2": "Volley Conegliano",
+     "start": "2026-11-11T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
+    },
+    {
+     "id": "id2300058675358206",
+     "sportId": "23",
+     "p1": "Sporting CP",
+     "p2": "Xilasedici VK",
+     "start": "2026-11-11T19:30:00.000Z",
      "sport": "Volleyball",
      "league": "Champions League"
     },
@@ -5551,6 +5578,15 @@
      "start": "2026-11-12T19:00:00.000Z",
      "sport": "Volleyball",
      "league": "Champions League"
+    },
+    {
+     "id": "id2300056773076498",
+     "sportId": "23",
+     "p1": "Volley Bergamo",
+     "p2": "Cuneo Granda Volley",
+     "start": "2026-11-12T19:50:00.000Z",
+     "sport": "Volleyball",
+     "league": "Serie A1 Women"
     }
    ]
   }
@@ -5571,6 +5607,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 57
+  "2026-11": 58
  }
 }
