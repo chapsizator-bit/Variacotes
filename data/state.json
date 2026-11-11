@@ -3919,53 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-10T19:01:25.857066+00:00",
+   "fetched": "2026-11-11T07:50:09.616768+00:00",
    "items": [
-    {
-     "id": "id1100014172902306",
-     "sportId": "11",
-     "p1": "London Lions",
-     "p2": "Reyer Venezia",
-     "start": "2026-11-10T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100014174290216",
-     "sportId": "11",
-     "p1": "Basquet Manresa",
-     "p2": "KK Bosna Royal Sarajevo",
-     "start": "2026-11-10T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Eurocup"
-    },
-    {
-     "id": "id1100013273719592",
-     "sportId": "11",
-     "p1": "New York Knicks",
-     "p2": "Milwaukee Bucks",
-     "start": "2026-11-11T00:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719594",
-     "sportId": "11",
-     "p1": "Philadelphia 76ers",
-     "p2": "Boston Celtics",
-     "start": "2026-11-11T01:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719604",
-     "sportId": "11",
-     "p1": "Portland Trail Blazers",
-     "p2": "Oklahoma City Thunder",
-     "start": "2026-11-11T04:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
     {
      "id": "id1100152472016878",
      "sportId": "11",
@@ -4003,6 +3958,15 @@
      "league": "Eurobasket, Women, Qualification"
     },
     {
+     "id": "id1100238875200526",
+     "sportId": "11",
+     "p1": "Neftchi IK",
+     "p2": "AO Mykonoy",
+     "start": "2026-11-11T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
      "id": "id1100014172902304",
      "sportId": "11",
      "p1": "BC Siauliai",
@@ -4010,6 +3974,15 @@
      "start": "2026-11-11T16:30:00.000Z",
      "sport": "Basketball",
      "league": "Eurocup"
+    },
+    {
+     "id": "id1100107070465078",
+     "sportId": "11",
+     "p1": "France",
+     "p2": "Great Britain",
+     "start": "2026-11-11T16:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
     },
     {
      "id": "id1100107070464944",
@@ -4030,6 +4003,60 @@
      "league": "Eurobasket, Women, Qualification"
     },
     {
+     "id": "id1100238875108224",
+     "sportId": "11",
+     "p1": "Promitheas Patras BC",
+     "p2": "KB Trepca",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108322",
+     "sportId": "11",
+     "p1": "SCM Universitatea Craiova",
+     "p2": "BC Kolossos Rhodes",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108372",
+     "sportId": "11",
+     "p1": "Nitra Blue Wings",
+     "p2": "Wilki Morskie Szczecin",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108484",
+     "sportId": "11",
+     "p1": "Valmiera Glass Via",
+     "p2": "KB Bashkimi",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108570",
+     "sportId": "11",
+     "p1": "Lokomotiv Plovdiv 1926",
+     "p2": "Vef Riga",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875200428",
+     "sportId": "11",
+     "p1": "CS Dinamo Bucuresti",
+     "p2": "Basquet Girona",
+     "start": "2026-11-11T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
      "id": "id1101405173110668",
      "sportId": "11",
      "p1": "SK Slavia Prague",
@@ -4046,6 +4073,24 @@
      "start": "2026-11-11T17:30:00.000Z",
      "sport": "Basketball",
      "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100238875108270",
+     "sportId": "11",
+     "p1": "Basket Zielona Gora",
+     "p2": "Szolnoki Olaj Kk",
+     "start": "2026-11-11T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108420",
+     "sportId": "11",
+     "p1": "Iraklis 2022",
+     "p2": "KK MZT Skopje Aerodrom",
+     "start": "2026-11-11T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
     },
     {
      "id": "id1101405173110548",
@@ -4093,6 +4138,15 @@
      "league": "Eurocup"
     },
     {
+     "id": "id1100107070465076",
+     "sportId": "11",
+     "p1": "Luxembourg",
+     "p2": "Ukraine",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
      "id": "id1100107070465326",
      "sportId": "11",
      "p1": "Germany",
@@ -4100,6 +4154,60 @@
      "start": "2026-11-11T18:00:00.000Z",
      "sport": "Basketball",
      "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100238875048624",
+     "sportId": "11",
+     "p1": "Kk Split",
+     "p2": "BK Opava",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108320",
+     "sportId": "11",
+     "p1": "Rilski Sportist",
+     "p2": "Sporting Cp",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108370",
+     "sportId": "11",
+     "p1": "BC Vienna",
+     "p2": "Sluc Nancy Basket",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108422",
+     "sportId": "11",
+     "p1": "Dziki Warszawa",
+     "p2": "Tartu Ulikool/Maks and Moorits",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875108424",
+     "sportId": "11",
+     "p1": "Wurzburg Baskets",
+     "p2": "AEK Larnaca",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
+    },
+    {
+     "id": "id1100238875200488",
+     "sportId": "11",
+     "p1": "BC Prievidza",
+     "p2": "Merkezefendi Belediyesi Denizli Basket",
+     "start": "2026-11-11T18:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Europe Cup"
     },
     {
      "id": "id1100014172902100",
@@ -4264,6 +4372,87 @@
      "league": "Serie A2"
     },
     {
+     "id": "id1100013273719606",
+     "sportId": "11",
+     "p1": "Indiana Pacers",
+     "p2": "Washington Wizards",
+     "start": "2026-11-12T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719608",
+     "sportId": "11",
+     "p1": "New York Knicks",
+     "p2": "Cleveland Cavaliers",
+     "start": "2026-11-12T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719610",
+     "sportId": "11",
+     "p1": "Toronto Raptors",
+     "p2": "Boston Celtics",
+     "start": "2026-11-12T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719612",
+     "sportId": "11",
+     "p1": "Chicago Bulls",
+     "p2": "San Antonio Spurs",
+     "start": "2026-11-12T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719614",
+     "sportId": "11",
+     "p1": "Memphis Grizzlies",
+     "p2": "Denver Nuggets",
+     "start": "2026-11-12T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719618",
+     "sportId": "11",
+     "p1": "New Orleans Pelicans",
+     "p2": "Brooklyn Nets",
+     "start": "2026-11-12T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719622",
+     "sportId": "11",
+     "p1": "Houston Rockets",
+     "p2": "Golden State Warriors",
+     "start": "2026-11-12T01:45:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719620",
+     "sportId": "11",
+     "p1": "Utah Jazz",
+     "p2": "Orlando Magic",
+     "start": "2026-11-12T02:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719624",
+     "sportId": "11",
+     "p1": "Portland Trail Blazers",
+     "p2": "Oklahoma City Thunder",
+     "start": "2026-11-12T03:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
      "id": "id1100152472016880",
      "sportId": "11",
      "p1": "Adelaide 36ers",
@@ -4334,66 +4523,93 @@
      "start": "2026-11-12T20:00:00.000Z",
      "sport": "Basketball",
      "league": "Euroleague"
+    },
+    {
+     "id": "id1100152472016884",
+     "sportId": "11",
+     "p1": "New Zealand Breakers",
+     "p2": "Brisbane Bullets",
+     "start": "2026-11-13T06:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
+    },
+    {
+     "id": "id1100152472016886",
+     "sportId": "11",
+     "p1": "Cairns Taipans",
+     "p2": "Sydney Kings",
+     "start": "2026-11-13T08:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
+    },
+    {
+     "id": "id1100013873263152",
+     "sportId": "11",
+     "p1": "Anadolu Efes SK",
+     "p2": "Virtus Bologna",
+     "start": "2026-11-13T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Euroleague"
+    },
+    {
+     "id": "id1100023574131766",
+     "sportId": "11",
+     "p1": "KK Cibona",
+     "p2": "KK FMP Belgrade",
+     "start": "2026-11-13T17:45:00.000Z",
+     "sport": "Basketball",
+     "league": "Liga ABA"
+    },
+    {
+     "id": "id1100015674295750",
+     "sportId": "11",
+     "p1": "Elan Bearnais Pau-Lacq-Orthez",
+     "p2": "SIG Strasbourg",
+     "start": "2026-11-13T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "LNB Elite"
+    },
+    {
+     "id": "id1100022773451860",
+     "sportId": "11",
+     "p1": "Phoenix Hagen",
+     "p2": "Riesen Ludwigsburg",
+     "start": "2026-11-13T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "BBL"
+    },
+    {
+     "id": "id1100013873263154",
+     "sportId": "11",
+     "p1": "Panathinaikos BC",
+     "p2": "FC Barcelona",
+     "start": "2026-11-13T19:15:00.000Z",
+     "sport": "Basketball",
+     "league": "Euroleague"
+    },
+    {
+     "id": "id1100013873263156",
+     "sportId": "11",
+     "p1": "ASVEL Lyon-Villeurbanne",
+     "p2": "Besiktas JK",
+     "start": "2026-11-13T19:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Euroleague"
+    },
+    {
+     "id": "id1100023574131768",
+     "sportId": "11",
+     "p1": "KK Krka Novo Mesto",
+     "p2": "HKK Siroki",
+     "start": "2026-11-13T19:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Liga ABA"
     }
    ]
   },
   "12": {
-   "fetched": "2026-11-10T19:01:25.857066+00:00",
+   "fetched": "2026-11-11T07:50:09.616768+00:00",
    "items": [
-    {
-     "id": "id1202142276615636",
-     "sportId": "12",
-     "p1": "Kostyuk, Marta",
-     "p2": "Pegula, Jessica",
-     "start": "2026-11-10T20:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Finals Women Singles"
-    },
-    {
-     "id": "id1202142276615638",
-     "sportId": "12",
-     "p1": "Gauff, Coco",
-     "p2": "Noskova, Linda",
-     "start": "2026-11-10T21:10:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Finals Women Singles"
-    },
-    {
-     "id": "id1200395176676700",
-     "sportId": "12",
-     "p1": "Shick, Braden",
-     "p2": "Miyoshi, Kenta (2004)",
-     "start": "2026-11-10T21:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Knoxville, USA Men Singles"
-    },
-    {
-     "id": "id1204989076506120",
-     "sportId": "12",
-     "p1": "Radenkovic, Maja",
-     "p2": "Bokova, Vladlena",
-     "start": "2026-11-11T09:00:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Carvoeiro Women 08"
-    },
-    {
-     "id": "id1200309176430118",
-     "sportId": "12",
-     "p1": "Shevchenko, Aleksandr",
-     "p2": "Ruud, Casper",
-     "start": "2026-11-11T12:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1200309176430126",
-     "sportId": "12",
-     "p1": "Gojo, Borna",
-     "p2": "Humbert, Ugo",
-     "start": "2026-11-11T12:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
     {
      "id": "id1200309176430130",
      "sportId": "12",
@@ -4408,88 +4624,34 @@
      "sportId": "12",
      "p1": "Fritz, Taylor",
      "p2": "Norrie, Cameron",
-     "start": "2026-11-11T12:00:00.000Z",
+     "start": "2026-11-11T13:30:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
     },
     {
-     "id": "id1204838176416604",
+     "id": "id1200309176430126",
      "sportId": "12",
-     "p1": "Clarke, Jay",
-     "p2": "Vives Marcos, Pedro",
-     "start": "2026-11-11T12:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Monastir, Tunisia Men Singles"
-    },
-    {
-     "id": "id1200391576417324",
-     "sportId": "12",
-     "p1": "Baez, Sebastian",
-     "p2": "R16P2",
-     "start": "2026-11-11T12:30:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Orleans, France Men Singles"
-    },
-    {
-     "id": "id1200391576417322",
-     "sportId": "12",
-     "p1": "Piros, Zsombor",
-     "p2": "Tabur, Clement",
-     "start": "2026-11-11T13:40:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Orleans, France Men Singles"
-    },
-    {
-     "id": "id1200395176430858",
-     "sportId": "12",
-     "p1": "Maxted, Lui",
-     "p2": "Chidekh, Clement",
+     "p1": "Gojo, Borna",
+     "p2": "Humbert, Ugo",
      "start": "2026-11-11T15:00:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Challenger Knoxville, USA Men Singles"
+     "league": "ATP Stockholm, Sweden Men Singles"
     },
     {
-     "id": "id1200395176430866",
+     "id": "id1200309176430118",
      "sportId": "12",
-     "p1": "Planinsek, Filip Jeff",
-     "p2": "R16P4",
-     "start": "2026-11-11T15:00:00.000Z",
+     "p1": "Shevchenko, Aleksandr",
+     "p2": "Ruud, Casper",
+     "start": "2026-11-11T17:00:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Challenger Knoxville, USA Men Singles"
-    },
-    {
-     "id": "id1200779376431530",
-     "sportId": "12",
-     "p1": "Boyer, Tristan",
-     "p2": "Tabata, Ryo",
-     "start": "2026-11-11T15:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Lima, Peru Men Singles"
-    },
-    {
-     "id": "id1205348076430724",
-     "sportId": "12",
-     "p1": "Maria, Tatjana",
-     "p2": "Tubello, Alice",
-     "start": "2026-11-11T15:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA 125K Sopo, Colombia Women Singles"
-    },
-    {
-     "id": "id1205348076430726",
-     "sportId": "12",
-     "p1": "Hercog, Polona",
-     "p2": "Monnet, Carole",
-     "start": "2026-11-11T15:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA 125K Sopo, Colombia Women Singles"
+     "league": "ATP Stockholm, Sweden Men Singles"
     },
     {
      "id": "id1200309176430180",
      "sportId": "12",
      "p1": "Kecmanovic, Miomir",
-     "p2": "R16P4",
-     "start": "2026-11-11T17:00:00.000Z",
+     "p2": "Rune, Holger",
+     "start": "2026-11-11T18:10:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
     },
@@ -4507,36 +4669,27 @@
      "sportId": "12",
      "p1": "Sabalenka, Aryna",
      "p2": "Andreeva, Mirra",
-     "start": "2026-11-11T21:30:00.000Z",
+     "start": "2026-11-11T21:10:00.000Z",
      "sport": "Tennis",
      "league": "WTA Finals Women Singles"
     },
     {
-     "id": "id1204760676415482",
+     "id": "id1202142276680340",
      "sportId": "12",
-     "p1": "Cretu, Cezar (2001)",
-     "p2": "Henning, Philip",
-     "start": "2026-11-12T08:00:00.000Z",
+     "p1": "Kostyuk, Marta",
+     "p2": "Gauff, Coco",
+     "start": "2026-11-12T20:00:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Challenger Hersonissos 3, Greece Men Singles"
+     "league": "WTA Finals Women Singles"
     },
     {
-     "id": "id1204760676415498",
+     "id": "id1202142276680348",
      "sportId": "12",
-     "p1": "Ribecai, Michele",
-     "p2": "Caniato, Carlo Alberto",
-     "start": "2026-11-12T08:00:00.000Z",
+     "p1": "Pegula, Jessica",
+     "p2": "Noskova, Linda",
+     "start": "2026-11-12T21:10:00.000Z",
      "sport": "Tennis",
-     "league": "ATP Challenger Hersonissos 3, Greece Men Singles"
-    },
-    {
-     "id": "id1204838176416600",
-     "sportId": "12",
-     "p1": "Moeller, Marvin",
-     "p2": "Ouakaa, Aziz",
-     "start": "2026-11-12T12:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Monastir, Tunisia Men Singles"
+     "league": "WTA Finals Women Singles"
     }
    ]
   },
@@ -5607,6 +5760,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 58
+  "2026-11": 60
  }
 }
