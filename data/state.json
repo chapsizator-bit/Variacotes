@@ -3919,179 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-13T09:01:30.464595+00:00",
+   "fetched": "2026-11-13T22:01:22.242363+00:00",
    "items": [
-    {
-     "id": "id1100013873263152",
-     "sportId": "11",
-     "p1": "Anadolu Efes SK",
-     "p2": "Virtus Bologna",
-     "start": "2026-11-13T17:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Euroleague"
-    },
-    {
-     "id": "id1100023574131766",
-     "sportId": "11",
-     "p1": "KK Cibona",
-     "p2": "KK FMP Belgrade",
-     "start": "2026-11-13T17:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ABA"
-    },
-    {
-     "id": "id1100015674295750",
-     "sportId": "11",
-     "p1": "Elan Bearnais Pau-Lacq-Orthez",
-     "p2": "SIG Strasbourg",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite"
-    },
-    {
-     "id": "id1100022773451860",
-     "sportId": "11",
-     "p1": "Phoenix Hagen",
-     "p2": "Riesen Ludwigsburg",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "BBL"
-    },
-    {
-     "id": "id1100118973062848",
-     "sportId": "11",
-     "p1": "Asc Denain Voltaire Ph",
-     "p2": "Caen Basket Calvados",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062850",
-     "sportId": "11",
-     "p1": "ALM Evreux Basket",
-     "p2": "Orleans Loiret Basket",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062854",
-     "sportId": "11",
-     "p1": "Stade Rochelais Basket",
-     "p2": "Antibes Sharks",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062856",
-     "sportId": "11",
-     "p1": "Basket Le Havre",
-     "p2": "Levallois Basketball",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062858",
-     "sportId": "11",
-     "p1": "Aix Maurienne Savoie Basket",
-     "p2": "Hermine Nantes Basket",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062860",
-     "sportId": "11",
-     "p1": "Rouen Metropole Basket",
-     "p2": "Poitiers Basket 86",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118974835032",
-     "sportId": "11",
-     "p1": "Fos Provence Basket",
-     "p2": "Champagne Basketball",
-     "start": "2026-11-13T19:00:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100013873263154",
-     "sportId": "11",
-     "p1": "Panathinaikos BC",
-     "p2": "FC Barcelona",
-     "start": "2026-11-13T19:15:00.000Z",
-     "sport": "Basketball",
-     "league": "Euroleague"
-    },
-    {
-     "id": "id1100013873263156",
-     "sportId": "11",
-     "p1": "ASVEL Lyon-Villeurbanne",
-     "p2": "Besiktas JK",
-     "start": "2026-11-13T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Euroleague"
-    },
-    {
-     "id": "id1100023574131768",
-     "sportId": "11",
-     "p1": "KK Krka Novo Mesto",
-     "p2": "HKK Siroki",
-     "start": "2026-11-13T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "Liga ABA"
-    },
-    {
-     "id": "id1100118973062846",
-     "sportId": "11",
-     "p1": "Saint-Chamond",
-     "p2": "Ada Blois Basket 41",
-     "start": "2026-11-13T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118973062852",
-     "sportId": "11",
-     "p1": "Alliance Sport Alsace",
-     "p2": "Hyeres Toulon",
-     "start": "2026-11-13T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1100118974345686",
-     "sportId": "11",
-     "p1": "JA Vichy-Clermont",
-     "p2": "Beliers de Kemper - UJAP 1984",
-     "start": "2026-11-13T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "LNB Elite 2"
-    },
-    {
-     "id": "id1103632172319216",
-     "sportId": "11",
-     "p1": "Spirou Charleroi",
-     "p2": "Cb Liege",
-     "start": "2026-11-13T19:30:00.000Z",
-     "sport": "Basketball",
-     "league": "BNXT League"
-    },
-    {
-     "id": "id1100151473575280",
-     "sportId": "11",
-     "p1": "CB Tizona",
-     "p2": "CB Gran Canaria",
-     "start": "2026-11-13T19:45:00.000Z",
-     "sport": "Basketball",
-     "league": "Primera FEB"
-    },
     {
      "id": "id1100013273696984",
      "sportId": "11",
@@ -4219,6 +4048,24 @@
      "league": "Super Lig"
     },
     {
+     "id": "id1100107070465052",
+     "sportId": "11",
+     "p1": "Netherlands",
+     "p2": "Serbia",
+     "start": "2026-11-14T13:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100107070465330",
+     "sportId": "11",
+     "p1": "Denmark",
+     "p2": "Germany",
+     "start": "2026-11-14T14:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
      "id": "id1100030474750480",
      "sportId": "11",
      "p1": "BC AEK Athens",
@@ -4255,6 +4102,24 @@
      "league": "Basketball League"
     },
     {
+     "id": "id1100107070464846",
+     "sportId": "11",
+     "p1": "Czechia",
+     "p2": "Croatia",
+     "start": "2026-11-14T15:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100107070465080",
+     "sportId": "11",
+     "p1": "Great Britain",
+     "p2": "Ukraine",
+     "start": "2026-11-14T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
      "id": "id1100015674295738",
      "sportId": "11",
      "p1": "Elan Chalon",
@@ -4289,6 +4154,60 @@
      "start": "2026-11-14T17:00:00.000Z",
      "sport": "Basketball",
      "league": "Liga ACB"
+    },
+    {
+     "id": "id1100107070464738",
+     "sportId": "11",
+     "p1": "Montenegro",
+     "p2": "Poland",
+     "start": "2026-11-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100107070464848",
+     "sportId": "11",
+     "p1": "Bulgaria",
+     "p2": "Spain",
+     "start": "2026-11-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100107070464948",
+     "sportId": "11",
+     "p1": "Slovenia",
+     "p2": "Latvia",
+     "start": "2026-11-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100107070464950",
+     "sportId": "11",
+     "p1": "Austria",
+     "p2": "Italy",
+     "start": "2026-11-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100107070465050",
+     "sportId": "11",
+     "p1": "Greece",
+     "p2": "Slovakia",
+     "start": "2026-11-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
+    },
+    {
+     "id": "id1100107070465328",
+     "sportId": "11",
+     "p1": "Hungary",
+     "p2": "Portugal",
+     "start": "2026-11-14T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
     },
     {
      "id": "id1100151473575282",
@@ -4352,6 +4271,15 @@
      "start": "2026-11-14T17:30:00.000Z",
      "sport": "Basketball",
      "league": "Primera FEB"
+    },
+    {
+     "id": "id1100107070464740",
+     "sportId": "11",
+     "p1": "Israel",
+     "p2": "Turkiye",
+     "start": "2026-11-14T17:40:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurobasket, Women, Qualification"
     },
     {
      "id": "id1100151473575286",
@@ -4516,6 +4444,15 @@
      "league": "Liga ABA"
     },
     {
+     "id": "id1100051973495526",
+     "sportId": "11",
+     "p1": "Esenler Erokspor",
+     "p2": "Bahcesehir Koleji",
+     "start": "2026-11-15T10:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
+    },
+    {
      "id": "id1100026473713592",
      "sportId": "11",
      "p1": "Caprabo Lleida",
@@ -4561,6 +4498,33 @@
      "league": "Liga ACB"
     },
     {
+     "id": "id1100051973495536",
+     "sportId": "11",
+     "p1": "Merkezefendi Belediyesi Denizli Basket",
+     "p2": "Cayirova Belediyesi",
+     "start": "2026-11-15T12:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
+    },
+    {
+     "id": "id1103632172319224",
+     "sportId": "11",
+     "p1": "Rotterdam City Basketball",
+     "p2": "Donar Groningen",
+     "start": "2026-11-15T13:00:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
+     "id": "id1103632172319226",
+     "sportId": "11",
+     "p1": "Landstede Hammers",
+     "p2": "Limburg United",
+     "start": "2026-11-15T13:00:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
      "id": "id1100022773451870",
      "sportId": "11",
      "p1": "Skyliners Frankfurt",
@@ -4604,6 +4568,15 @@
      "start": "2026-11-15T15:00:00.000Z",
      "sport": "Basketball",
      "league": "Serie A"
+    },
+    {
+     "id": "id1100051973495540",
+     "sportId": "11",
+     "p1": "Besiktas JK",
+     "p2": "Bursaspor",
+     "start": "2026-11-15T15:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
     },
     {
      "id": "id1100015674295740",
@@ -4660,6 +4633,15 @@
      "league": "Liga ACB"
     },
     {
+     "id": "id1100152073432790",
+     "sportId": "11",
+     "p1": "Pallacanestro Ruvo di Puglia",
+     "p2": "Basket Torino",
+     "start": "2026-11-15T16:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Serie A2"
+    },
+    {
      "id": "id1100026273432166",
      "sportId": "11",
      "p1": "Pallacanestro Cantu",
@@ -4694,6 +4676,15 @@
      "start": "2026-11-15T17:00:00.000Z",
      "sport": "Basketball",
      "league": "Liga ACB"
+    },
+    {
+     "id": "id1100151473575294",
+     "sportId": "11",
+     "p1": "Palmer Basquet Mallorca Palma",
+     "p2": "Albacete Basket",
+     "start": "2026-11-15T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Primera FEB"
     },
     {
      "id": "id1100152073432774",
@@ -4786,6 +4777,15 @@
      "league": "Liga ABA"
     },
     {
+     "id": "id1100051973495534",
+     "sportId": "11",
+     "p1": "Fenerbahce Istanbul",
+     "p2": "Anadolu Efes SK",
+     "start": "2026-11-15T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
+    },
+    {
      "id": "id1100015674295744",
      "sportId": "11",
      "p1": "Le Mans Sarthe Basket",
@@ -4815,41 +4815,23 @@
    ]
   },
   "12": {
-   "fetched": "2026-11-13T09:01:30.464595+00:00",
+   "fetched": "2026-11-13T22:01:22.242363+00:00",
    "items": [
     {
-     "id": "id1200309176430188",
-     "sportId": "12",
-     "p1": "Tabilo, Alejandro",
-     "p2": "Tirante, Thiago Agustin",
-     "start": "2026-11-13T13:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Stockholm, Sweden Men Singles"
-    },
-    {
-     "id": "id1200309176430186",
+     "id": "id1200309176430190",
      "sportId": "12",
      "p1": "Fritz, Taylor",
-     "p2": "Musetti, Lorenzo",
-     "start": "2026-11-13T16:00:00.000Z",
+     "p2": "Tirante, Thiago Agustin",
+     "start": "2026-11-14T12:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP Stockholm, Sweden Men Singles"
     },
     {
-     "id": "id1202142276711898",
+     "id": "id1202142276773336",
      "sportId": "12",
-     "p1": "Andreeva, Mirra",
-     "p2": "Muchova, Karolina",
-     "start": "2026-11-13T20:00:00.000Z",
-     "sport": "Tennis",
-     "league": "WTA Finals Women Singles"
-    },
-    {
-     "id": "id1202142276711900",
-     "sportId": "12",
-     "p1": "Sabalenka, Aryna",
-     "p2": "Svitolina, Elina",
-     "start": "2026-11-13T21:10:00.000Z",
+     "p1": "Pegula, Jessica",
+     "p2": "Andreeva, Mirra",
+     "start": "2026-11-14T20:00:00.000Z",
      "sport": "Tennis",
      "league": "WTA Finals Women Singles"
     },
@@ -6380,6 +6362,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 73
+  "2026-11": 75
  }
 }
