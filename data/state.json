@@ -3919,35 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-19T03:01:29.519109+00:00",
+   "fetched": "2026-11-19T15:01:33.083579+00:00",
    "items": [
-    {
-     "id": "id1100013273719708",
-     "sportId": "11",
-     "p1": "Los Angeles Lakers",
-     "p2": "Utah Jazz",
-     "start": "2026-11-19T03:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273719710",
-     "sportId": "11",
-     "p1": "Sacramento Kings",
-     "p2": "Phoenix Suns",
-     "start": "2026-11-19T03:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100152472016898",
-     "sportId": "11",
-     "p1": "Illawarra Hawks",
-     "p2": "Adelaide 36ers",
-     "start": "2026-11-19T08:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBL"
-    },
     {
      "id": "id1100013873263180",
      "sportId": "11",
@@ -4010,6 +3983,42 @@
      "start": "2026-11-19T20:00:00.000Z",
      "sport": "Basketball",
      "league": "Euroleague"
+    },
+    {
+     "id": "id1100013273719712",
+     "sportId": "11",
+     "p1": "Memphis Grizzlies",
+     "p2": "Golden State Warriors",
+     "start": "2026-11-20T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719714",
+     "sportId": "11",
+     "p1": "Milwaukee Bucks",
+     "p2": "Portland Trail Blazers",
+     "start": "2026-11-20T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719716",
+     "sportId": "11",
+     "p1": "Minnesota Timberwolves",
+     "p2": "New York Knicks",
+     "start": "2026-11-20T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273719718",
+     "sportId": "11",
+     "p1": "San Antonio Spurs",
+     "p2": "LA Clippers",
+     "start": "2026-11-20T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
     },
     {
      "id": "id1100152472016900",
@@ -4075,6 +4084,15 @@
      "league": "Liga ABA"
     },
     {
+     "id": "id1103632172319230",
+     "sportId": "11",
+     "p1": "Heroes Den Bosch",
+     "p2": "Brussels Basketball",
+     "start": "2026-11-20T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
      "id": "id1100013873263192",
      "sportId": "11",
      "p1": "BC Olympiakos Piraeus",
@@ -4102,6 +4120,24 @@
      "league": "LNB Elite"
     },
     {
+     "id": "id1103632172319232",
+     "sportId": "11",
+     "p1": "Cb Liege",
+     "p2": "Kortrijk Spurs ",
+     "start": "2026-11-20T19:30:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
+     "id": "id1103632172319234",
+     "sportId": "11",
+     "p1": "Limburg United",
+     "p2": "Okapi Aalst",
+     "start": "2026-11-20T19:30:00.000Z",
+     "sport": "Basketball",
+     "league": "BNXT League"
+    },
+    {
      "id": "id1100013873263196",
      "sportId": "11",
      "p1": "KK Partizan Belgrade",
@@ -4109,6 +4145,33 @@
      "start": "2026-11-20T19:45:00.000Z",
      "sport": "Basketball",
      "league": "Euroleague"
+    },
+    {
+     "id": "id1100152472016904",
+     "sportId": "11",
+     "p1": "Melbourne United",
+     "p2": "New Zealand Breakers",
+     "start": "2026-11-21T08:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBL"
+    },
+    {
+     "id": "id1100051973495552",
+     "sportId": "11",
+     "p1": "Karsiyaka Basket",
+     "p2": "Merkezefendi Belediyesi Denizli Basket",
+     "start": "2026-11-21T10:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
+    },
+    {
+     "id": "id1100051973495546",
+     "sportId": "11",
+     "p1": "Turk Telekom",
+     "p2": "Tofas SK Bursa",
+     "start": "2026-11-21T12:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Super Lig"
     },
     {
      "id": "id1100030474750494",
@@ -4284,62 +4347,8 @@
    ]
   },
   "12": {
-   "fetched": "2026-11-19T03:01:29.519109+00:00",
+   "fetched": "2026-11-19T15:01:33.083579+00:00",
    "items": [
-    {
-     "id": "id1204820376942734",
-     "sportId": "12",
-     "p1": "Kryvonos, Nikita",
-     "p2": "Messina, Julian",
-     "start": "2026-11-19T00:40:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Yokohama Men 06"
-    },
-    {
-     "id": "id1204820376942752",
-     "sportId": "12",
-     "p1": "Maeda, Yu",
-     "p2": "Shibano, Kosuke",
-     "start": "2026-11-19T00:40:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Yokohama Men 06"
-    },
-    {
-     "id": "id1204808876942878",
-     "sportId": "12",
-     "p1": "Namigata, Junri",
-     "p2": "Kinoshita, Neon",
-     "start": "2026-11-19T02:30:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Yokohama Women 05"
-    },
-    {
-     "id": "id1204820376942760",
-     "sportId": "12",
-     "p1": "Sugimoto, Kazuki",
-     "p2": "Hirano, Taiyo",
-     "start": "2026-11-19T03:25:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Yokohama Men 06"
-    },
-    {
-     "id": "id1204820376942758",
-     "sportId": "12",
-     "p1": "Mochizuki, Kotaro",
-     "p2": "Kawanak, Haru",
-     "start": "2026-11-19T04:35:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Yokohama Men 06"
-    },
-    {
-     "id": "id1202140676736432",
-     "sportId": "12",
-     "p1": "Shelton, Ben",
-     "p2": "Jodar, Rafael",
-     "start": "2026-11-19T13:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP World Tour Finals Men Singles"
-    },
     {
      "id": "id1202140676736450",
      "sportId": "12",
@@ -4350,110 +4359,11 @@
      "league": "ATP World Tour Finals Men Singles"
     },
     {
-     "id": "id1200397776684016",
-     "sportId": "12",
-     "p1": "Nefve A / Vance J",
-     "p2": "Hands T / Summers M",
-     "start": "2026-11-19T20:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Champaign, USA Men Doubles"
-    },
-    {
-     "id": "id1204736376942762",
-     "sportId": "12",
-     "p1": "Cortes Campos, Nicolas",
-     "p2": "Poojari, Anish",
-     "start": "2026-11-19T20:00:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1204736376942862",
-     "sportId": "12",
-     "p1": "Kalina, Vit",
-     "p2": "Olar, Jacob",
-     "start": "2026-11-19T20:00:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1204736376942854",
-     "sportId": "12",
-     "p1": "Moreno, Alejandro",
-     "p2": "Sborowsky, Yoshka",
-     "start": "2026-11-19T21:10:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1204736376942856",
-     "sportId": "12",
-     "p1": "Kriznik, Matic",
-     "p2": "Caby, Jules",
-     "start": "2026-11-19T21:10:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1204736376942764",
-     "sportId": "12",
-     "p1": "Accossatto, Juan",
-     "p2": "Hazratwala, Rohan",
-     "start": "2026-11-19T21:30:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1204736376942766",
-     "sportId": "12",
-     "p1": "Freedman, Max",
-     "p2": "Nezar, Damien",
-     "start": "2026-11-19T22:40:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1204736376942768",
-     "sportId": "12",
-     "p1": "Hannig, Braden",
-     "p2": "Achour, Alexandr",
-     "start": "2026-11-19T23:00:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1204736376942860",
-     "sportId": "12",
-     "p1": "Gasimov, Kanan",
-     "p2": "Yerdilda, Yerassyl",
-     "start": "2026-11-19T23:00:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Tuscaloosa Men 02"
-    },
-    {
-     "id": "id1200946376688064",
-     "sportId": "12",
-     "p1": "WQF1",
-     "p2": "Hoeyeraal H / Padgham E",
-     "start": "2026-11-20T00:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Sydney, Australia Men Doubles"
-    },
-    {
-     "id": "id1204820376942750",
-     "sportId": "12",
-     "p1": "Matsumura, Ryotero",
-     "p2": "Motokura, Yakumo",
-     "start": "2026-11-20T02:15:00.000Z",
-     "sport": "Tennis",
-     "league": "UTR PTT Yokohama Men 06"
-    },
-    {
      "id": "id1202140676736454",
      "sportId": "12",
      "p1": "Alcaraz, Carlos",
      "p2": "Cobolli, Flavio",
-     "start": "2026-11-20T11:45:00.000Z",
+     "start": "2026-11-20T13:00:00.000Z",
      "sport": "Tennis",
      "league": "ATP World Tour Finals Men Singles"
     },
@@ -4462,27 +4372,9 @@
      "sportId": "12",
      "p1": "Medvedev, Daniil",
      "p2": "Tiafoe, Frances",
-     "start": "2026-11-20T11:45:00.000Z",
+     "start": "2026-11-20T19:30:00.000Z",
      "sport": "Tennis",
      "league": "ATP World Tour Finals Men Singles"
-    },
-    {
-     "id": "id1200386776694772",
-     "sportId": "12",
-     "p1": "Qf5",
-     "p2": "Boyer, Tristan",
-     "start": "2026-11-20T13:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Montevideo, Uruguay Men Singles"
-    },
-    {
-     "id": "id1201229176683318",
-     "sportId": "12",
-     "p1": "Qf5",
-     "p2": "Chan, Duncan",
-     "start": "2026-11-20T17:00:00.000Z",
-     "sport": "Tennis",
-     "league": "ATP Challenger Drummondville, Canada Men Singles"
     }
    ]
   },
@@ -5388,35 +5280,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-19T03:01:29.519109+00:00",
+   "fetched": "2026-11-19T15:01:33.083579+00:00",
    "items": [
-    {
-     "id": "id2303732975048434",
-     "sportId": "23",
-     "p1": "High Speed Hitters",
-     "p2": "Flying Titans",
-     "start": "2026-11-19T10:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "PVL, Women"
-    },
-    {
-     "id": "id2300058676760532",
-     "sportId": "23",
-     "p1": "Xilasedici VK Baku",
-     "p2": "Volley Ljubljana",
-     "start": "2026-11-19T14:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Champions League"
-    },
-    {
-     "id": "id2300080172917696",
-     "sportId": "23",
-     "p1": "Ordu",
-     "p2": "Foerde VBK",
-     "start": "2026-11-19T14:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "CEV Challenge Cup"
-    },
     {
      "id": "id2300080172917710",
      "sportId": "23",
@@ -5526,6 +5391,51 @@
      "league": "Volley League"
     },
     {
+     "id": "id2300083373951262",
+     "sportId": "23",
+     "p1": "Nice Volley Ball",
+     "p2": "Paris Volley",
+     "start": "2026-11-20T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2300083373951264",
+     "sportId": "23",
+     "p1": "Stade Poitevin Poitiers",
+     "p2": "Arago de Sete",
+     "start": "2026-11-20T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
+     "id": "id2302446473952366",
+     "sportId": "23",
+     "p1": "Rennes Etudiants Club",
+     "p2": "Volley Club de Cambrai",
+     "start": "2026-11-20T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
+    },
+    {
+     "id": "id2302446473952374",
+     "sportId": "23",
+     "p1": "Reims Volley 51",
+     "p2": "Harnes VB",
+     "start": "2026-11-20T18:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue B"
+    },
+    {
+     "id": "id2300083373951266",
+     "sportId": "23",
+     "p1": "AS Cannes Volley-Ball",
+     "p2": "Plessis Robinson",
+     "start": "2026-11-20T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
+    },
+    {
      "id": "id2300051773076850",
      "sportId": "23",
      "p1": "Cuneo Volley",
@@ -5574,8 +5484,6 @@
   }
  },
  "alerted": {
-  "id1100107063682111|winamax.fr|113|115": "2026-11-14T15:01:16.295038+00:00",
-  "id1100015674295742|winamax.fr|113|113": "2026-11-14T15:01:16.295038+00:00",
   "id2302446473952364|winamax.fr|231|231": "2026-11-14T18:01:22.262669+00:00",
   "id1100026473713600|winamax.fr|113|115": "2026-11-14T18:01:22.262669+00:00",
   "id1100152472016894|winamax.fr|113|113": "2026-11-15T01:01:15.846789+00:00",
@@ -5589,6 +5497,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 105
+  "2026-11": 108
  }
 }
