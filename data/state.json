@@ -3919,17 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-23T07:01:22.522194+00:00",
+   "fetched": "2026-11-23T19:01:29.436520+00:00",
    "items": [
-    {
-     "id": "id1101455473113806",
-     "sportId": "11",
-     "p1": "Pas Giannina",
-     "p2": "PAOK Thessaloniki",
-     "start": "2026-11-23T15:00:00.000Z",
-     "sport": "Basketball",
-     "league": "Womens Basketball League 1"
-    },
     {
      "id": "id1100013273719746",
      "sportId": "11",
@@ -4113,7 +4104,7 @@
    ]
   },
   "12": {
-   "fetched": "2026-11-23T07:01:22.522194+00:00",
+   "fetched": "2026-11-23T19:01:29.436520+00:00",
    "items": [
     {
      "id": "id1200210077031490",
@@ -5037,17 +5028,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-23T07:01:22.522194+00:00",
+   "fetched": "2026-11-23T19:01:29.436520+00:00",
    "items": [
-    {
-     "id": "id2300117372775288",
-     "sportId": "23",
-     "p1": "Chemik Police",
-     "p2": "Stal Mielec",
-     "start": "2026-11-23T16:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Liga Siatkowki, Women"
-    },
     {
      "id": "id2300083172764988",
      "sportId": "23",
@@ -5101,6 +5083,78 @@
      "start": "2026-11-24T16:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki"
+    },
+    {
+     "id": "id2300099876500072",
+     "sportId": "23",
+     "p1": "Vbc Chalon Sur Saone",
+     "p2": "Nice Volley Ball",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id2300099876500074",
+     "sportId": "23",
+     "p1": "AS Cannes Volley-Ball",
+     "p2": "Royan Atlantique Volleyball",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id2300099876500076",
+     "sportId": "23",
+     "p1": "Arago de Sete",
+     "p2": "St. Nazaire VB",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id2300099876501212",
+     "sportId": "23",
+     "p1": "Chaumont 52",
+     "p2": "Tourcoing Lille Metropole",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id2300099876501214",
+     "sportId": "23",
+     "p1": "Nancy Volley Maxeville Jarville",
+     "p2": "Stade Poitevin Poitiers",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id2300099876501216",
+     "sportId": "23",
+     "p1": "FL Saint-Quentin Volleyball",
+     "p2": "Tours Volley-Ball",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id2300099876501218",
+     "sportId": "23",
+     "p1": "Rennes Etudiants Club",
+     "p2": "Spacers Toulouse Volley",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
+    },
+    {
+     "id": "id2300099876501220",
+     "sportId": "23",
+     "p1": "Narbonne Volley",
+     "p2": "Montpellier Volley UC",
+     "start": "2026-11-24T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Coupe de France"
     },
     {
      "id": "id2300083172764986",
@@ -5165,6 +5219,6 @@
  },
  "billable": {
   "2026-10": 164,
-  "2026-11": 129
+  "2026-11": 132
  }
 }
