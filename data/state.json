@@ -3919,35 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-24T20:01:25.015975+00:00",
+   "fetched": "2026-11-25T08:01:30.271613+00:00",
    "items": [
-    {
-     "id": "id1100013273697014",
-     "sportId": "11",
-     "p1": "Orlando Magic",
-     "p2": "Detroit Pistons",
-     "start": "2026-11-25T00:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697016",
-     "sportId": "11",
-     "p1": "Washington Wizards",
-     "p2": "Boston Celtics",
-     "start": "2026-11-25T01:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697018",
-     "sportId": "11",
-     "p1": "Denver Nuggets",
-     "p2": "Dallas Mavericks",
-     "start": "2026-11-25T03:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
     {
      "id": "id1100013873263210",
      "sportId": "11",
@@ -3972,6 +3945,15 @@
      "p1": "SBS Ostrava",
      "p2": "Stars Keltern",
      "start": "2026-11-25T16:15:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214412",
+     "sportId": "11",
+     "p1": "Olympiakos Pireaus",
+     "p2": "Sleza Wroclaw",
+     "start": "2026-11-25T16:30:00.000Z",
      "sport": "Basketball",
      "league": "Eurocup, Women"
     },
@@ -4012,6 +3994,60 @@
      "league": "Euroleague Women"
     },
     {
+     "id": "id1101503775211650",
+     "sportId": "11",
+     "p1": "BK Zabiny Brno",
+     "p2": "HBA-Marsky",
+     "start": "2026-11-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214202",
+     "sportId": "11",
+     "p1": "Besiktas JK",
+     "p2": "DSK Basketball",
+     "start": "2026-11-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214384",
+     "sportId": "11",
+     "p1": "DVTK Miskolc",
+     "p2": "ZKK Brod Na Savi",
+     "start": "2026-11-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214478",
+     "sportId": "11",
+     "p1": "KP Brno",
+     "p2": "ZKK Celje",
+     "start": "2026-11-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214896",
+     "sportId": "11",
+     "p1": "Sopron Basket",
+     "p2": "Saarlouis Royals",
+     "start": "2026-11-25T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214518",
+     "sportId": "11",
+     "p1": "AZS Poznan",
+     "p2": "Derthona Basket",
+     "start": "2026-11-25T17:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
      "id": "id1100116775003942",
      "sportId": "11",
      "p1": "ZVVZ USK Prague",
@@ -4039,6 +4075,33 @@
      "league": "A1 Women"
     },
     {
+     "id": "id1101503775214252",
+     "sportId": "11",
+     "p1": "Royal Castors Braine",
+     "p2": "Alba Berlin",
+     "start": "2026-11-25T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214386",
+     "sportId": "11",
+     "p1": "Panathlitikos SF Sykeon",
+     "p2": "Cb Jairis",
+     "start": "2026-11-25T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214520",
+     "sportId": "11",
+     "p1": "Elfic Fribourg",
+     "p2": "Landerneau Bretagne Basket",
+     "start": "2026-11-25T18:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
      "id": "id1100116775003902",
      "sportId": "11",
      "p1": "Basket Zaragoza 2002",
@@ -4046,6 +4109,33 @@
      "start": "2026-11-25T19:00:00.000Z",
      "sport": "Basketball",
      "league": "Euroleague Women"
+    },
+    {
+     "id": "id1101503775211652",
+     "sportId": "11",
+     "p1": "Charnay Basket Bourgogne Sud",
+     "p2": "AEL",
+     "start": "2026-11-25T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214204",
+     "sportId": "11",
+     "p1": "Maccabi Ashdod",
+     "p2": "ESB Villeneuve d´Ascq",
+     "start": "2026-11-25T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214744",
+     "sportId": "11",
+     "p1": "Uni Girona Cb",
+     "p2": "Montana 2003",
+     "start": "2026-11-25T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
     },
     {
      "id": "id1100013873263212",
@@ -4066,6 +4156,24 @@
      "league": "Euroleague"
     },
     {
+     "id": "id1101503775214480",
+     "sportId": "11",
+     "p1": "Magnolia Basket",
+     "p2": "Nyon Basket",
+     "start": "2026-11-25T19:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214858",
+     "sportId": "11",
+     "p1": "CB Avenida Salamanca",
+     "p2": "C Chartres Basket Feminin",
+     "start": "2026-11-25T19:30:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
      "id": "id1100013873263216",
      "sportId": "11",
      "p1": "Real Madrid",
@@ -4080,6 +4188,15 @@
      "p1": "Philadelphia 76ers",
      "p2": "Miami Heat",
      "start": "2026-11-25T22:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273697028",
+     "sportId": "11",
+     "p1": "Charlotte Hornets",
+     "p2": "Chicago Bulls",
+     "start": "2026-11-26T00:00:00.000Z",
      "sport": "Basketball",
      "league": "NBA"
     },
@@ -4102,6 +4219,24 @@
      "league": "NBA"
     },
     {
+     "id": "id1100013273697030",
+     "sportId": "11",
+     "p1": "Milwaukee Bucks",
+     "p2": "Brooklyn Nets",
+     "start": "2026-11-26T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273697032",
+     "sportId": "11",
+     "p1": "Memphis Grizzlies",
+     "p2": "LA Clippers",
+     "start": "2026-11-26T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
      "id": "id1100013273697034",
      "sportId": "11",
      "p1": "Houston Rockets",
@@ -4111,6 +4246,33 @@
      "league": "NBA"
     },
     {
+     "id": "id1100013273697036",
+     "sportId": "11",
+     "p1": "Portland Trail Blazers",
+     "p2": "San Antonio Spurs",
+     "start": "2026-11-26T03:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273697038",
+     "sportId": "11",
+     "p1": "Golden State Warriors",
+     "p2": "Sacramento Kings",
+     "start": "2026-11-26T03:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1101688272643942",
+     "sportId": "11",
+     "p1": "Lithuania",
+     "p2": "Serbia",
+     "start": "2026-11-26T16:30:00.000Z",
+     "sport": "Basketball",
+     "league": "World Cup Qualification, Europe"
+    },
+    {
      "id": "id1101688272643908",
      "sportId": "11",
      "p1": "Greece",
@@ -4118,21 +4280,21 @@
      "start": "2026-11-26T18:00:00.000Z",
      "sport": "Basketball",
      "league": "World Cup Qualification, Europe"
+    },
+    {
+     "id": "id1101688272643940",
+     "sportId": "11",
+     "p1": "Italy",
+     "p2": "Turkiye",
+     "start": "2026-11-26T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "World Cup Qualification, Europe"
     }
    ]
   },
   "12": {
-   "fetched": "2026-11-24T20:01:25.015975+00:00",
+   "fetched": "2026-11-25T08:01:30.271613+00:00",
    "items": [
-    {
-     "id": "id1200210077031490",
-     "sportId": "12",
-     "p1": "Czechia",
-     "p2": "Canada",
-     "start": "2026-11-24T15:00:00.000Z",
-     "sport": "Tennis",
-     "league": "Davis Cup"
-    },
     {
      "id": "id1200210077031486",
      "sportId": "12",
@@ -5064,89 +5226,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-24T20:01:25.015975+00:00",
+   "fetched": "2026-11-25T08:01:30.271613+00:00",
    "items": [
-    {
-     "id": "id2300099876500076",
-     "sportId": "23",
-     "p1": "Arago de Sete",
-     "p2": "St. Nazaire VB",
-     "start": "2026-11-24T18:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id2300099876500074",
-     "sportId": "23",
-     "p1": "AS Cannes Volley-Ball",
-     "p2": "Royan Atlantique Volleyball",
-     "start": "2026-11-24T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id2300099876501212",
-     "sportId": "23",
-     "p1": "Chaumont 52",
-     "p2": "Tourcoing Lille Metropole",
-     "start": "2026-11-24T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id2300099876501214",
-     "sportId": "23",
-     "p1": "Nancy Volley Maxeville Jarville",
-     "p2": "Stade Poitevin Poitiers",
-     "start": "2026-11-24T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id2300099876501216",
-     "sportId": "23",
-     "p1": "FL Saint-Quentin Volleyball",
-     "p2": "Tours Volley-Ball",
-     "start": "2026-11-24T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id2300099876501218",
-     "sportId": "23",
-     "p1": "Rennes Etudiants Club",
-     "p2": "Spacers Toulouse Volley",
-     "start": "2026-11-24T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id2300099876501220",
-     "sportId": "23",
-     "p1": "Narbonne Volley",
-     "p2": "Montpellier HSC VB",
-     "start": "2026-11-24T19:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Coupe de France"
-    },
-    {
-     "id": "id2300146875360816",
-     "sportId": "23",
-     "p1": "Brasilia Volei",
-     "p2": "EC Pinheiros",
-     "start": "2026-11-24T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2300146875360818",
-     "sportId": "23",
-     "p1": "Praia Clube",
-     "p2": "Fluminense RJ",
-     "start": "2026-11-25T00:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
     {
      "id": "id2300058776729488",
      "sportId": "23",
@@ -5238,6 +5319,15 @@
      "league": "CEV Cup, Women"
     },
     {
+     "id": "id2300058776729482",
+     "sportId": "23",
+     "p1": "Pallavolo Scandicci",
+     "p2": "Turan VC Tovuz",
+     "start": "2026-11-25T17:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Champions League, Women"
+    },
+    {
      "id": "id2300058775554682",
      "sportId": "23",
      "p1": "VfB Suhl Thuringia",
@@ -5252,6 +5342,15 @@
      "p1": "HAOK Mladost Zagreb",
      "p2": "CS Dinamo Bucuresti",
      "start": "2026-11-25T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Cup, Women"
+    },
+    {
+     "id": "id2300080776250806",
+     "sportId": "23",
+     "p1": "CAV Esquimo Andalucia",
+     "p2": "NUC Volleyball",
+     "start": "2026-11-25T18:30:00.000Z",
      "sport": "Volleyball",
      "league": "CEV Cup, Women"
     },
@@ -5351,6 +5450,6 @@
  "alerted": {},
  "billable": {
   "2026-10": 164,
-  "2026-11": 138
+  "2026-11": 141
  }
 }
