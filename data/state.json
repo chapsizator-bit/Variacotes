@@ -3919,88 +3919,25 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-25T21:01:31.097447+00:00",
+   "fetched": "2026-11-26T09:39:00.035042+00:00",
    "items": [
     {
-     "id": "id1100013273697026",
+     "id": "id1101778872641294",
      "sportId": "11",
-     "p1": "Philadelphia 76ers",
-     "p2": "Miami Heat",
-     "start": "2026-11-25T22:00:00.000Z",
+     "p1": "Saudi Arabia",
+     "p2": "China",
+     "start": "2026-11-26T13:00:00.000Z",
      "sport": "Basketball",
-     "league": "NBA"
+     "league": "World Cup Qualification, Asia & Oceania"
     },
     {
-     "id": "id1100013273697028",
+     "id": "id1101778872641292",
      "sportId": "11",
-     "p1": "Charlotte Hornets",
-     "p2": "Chicago Bulls",
-     "start": "2026-11-26T00:00:00.000Z",
+     "p1": "Qatar",
+     "p2": "Republic of Korea",
+     "start": "2026-11-26T16:00:00.000Z",
      "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697056",
-     "sportId": "11",
-     "p1": "Oklahoma City Thunder",
-     "p2": "Minnesota Timberwolves",
-     "start": "2026-11-26T00:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697058",
-     "sportId": "11",
-     "p1": "New York Knicks",
-     "p2": "Cleveland Cavaliers",
-     "start": "2026-11-26T00:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697030",
-     "sportId": "11",
-     "p1": "Milwaukee Bucks",
-     "p2": "Brooklyn Nets",
-     "start": "2026-11-26T01:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697032",
-     "sportId": "11",
-     "p1": "Memphis Grizzlies",
-     "p2": "LA Clippers",
-     "start": "2026-11-26T01:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697034",
-     "sportId": "11",
-     "p1": "Houston Rockets",
-     "p2": "Phoenix Suns",
-     "start": "2026-11-26T01:30:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697036",
-     "sportId": "11",
-     "p1": "Portland Trail Blazers",
-     "p2": "San Antonio Spurs",
-     "start": "2026-11-26T03:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
-    },
-    {
-     "id": "id1100013273697038",
-     "sportId": "11",
-     "p1": "Golden State Warriors",
-     "p2": "Sacramento Kings",
-     "start": "2026-11-26T03:00:00.000Z",
-     "sport": "Basketball",
-     "league": "NBA"
+     "league": "World Cup Qualification, Asia & Oceania"
     },
     {
      "id": "id1101503775214254",
@@ -4019,6 +3956,15 @@
      "start": "2026-11-26T16:30:00.000Z",
      "sport": "Basketball",
      "league": "World Cup Qualification, Europe"
+    },
+    {
+     "id": "id1100066273301258",
+     "sportId": "11",
+     "p1": "Bulgaria",
+     "p2": "Denmark",
+     "start": "2026-11-26T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "EuroBasket, Qualification"
     },
     {
      "id": "id1100066273301260",
@@ -4043,6 +3989,15 @@
      "sportId": "11",
      "p1": "CBK Mersin",
      "p2": "Univ. de Ferrol",
+     "start": "2026-11-26T17:00:00.000Z",
+     "sport": "Basketball",
+     "league": "Eurocup, Women"
+    },
+    {
+     "id": "id1101503775214444",
+     "sportId": "11",
+     "p1": "TTT Riga",
+     "p2": "CSU Cluj-Napoca",
      "start": "2026-11-26T17:00:00.000Z",
      "sport": "Basketball",
      "league": "Eurocup, Women"
@@ -4109,6 +4064,15 @@
      "start": "2026-11-26T19:00:00.000Z",
      "sport": "Basketball",
      "league": "World Cup Qualification, Europe"
+    },
+    {
+     "id": "id1101778872641290",
+     "sportId": "11",
+     "p1": "Lebanon",
+     "p2": "Japan",
+     "start": "2026-11-26T19:00:00.000Z",
+     "sport": "Basketball",
+     "league": "World Cup Qualification, Asia & Oceania"
     },
     {
      "id": "id1101503775214860",
@@ -4208,21 +4172,57 @@
      "start": "2026-11-27T19:45:00.000Z",
      "sport": "Basketball",
      "league": "World Cup Qualification, Europe"
+    },
+    {
+     "id": "id1100013273697040",
+     "sportId": "11",
+     "p1": "New York Knicks",
+     "p2": "Miami Heat",
+     "start": "2026-11-28T00:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273697062",
+     "sportId": "11",
+     "p1": "Indiana Pacers",
+     "p2": "Philadelphia 76ers",
+     "start": "2026-11-28T00:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273697042",
+     "sportId": "11",
+     "p1": "Boston Celtics",
+     "p2": "Atlanta Hawks",
+     "start": "2026-11-28T01:00:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273697048",
+     "sportId": "11",
+     "p1": "San Antonio Spurs",
+     "p2": "Los Angeles Lakers",
+     "start": "2026-11-28T02:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
+    },
+    {
+     "id": "id1100013273697050",
+     "sportId": "11",
+     "p1": "Utah Jazz",
+     "p2": "Denver Nuggets",
+     "start": "2026-11-28T02:30:00.000Z",
+     "sport": "Basketball",
+     "league": "NBA"
     }
    ]
   },
   "12": {
-   "fetched": "2026-11-25T21:01:31.097447+00:00",
+   "fetched": "2026-11-26T09:39:00.035042+00:00",
    "items": [
-    {
-     "id": "id1200210077031486",
-     "sportId": "12",
-     "p1": "Italy",
-     "p2": "Republic of Korea",
-     "start": "2026-11-25T15:00:00.000Z",
-     "sport": "Tennis",
-     "league": "Davis Cup"
-    },
     {
      "id": "id1200210077031496",
      "sportId": "12",
@@ -4238,6 +4238,15 @@
      "p1": "Austria",
      "p2": "Spain",
      "start": "2026-11-26T16:00:00.000Z",
+     "sport": "Tennis",
+     "league": "Davis Cup"
+    },
+    {
+     "id": "id1200210077189342",
+     "sportId": "12",
+     "p1": "Italy",
+     "p2": "Czechia",
+     "start": "2026-11-27T15:00:00.000Z",
      "sport": "Tennis",
      "league": "Davis Cup"
     }
@@ -5145,35 +5154,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-25T21:01:31.097447+00:00",
+   "fetched": "2026-11-26T09:39:00.035042+00:00",
    "items": [
-    {
-     "id": "id2300146875360820",
-     "sportId": "23",
-     "p1": "Barueri VC",
-     "p2": "Mackenzie EC MG",
-     "start": "2026-11-25T21:30:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga, Women"
-    },
-    {
-     "id": "id2300145275360714",
-     "sportId": "23",
-     "p1": "Montes Claros",
-     "p2": "Volei Renata",
-     "start": "2026-11-25T22:00:00.000Z",
-     "sport": "Volleyball",
-     "league": "Superliga"
-    },
-    {
-     "id": "id2304409972780586",
-     "sportId": "23",
-     "p1": "Osaka Blazers Sakai",
-     "p2": "Tokyo Great Bears",
-     "start": "2026-11-26T09:35:00.000Z",
-     "sport": "Volleyball",
-     "league": "SV League"
-    },
     {
      "id": "id2300058775554184",
      "sportId": "23",
@@ -5184,6 +5166,15 @@
      "league": "CEV Champions League, Women"
     },
     {
+     "id": "id2300080276508458",
+     "sportId": "23",
+     "p1": "Apollo 8",
+     "p2": "Olympiacos Piraeus",
+     "start": "2026-11-26T18:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "CEV Challenge Cup, Women"
+    },
+    {
      "id": "id2300058676760536",
      "sportId": "23",
      "p1": "Volley Ljubljana",
@@ -5191,6 +5182,15 @@
      "start": "2026-11-26T19:00:00.000Z",
      "sport": "Volleyball",
      "league": "Champions League"
+    },
+    {
+     "id": "id2300083373951288",
+     "sportId": "23",
+     "p1": "Tours Volley-Ball",
+     "p2": "Montpellier Volley UC",
+     "start": "2026-11-26T19:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Ligue A"
     },
     {
      "id": "id2300051773076888",
@@ -5225,6 +5225,6 @@
  "alerted": {},
  "billable": {
   "2026-10": 164,
-  "2026-11": 144
+  "2026-11": 147
  }
 }
