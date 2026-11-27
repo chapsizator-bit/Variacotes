@@ -3919,53 +3919,8 @@
    ]
   },
   "11": {
-   "fetched": "2026-11-26T22:01:19.973486+00:00",
+   "fetched": "2026-11-27T10:01:25.137799+00:00",
    "items": [
-    {
-     "id": "id1101732473311930",
-     "sportId": "11",
-     "p1": "Uruguay",
-     "p2": "Canada",
-     "start": "2026-11-26T22:10:00.000Z",
-     "sport": "Basketball",
-     "league": "World Cup Qualification, Americas"
-    },
-    {
-     "id": "id1101732473311932",
-     "sportId": "11",
-     "p1": "Argentina",
-     "p2": "Bahamas",
-     "start": "2026-11-27T00:40:00.000Z",
-     "sport": "Basketball",
-     "league": "World Cup Qualification, Americas"
-    },
-    {
-     "id": "id1101732473311934",
-     "sportId": "11",
-     "p1": "Panama",
-     "p2": "Puerto Rico",
-     "start": "2026-11-27T01:40:00.000Z",
-     "sport": "Basketball",
-     "league": "World Cup Qualification, Americas"
-    },
-    {
-     "id": "id1101778872641062",
-     "sportId": "11",
-     "p1": "Jordan",
-     "p2": "New Zealand",
-     "start": "2026-11-27T06:00:00.000Z",
-     "sport": "Basketball",
-     "league": "World Cup Qualification, Asia & Oceania"
-    },
-    {
-     "id": "id1101778872641060",
-     "sportId": "11",
-     "p1": "Iran",
-     "p2": "Australia",
-     "start": "2026-11-27T09:00:00.000Z",
-     "sport": "Basketball",
-     "league": "World Cup Qualification, Asia & Oceania"
-    },
     {
      "id": "id1101778872641064",
      "sportId": "11",
@@ -4102,6 +4057,15 @@
      "league": "NBA"
     },
     {
+     "id": "id1101732473311896",
+     "sportId": "11",
+     "p1": "Colombia",
+     "p2": "Dominican Republic",
+     "start": "2026-11-28T01:10:00.000Z",
+     "sport": "Basketball",
+     "league": "World Cup Qualification, Americas"
+    },
+    {
      "id": "id1100013273697044",
      "sportId": "11",
      "p1": "Minnesota Timberwolves",
@@ -4158,7 +4122,7 @@
    ]
   },
   "12": {
-   "fetched": "2026-11-26T22:01:19.973486+00:00",
+   "fetched": "2026-11-27T10:01:25.137799+00:00",
    "items": [
     {
      "id": "id1200210077189342",
@@ -4166,6 +4130,15 @@
      "p1": "Italy",
      "p2": "Czechia",
      "start": "2026-11-27T15:00:00.000Z",
+     "sport": "Tennis",
+     "league": "Davis Cup"
+    },
+    {
+     "id": "id1200210077225736",
+     "sportId": "12",
+     "p1": "Great Britain",
+     "p2": "Spain",
+     "start": "2026-11-28T11:00:00.000Z",
      "sport": "Tennis",
      "league": "Davis Cup"
     }
@@ -5073,17 +5046,8 @@
    ]
   },
   "23": {
-   "fetched": "2026-11-26T22:01:19.973486+00:00",
+   "fetched": "2026-11-27T10:01:25.137799+00:00",
    "items": [
-    {
-     "id": "id2304409972780588",
-     "sportId": "23",
-     "p1": "Osaka Blazers Sakai",
-     "p2": "Tokyo Great Bears",
-     "start": "2026-11-27T09:35:00.000Z",
-     "sport": "Volleyball",
-     "league": "SV League"
-    },
     {
      "id": "id2300117372775306",
      "sportId": "23",
@@ -5092,6 +5056,15 @@
      "start": "2026-11-27T16:30:00.000Z",
      "sport": "Volleyball",
      "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300050072525070",
+     "sportId": "23",
+     "p1": "SSC Schwerin",
+     "p2": "Skurios Volleys Borken",
+     "start": "2026-11-27T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "1. Bundesliga, Women"
     },
     {
      "id": "id2300060374512722",
@@ -5227,6 +5200,24 @@
      "start": "2026-11-29T00:00:00.000Z",
      "sport": "Volleyball",
      "league": "Superliga"
+    },
+    {
+     "id": "id2300117372775304",
+     "sportId": "23",
+     "p1": "Radomka Radom",
+     "p2": "Uni Opole",
+     "start": "2026-11-29T17:00:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
+    },
+    {
+     "id": "id2300117372775302",
+     "sportId": "23",
+     "p1": "KS Rzeszow",
+     "p2": "KS Palac Bydgoszcz",
+     "start": "2026-11-29T19:30:00.000Z",
+     "sport": "Volleyball",
+     "league": "Liga Siatkowki, Women"
     }
    ]
   }
@@ -5234,6 +5225,6 @@
  "alerted": {},
  "billable": {
   "2026-10": 164,
-  "2026-11": 150
+  "2026-11": 153
  }
 }
